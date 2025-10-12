@@ -87,6 +87,11 @@ Student's answers:
 | Put Option Risk Profile | Low → RESOLVED | Initially misunderstood max loss calculation; now corrected |
 | Nondiscrimination Testing Formulas | High → RESOLVED | Didn't remember formulas but calculated perfectly once shown the structure |
 | Life Insurance Payable to Estate | Medium → RESOLVED | Didn't understand concept; now understands it goes through probate vs. person beneficiary |
+| QCD Tax Treatment | Low → RESOLVED | Initially thought "no benefit" but now understands exclusion from income is the key advantage |
+| Long-Term Capital Gains Tax Rates | High → RESOLVED | Forgot preferential rates (15% for 24% bracket); applied ordinary rate instead |
+| Tax Doctrines (Step Transaction, etc.) | High → RESOLVED | No prior knowledge; now understands all four major doctrines |
+| Business Start-Up & Depreciation Rules | High → NEEDS REVIEW | Complex topic introduced when tired; needs dedicated review session |
+| Passive Activity Loss Rules | Medium → RESOLVED | Understood once explained; key learning = release on disposition |
 
 ---
 
@@ -112,6 +117,12 @@ Student's answers:
 | Probate vs Non-Probate Assets | High | Understands what goes through probate and what avoids it |
 | Life Insurance Beneficiary Options | High | Person vs. Estate designation and probate implications |
 | Estate Liquidity Planning | High | Understands why life insurance payable to estate can be strategic |
+| QCD Rules and Benefits | High | Age 70½ eligibility, excludes from income (not just deduction), counts toward RMD |
+| Capital Gains/Losses Netting | High | Perfect execution of netting order and character determination |
+| LTCG Tax Rates by Bracket | High | 0%/15%/20% based on ordinary bracket (corrected from applying ordinary rates) |
+| Tax Doctrines | High | Step transaction, constructive receipt, assignment of income, tax-deferred exchange |
+| Passive Loss Disposition Rule | High | All suspended losses released when property sold in taxable transaction |
+| Passive Loss AGI Phase-Out | High | $25k exception phases out $100k-$150k; $0 if AGI > $150k |
 
 ---
 
@@ -166,6 +177,23 @@ Student's answers:
 - **JTWROS (Joint Tenancy with Right of Survivorship)**: Passes automatically to surviving owner, avoids probate
 - **Tenants in Common**: Your share goes through probate (no automatic transfer to co-owner)
 
+**Tax Planning:**
+- **QCD (Qualified Charitable Distribution)**: Direct IRA → charity transfer, age 70½+, excludes from income (better than withdrawal + deduction)
+- **Capital Gains Tax Rates**: ST = ordinary rates; LT = 0%/15%/20% based on bracket
+- **Capital Loss Netting**: Net ST, net LT, then net together; result keeps character of larger category
+- **Tax Doctrines**:
+  - Step Transaction: IRS collapses pre-planned multiple steps into one transaction
+  - Constructive Receipt: Income taxable when available, even if not received
+  - Assignment of Income: Income taxed to earner, can't avoid by assigning
+  - Tax-Deferred Exchange: 1031 like-kind exchanges
+- **Passive Activity Losses**:
+  - Rental losses = passive; can only offset passive income
+  - Exception: Active participants can deduct $25k (phases out $100k-$150k AGI)
+  - Disposition rule: ALL suspended losses released when property sold
+- **Business Start-Up Costs**: $5k deductible Year 1, excess amortized over 15 years
+- **Section 179**: Expense entire equipment cost in Year 1 (subject to limits)
+- **Mid-Quarter Convention**: Required if >40% of equipment purchased in Q4
+
 ---
 
 ## Action Items for Next Session
@@ -201,6 +229,14 @@ Student's answers:
 - [ ] Review: Different types of property ownership (JTWROS, tenants in common, community property, tenancy by entirety)
 - [ ] Review: Gross estate vs probate estate (for estate tax purposes)
 - [ ] Practice: Estate liquidity planning strategies
+
+**Tax Planning:**
+- [ ] Review: QCD rules, RMD rules, and strategic uses
+- [ ] Practice: More capital gains/losses netting problems
+- [ ] Memorize: LTCG tax rates by ordinary bracket (0%, 15%, 20%)
+- [ ] Review: All four tax doctrines with examples
+- [ ] Practice: Passive activity loss scenarios (holding vs selling)
+- [ ] **PRIORITY**: Business taxation (Section 179, MACRS, depreciation, start-up costs) - needs dedicated review session
 
 ---
 
@@ -428,6 +464,206 @@ Average Benefits check:
 **Understanding Level**: GOOD - Student understood the concept once explained. The confusion was about the practical application of naming estate as beneficiary, not the probate mechanics.
 
 **Key Insight**: Student asked excellent practical question: "Who does that for what?" Shows desire to understand real-world application, not just memorize rules.
+
+---
+
+### Question 7: Qualified Charitable Distributions (QCD) Eligibility Age
+
+**Student's Question**: Client turned 70, when first eligible for QCD? Options: Immediately, After 70.5, At 72, Once starting RMDs
+
+**Student's Answer**: After 70.5 ✓ CORRECT
+
+**Initial Understanding**:
+- Some confusion about QCD concept and tax treatment
+- Thought: "Move money from IRA to charity, no tax, no deduction - just move money"
+- Wasn't sure about the benefit/advantage
+- Understood age requirement is 70.5
+
+**Explanation Given**:
+
+**Normal IRA Withdrawal + Donation:**
+- Withdraw $10k from IRA → Pay income tax
+- Donate $10k to charity → Get charitable deduction
+- Net: They cancel out (if itemize)
+
+**QCD (Better Way):**
+- Money goes directly IRA → Charity
+- **Does NOT show up as taxable income** (key benefit!)
+- No charitable deduction (don't need it - already excluded from income)
+- Benefits: Lower AGI, avoid Medicare surcharges, works with standard deduction, counts toward RMD
+
+**Key Rules:**
+- QCD eligibility: Age 70½
+- RMD starts: Age 73 (or 75 for born 1960+)
+- Can do QCDs BEFORE RMDs are required
+- QCD annual limit: $105,000 (2024)
+
+**Age 70½ Calculation:**
+- 70 years + 6 months
+- Example: Born Jan 15, 1955 → Turn 70 Jan 15, 2025 → QCD eligible July 15, 2025
+
+**Comprehension Check:**
+"Why is QCD better than withdraw + donate?"
+- Student's answer: "It doesn't count as income" ✓ CORRECT
+
+**Understanding Level**: GOOD - Initially confused about tax treatment but quickly grasped the AGI benefit once explained.
+
+---
+
+### Question 8: Capital Gains/Losses Netting and Tax Calculation
+
+**Student's Question**: Client has ST gains $500, ST losses $800, LT gains $1,500, LT losses $800. In 24% bracket. What's tax liability?
+
+**Student's Answer**: Not specified, but calculated $400 × 24% = $96 (INCORRECT)
+**Correct Answer**: B) $60
+
+**Initial Understanding**:
+- **EXCELLENT netting calculation**:
+  - ST: $500 - $800 = -$300 loss ✓
+  - LT: $1,500 - $800 = $700 gain ✓
+  - Combined: -$300 + $700 = $400 long-term gain ✓
+- Understood result keeps long-term character ✓
+- **ERROR**: Applied 24% ordinary rate to long-term gain
+- Calculation: $400 × 24% = $96 ✗
+
+**Explanation Given**:
+
+**Tax Rate Rules:**
+- Short-term capital gains = Ordinary income tax rates
+- Long-term capital gains = Preferential rates: 0%, 15%, or 20%
+
+**LTCG Tax Brackets (2024, Single):**
+- 10%, 12% ordinary bracket → 0% LTCG
+- 22%, 24%, 32%, 35% ordinary bracket → **15% LTCG**
+- 37% ordinary bracket → 20% LTCG
+
+**Correct Calculation:**
+- $400 (long-term gain) × 15% = $60
+
+**Comprehension Check:**
+"If the final result was $400 short-term gain, what would tax be?"
+- Student's answer: "24%" ✓ CORRECT (would be $96)
+
+**Understanding Level**: EXCELLENT on netting mechanics, but forgot the preferential rate for LTCG. Corrected immediately when reminded.
+
+**Key Gap**: Didn't recall that long-term capital gains get preferential rates (15% for 24% bracket, not 24%).
+
+---
+
+### Question 9: Tax Doctrines - Step Transaction
+
+**Student's Question**: "A series of intermediate transactions may be collapsed and treated as a single transaction" - which doctrine?
+
+**Student's Answer**: Step transaction ✓ CORRECT
+
+**Initial Understanding**:
+- No knowledge of any of these tax doctrines
+- Didn't understand what "collapsing transactions" meant
+- Knew tax-deferred exchange (1031) but not the others
+
+**Explanation Given**:
+
+**Four Tax Doctrines:**
+1. **Step Transaction Doctrine**: IRS collapses multiple pre-planned steps into one transaction based on economic substance
+2. **Constructive Receipt**: Income is taxable when available, even if not physically received
+3. **Tax-Deferred Exchange**: 1031 like-kind exchanges (legitimate tax benefit)
+4. **Assignment of Income**: Income taxed to earner, can't avoid by assigning to someone else
+
+**Example of Step Transaction:**
+- Dad sells stock to friend for $100k
+- Friend gives daughter $100k as gift
+- Daughter buys stock from friend
+- IRS: "This is really just Dad gifting to daughter" (collapses all steps)
+
+**Understanding Level**: EXCELLENT - Went from zero knowledge to correctly identifying the doctrine after examples.
+
+---
+
+### Question 10: Business Start-Up & Depreciation (Section 179, MACRS, Mid-Quarter Convention)
+
+**Student's Question**: Bakery opened November, bought $60k equipment, $5k legal fees. Which statement is correct?
+
+**Student's Answer**: Not specified - student felt overwhelmed by complexity
+
+**Initial Understanding**:
+- "Too many things, don't know how to start"
+- Unfamiliar with: Mid-quarter convention, Section 179, start-up cost rules, Section 1245 recapture
+
+**Explanation Given** (High-level overview):
+
+**Key Concepts:**
+1. **Start-up costs**: $5k deductible Year 1, excess amortized over 15 years
+2. **Section 179**: Expense entire equipment cost in Year 1 (vs. spreading depreciation)
+3. **Mid-quarter convention**: If >40% equipment purchased in Q4, must use mid-quarter for MACRS
+4. **Section 1245 recapture**: Depreciation/179 deductions recaptured as ordinary income on sale
+
+**Correct Answer**: A) Must use mid-quarter convention (100% purchased in Q4 > 40% threshold)
+
+**Understanding Level**: PARTIAL - Student was tired and concepts were complex. Provided overview but didn't verify comprehension.
+
+**Note**: This topic needs more review when student is fresh - business taxation is a significant exam area.
+
+---
+
+### Question 11: Passive Activity Loss Rules - Disposition/Sale
+
+**Student's Question**: Rental property sold in current year. Current year loss $7k, prior suspended losses $29k. AGI $300k. What's deductible?
+
+**Student's Answer**: Not initially specified
+
+**Correct Answer**: D) $36,000 (all suspended losses released)
+
+**Initial Understanding**:
+- Knew about passive loss rules and $25k exception for active participation
+- Knew it depends on income level (lower income needed)
+- Didn't remember specific AGI thresholds
+- Confused about what happens when property is sold
+- Didn't know about "unallowed passive losses" being released
+
+**Explanation Given**:
+
+**Normal Passive Loss Rules (While Owning):**
+- Rental losses = passive losses (can only offset passive income)
+- Exception: Active participants can deduct up to $25k against ordinary income
+- AGI phase-out: $100k-$150k
+- AGI > $150k → $0 deduction allowed (losses suspended)
+
+**Disposition Rule (When Selling):**
+- When you SELL passive activity in fully taxable transaction
+- ALL suspended passive losses are RELEASED and become deductible
+- "Dam breaks" - all accumulated losses flood out
+
+**This Problem:**
+- Prior suspended: $29,000
+- Current year: $7,000 (also suspended due to high AGI)
+- Property SOLD → Release all: $29k + $7k = $36,000 deductible
+
+**Comprehension Check:**
+"If property NOT sold this year, how much deductible?"
+- Student's answer: "$0" ✓ CORRECT (all $36k would remain suspended)
+
+**Understanding Level**: GOOD - Understood the concept once explained. The "release on disposition" rule was new but made sense.
+
+---
+
+## Summary Statistics
+
+**Session Duration**: ~2-3 hours
+**Questions Covered**: 11 questions
+**Topics**: Retirement accounts, investments, estate planning, taxation
+**Performance**: Strong understanding once concepts explained; excellent at applying formulas
+
+**Student Strengths**:
+- Quick learner with strong logical thinking
+- Excellent at calculations once formula is understood
+- Asks clarifying questions to understand practical application
+- Good at identifying when tired/overwhelmed
+
+**Areas for Review**:
+- Business taxation (Section 179, MACRS, depreciation)
+- Passive activity loss rules
+- Tax doctrine principles (now learned)
+- LTCG tax rates (now corrected)
 
 ---
 
