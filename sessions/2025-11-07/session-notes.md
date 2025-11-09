@@ -439,3 +439,142 @@
 **Score**: 6/7 correct (86%) - but the kiddie tax error is CRITICAL for exam
 
 **Next**: Continue with more issues from tracker
+
+---
+
+## Professional Conduct Domain - Complete (A.1-A.6)
+
+**ALL 6 TOPICS COMPLETED IN ONE SESSION!** 🎉
+
+### A.1 CFP Board Code of Ethics ✅
+
+**6 Principles (I CODEF)**:
+- Integrity, Competence, Objectivity, Diligence, Fairness, Professionalism
+
+**Key Points Mastered**:
+- Fiduciary duty applies when providing financial advice or planning (not at all times)
+- CE requirement: 30 hours every 2 years (including 2 hours ethics)
+- Must report criminal charges, bankruptcy within 30 days
+- Fee-only vs fee-based distinction
+
+**Practice Question**: Student correctly identified fiduciary duty applies when providing advice/planning (not at all times)
+
+### A.2 CFP Board Procedural Rules ✅
+
+**Disciplinary Process**:
+- Investigation → Possible outcomes (dismiss, censure, suspension, revocation)
+- 30-day reporting requirement (critical!)
+- Must cooperate with investigations
+- Preponderance of evidence standard
+
+**Key Points Mastered**:
+- Report CHARGES (not just convictions) within 30 days
+- Bankruptcy within 3 years = presumed violation
+- Felony conviction = automatic bar
+- Failure to cooperate = separate violation
+
+**Practice Question**: Student correctly identified 30-day reporting for criminal charges
+
+### A.3 Financial Institutions ✅
+
+**FDIC Insurance Rules**:
+- $250,000 per depositor, per bank, per ownership category
+- Ownership categories: Individual, Joint, Retirement, Revocable Trust, etc.
+- Joint accounts: Each owner gets $250K protection
+- ALL retirement accounts aggregate (IRA + Roth = one $250K limit)
+
+**Key Points Mastered**:
+- MMDA (deposit) = FDIC insured, MMMF (fund) = NOT FDIC insured
+- Credit unions = NCUA insured (not FDIC)
+- Safe deposit box contents NOT insured
+- Retirement account aggregation trap
+
+**Practice Question**: Student correctly calculated $850K FDIC coverage across multiple categories:
+- Individual: $200K ✓
+- Joint: $400K ✓
+- Retirement (aggregate): $250K ✓
+
+### A.4 Financial Services Regulations ✅
+
+**Major Securities Laws**:
+- Securities Act of 1933: NEW offerings, prospectus (primary market)
+- Securities Exchange Act of 1934: TRADING, created SEC (secondary market)
+- Investment Advisers Act of 1940: Form ADV, $110M threshold
+- Investment Company Act of 1940: Mutual funds
+
+**Key Points Mastered**:
+- SEC = government, FINRA = SRO (not government)
+- $110M+ AUM → SEC registration, < $110M → State registration
+- Form ADV Part 2 given at/before engagement, updated annually
+- Series licenses: 6 (limited), 7 (general), 63 (state), 65 (adviser), 66 (combined)
+
+**Practice Question**: Student correctly identified $150M AUM = SEC registration
+
+### A.5 Consumer Protection Laws ✅
+
+**Major Consumer Laws**:
+- FCRA: Credit reports (7 years negative, 10 years bankruptcy)
+- TILA (Reg Z): APR disclosure, 3-day rescission
+- CARD Act: Credit card protections, 45-day notice
+- FDCPA: Debt collector rules (8 AM-9 PM)
+- ECOA (Reg B): Anti-discrimination, 30-day adverse action
+- FCBA: Billing errors (60 days), $50 credit card liability
+- EFTA (Reg E): Debit card liability (2 days/$50, 60 days/$500)
+
+**Key Points Mastered**:
+- Debit card liability: $50 if < 2 days, $500 if < 60 days, unlimited after
+- Credit card liability: $50 max (always) - much safer!
+- TILA right of rescission: 3 days for refinance/HELOC (not purchase)
+- FDCPA applies to third-party collectors (not original creditors)
+
+**Practice Question**: Student correctly identified $500 liability for debit card reported at 10 days
+
+### A.6 Fiduciary Standard ✅
+
+**Fiduciary Duty Components**:
+- Duty of Loyalty: Client's interest first, avoid conflicts
+- Duty of Care: Skill, prudence, diligence
+
+**Key Points Mastered**:
+- Fiduciary applies when providing advice/planning (not at all times)
+- Fiduciary standard vs Suitability standard (best interest vs suitable)
+- Material conflicts must be disclosed in writing
+- Prudent Investor Rule: Diversification, suitable, reasonable costs
+- Reg BI: Stricter than suitability, not quite fiduciary
+- Confidentiality exceptions: Consent, law, regulatory, defense
+
+**Practice Question**: Student correctly chose Fund B (lower cost, better performance) over Fund A (higher commission) - perfect application of fiduciary duty!
+
+---
+
+## Session Summary - Professional Conduct Domain
+
+**Time**: ~90 minutes for all 6 topics
+**Result**: 100% completion (0% → 100%)
+
+**Topics Mastered**:
+1. ✅ A.1 Code of Ethics (6 principles, fiduciary trigger, CE requirements)
+2. ✅ A.2 Procedural Rules (30-day reporting, disciplinary process)
+3. ✅ A.3 Financial Institutions (FDIC $250K rules, ownership categories)
+4. ✅ A.4 Regulations (1933/1934 Acts, SEC vs FINRA, Form ADV, Series licenses)
+5. ✅ A.5 Consumer Laws (FCRA, TILA, CARD, FDCPA, ECOA, FCBA, EFTA)
+6. ✅ A.6 Fiduciary Standard (duties, conflicts, disclosure, best interest)
+
+**Student Performance**:
+- All practice questions answered correctly
+- Quick understanding of complex topics
+- Excellent grasp of distinctions (fiduciary vs suitability, FDIC categories, debit vs credit liability)
+- Ready for Professional Conduct exam questions!
+
+**Overall Progress Update**:
+- Started session: 60/73 topics (82%)
+- After Professional Conduct: 66/73 topics (90%)
+- **Gained 6 topics in one session!**
+
+**Remaining Topics**: 7 topics left
+- G.56, G.61-G.63 Estate (4 topics)
+- E.42 Tax (1 topic)
+- H.65, H.68-H.70 Psychology (3 topics - but H.66, H.67 already done)
+
+**Days to Exam**: 3 days
+**Status**: EXCELLENT progress! 90% complete!
