@@ -1,2125 +1,2125 @@
-# CFP Exam Study Tracker
+# CFP 考试学习跟踪器
 
-**Last Updated**: November 7, 2025
-**Exam Date**: November 10, 2025
-**Days Until Exam**: 3 days ⚠️
+**最后更新**: 2025年11月7日
+**考试日期**: 2025年11月10日
+**距离考试**: 3天 ⚠️
 
-This single document tracks ALL your CFP exam preparation progress, including:
-- Topics mastered from study sessions
-- Knowledge gaps identified
-- Study materials available (2024 Dalton slides)
-- Priority action plan
-
----
-
-## Quick Stats
-
-📊 **Overall Progress**: 60/73 topics covered = **82%**
-📚 **Study Materials**: 1,088 pages of 2024 Dalton slides
-⏰ **Time Remaining**: 3 days ⚠️
-🎯 **Target**: Pass CFP exam November 10, 2025
+本文档跟踪您的所有 CFP 考试准备进度，包括：
+- 学习会话中掌握的主题
+- 已识别的知识缺口
+- 可用的学习材料（2024年 Dalton 幻灯片）
+- 优先行动计划
 
 ---
 
-## Domain Progress Summary
+## 快速统计
 
-| Domain | Weight | Topics Covered | Slides Available | Status | Priority |
+📊 **总体进度**: 60/73 主题已覆盖 = **82%**
+📚 **学习材料**: 1,088 页 2024年 Dalton 幻灯片
+⏰ **剩余时间**: 3天 ⚠️
+🎯 **目标**: 通过 2025年11月10日的 CFP 考试
+
+---
+
+## 领域进度摘要
+
+| 领域 | 权重 | 已覆盖主题 | 可用幻灯片 | 状态 | 优先级 |
 |--------|--------|----------------|------------------|--------|----------|
-| **A. Professional Conduct** | 8% | 0/6 | ✓ 90 pages | ⚪ Not Started | Medium |
-| **B. General Principles** | 15% | 8/10 | ✓ 90 pages | 🟡 In Progress (80%) | **HIGH** |
-| **C. Insurance & Risk** | 11% | 10/10 | ✓ 188 pages | 🟢 **COMPLETE (100%)** ✅ | **DONE** |
-| **D. Investment Planning** | 17% | 9/9 | ✓ 188 pages | 🟢 **COMPLETE (100%)** ✅ | **DONE** |
-| **E. Tax Planning** | 14% | 8/8 | ✓ 150 pages | 🟢 **COMPLETE (100%)** ✅ | **DONE** |
-| **F. Retirement** | **18%** ⭐ | 10/10 | ✓ 182 pages | 🟢 **COMPLETE (100%)** ✅ | **DONE** |
-| **G. Estate Planning** | 10% | 9/14 | ✓ 200 pages | 🟡 In Progress (64%) | Medium |
-| **H. Psychology** | 7% | 2/6 | ⚠️ Minimal | 🟡 Started (33%) | Medium |
+| **A. 职业操守** | 8% | 0/6 | ✓ 90页 | ⚪ 未开始 | 中等 |
+| **B. 一般原则** | 15% | 8/10 | ✓ 90页 | 🟡 进行中 (80%) | **高** |
+| **C. 保险与风险** | 11% | 10/10 | ✓ 188页 | 🟢 **完成 (100%)** ✅ | **完成** |
+| **D. 投资规划** | 17% | 9/9 | ✓ 188页 | 🟢 **完成 (100%)** ✅ | **完成** |
+| **E. 税务规划** | 14% | 8/8 | ✓ 150页 | 🟢 **完成 (100%)** ✅ | **完成** |
+| **F. 退休** | **18%** ⭐ | 10/10 | ✓ 182页 | 🟢 **完成 (100%)** ✅ | **完成** |
+| **G. 遗产规划** | 10% | 9/14 | ✓ 200页 | 🟡 进行中 (64%) | 中等 |
+| **H. 心理学** | 7% | 2/6 | ⚠️ 最少 | 🟡 已开始 (33%) | 中等 |
 
 ---
 
-## A. Professional Conduct and Regulation (8%)
+## A. 职业操守与监管 (8%)
 
-**Slides**: Fundamentals (pages 1-40)
+**幻灯片**: 基础知识 (第1-40页)
 
-### Not Yet Studied (0/6 topics)
+### 尚未学习 (0/6 主题)
 
-- [ ] **A.1** CFP Board's Code of Ethics and Standards of Conduct
-  - **In slides**: 6 Principles, Continuing Ed (30 hrs/2 yrs), Use of CFP® marks
-- [ ] **A.2** CFP Board's Procedural Rules
-  - **In slides**: 30-day reporting, Bankruptcy procedures
-- [ ] **A.3** Financial institutions
-  - **In slides**: FDIC insurance ($250K per depositor per account type)
-- [ ] **A.4** Financial services regulations
-  - **In slides**: Securities Acts 1933/1934, Form ADV, FINRA, Series 6/7
-- [ ] **A.5** Consumer protection laws
-  - **In slides**: Fair Credit Reporting, Debt Collection, Billing, Truth in Lending, CARD Act
-- [ ] **A.6** Fiduciary standard
-  - **In slides**: Duties to clients, Conflicts of interest, Confidentiality, Fee-Only vs Fee-Based
+- [ ] **A.1** CFP 委员会道德准则和行为标准
+  - **在幻灯片中**: 6项原则，继续教育（30小时/2年），CFP® 标记的使用
+- [ ] **A.2** CFP 委员会程序规则
+  - **在幻灯片中**: 30天报告，破产程序
+- [ ] **A.3** 金融机构
+  - **在幻灯片中**: FDIC 保险（每个账户类型每个存款人 $250K）
+- [ ] **A.4** 金融服务法规
+  - **在幻灯片中**: 1933/1934年证券法，Form ADV，FINRA，Series 6/7
+- [ ] **A.5** 消费者保护法
+  - **在幻灯片中**: 公平信用报告，债务催收，账单，诚实借贷，CARD 法案
+- [ ] **A.6** 受托人标准
+  - **在幻灯片中**: 对客户的责任，利益冲突，保密性，仅收费 vs 收费基础
 
-**Priority**: Medium - Review in final 2 weeks
-
----
-
-## B. General Principles of Financial Planning (15%)
-
-**Slides**: Fundamentals (pages 40-90)
-
-### ✅ Mastered Topics (8/10)
-
-- [x] **B.7 Financial planning process** (2025-10-20) - **Medium-High confidence**
-  - **Integrated planning**: Address stated client objectives, identify gaps
-  - **Estate preservation** vs estate building vs income generation
-  - Real-world intuition vs CFP exam logic
-  - **Gina LTC problem**: Learned to match recommendation to stated objectives
-  - **In slides**: Pages 40-45 (7-step process)
-
-- [x] **B.8 Financial statements** (2025-11-01) - **High confidence** (PARTIAL)
-  - **Fixed vs Variable Cash Outflows** (2025-11-01) - MASTERED:
-    - **Fixed Expenses**: Same exact dollar amount every single month
-      - Can predict EXACT number, doesn't change based on usage
-      - Examples: Mortgage, car loan, insurance premiums, HOA fees, subscriptions, property taxes
-      - Test: Can you predict the exact $? If YES → Fixed
-    - **Variable Expenses**: Amount changes month to month
-      - Know you'll have expense, but dollar varies based on usage/season/behavior
-      - Examples: Utilities, food/groceries, gas, travel, clothing, medical, home maintenance
-      - Test: Can you predict the exact $? If NO (could be $100 or $300) → Variable
-    - **Key Distinction**: Regular expense ≠ Fixed expense
-      - Utilities are REGULAR (pay monthly) but VARIABLE (amount changes)
-      - Mortgage is REGULAR and FIXED (same $2,500 every month)
-    - **Budgeting Application**:
-      - Step 1: Calculate fixed expenses (non-negotiable floor)
-      - Step 2: Estimate variable expenses (average with buffer)
-      - Step 3: Build flexibility for variable fluctuations
-    - **Memory Trick**: "If the NUMBER changes, it's VARIABLE. If the NUMBER is the SAME, it's FIXED"
-    - Perfect understanding after one explanation ✓
-  - **In slides**: Pages 45-50 (Balance sheet, Income statement, Cash flow statement)
-  - **Still need to cover**: Net worth calculation, asset/liability classification, balance sheet structure
-
-- [x] **B.9 Cash flow management** (2025-10-20, 2025-10-29, 2025-11-01) - **High confidence**
-  - **Emergency fund guidelines**: 3-6 months of expenses
-  - **6-month rule**: Married with one income source (vs 3 months dual income)
-  - **Liquidity assessment**: What counts as accessible funds
-  - **Key rule**: Assets maturing within 3-6 months count as emergency fund
-  - **Jack problem**: Bond maturing in 3 months = liquid ($44,200 total) ✓
-  - **What counts**:
-    - Cash, savings, money market
-    - Short-term CDs
-    - Bonds maturing within 3-6 months (no market risk)
-  - **What doesn't count**:
-    - Retirement accounts (penalties + taxes)
-    - Long-term bonds not near maturity (market value risk)
-  - **Home Equity Access Methods** (2025-10-29) - MASTERED (with critical analysis):
-    - **Four methods to utilize home equity**:
-      1. **Reverse mortgage** (age 62+): Keep house, receive payments, repaid at death/move
-      2. **Home sale**: Sell house, convert equity to cash (lose house)
-      3. **Second mortgage**: Keep house, borrow 70-80% equity as lump sum
-      4. **HELOC**: Keep house, draw as needed like credit card
-    - **CRITICAL INSIGHT** - Student identified question flaw:
-      - Normal usage: "Access equity" = keep house (methods 1, 3, 4)
-      - Question says "utilize equity" = includes selling (all 4 methods)
-      - Student correctly argued selling shouldn't be called "accessing"
-      - **Excellent professional judgment**: CFP should test real-world communication
-      - For exam: "Utilize/monetize/convert" = broader than "access"
-    - Home Equity = Home Value - Mortgage Balance
-    - Selling converts illiquid equity → liquid cash
-  - **In slides**: Pages 45-50
-
-- [x] **B.12 Time value of money** (2025-10-17) - **High confidence**
-  - PV/FV calculations: FV = PV × (1 + r)^n
-  - Compound interest
-  - **In slides**: Pages 50-55, formulas and examples
-  - **Note**: Had prior knowledge, perfect execution
-
-- [x] **B.10 Financing and debt management** (2025-11-01) - **High confidence**
-  - **Financial Ratios - The "28-36 + 3-6-10" Memory System** (2025-11-01) - MASTERED:
-    - **Housing Ratio (Front-end)**: Monthly Housing (PITI) ÷ Gross Monthly Income ≤ **28%**
-      - PITI = Principal, Interest, Taxes, Insurance
-      - Only housing costs, not other debt
-    - **Total Debt Ratio (Back-end)**: Total Monthly Debt ÷ Gross Monthly Income ≤ **36%**
-      - Includes ALL debt: Housing + car + student loans + credit cards + other
-    - **Emergency Fund Ratio**: **3-6 months** of expenses saved
-      - 6 months if: Married with one income OR self-employed
-      - 3 months if: Dual income household
-    - **Current Ratio**: Current Assets ÷ Current Liabilities ≥ **1.0** (higher is better)
-      - Measures liquidity - can you pay short-term debts?
-    - **Savings Ratio**: Annual Savings ÷ Gross Annual Income = **10-12%**
-      - Includes retirement contributions, emergency fund savings
-    - **Memory Trick**: "28 before 36" (Housing comes before Total, like house is foundation)
-    - **Memory System**: "28-36 Rule + 3-6-10" (debt ratios, then emergency months, then savings %)
-    - Perfect on practice problem (Sarah & Tom 27% housing, 35% total debt) ✓
-  - **In slides**: Pages 50-60 (Ratios, Mortgages, Buy vs Rent)
-  - **Still need to cover**: Mortgage types (conventional, ARM, reverse), refinancing decisions, buy vs rent analysis
-
-- [x] **B.11 Economic concepts** (2025-10-27) - **Medium confidence** (PARTIAL)
-  - **Fiscal Policy** (MASTERED):
-    - Fiscal = Government (Congress/President) uses taxes and spending
-    - Monetary = Federal Reserve uses interest rates and money supply
-    - **Restrictive/Contractionary fiscal policy**: Increase taxes + Decrease spending
-      - Goal: Slow economy to fight inflation
-      - Result: Budget surplus → Pays down government debt
-    - **Expansionary fiscal policy**: Decrease taxes + Increase spending
-      - Goal: Stimulate economy
-      - Result: Budget deficit → Increases debt
-    - **Key distinction**: Fiscal vs Monetary are different tools, not opposing forces
-  - **GDP Components** (MASTERED):
-    - **Formula**: GDP = C + I + G + NX (MUST MEMORIZE)
-      - C = Consumption (household spending, ~70% of GDP)
-      - I = Investment (business spending + new home purchases)
-      - G = Government Spending (salaries, military, infrastructure)
-      - NX = Net Exports (Exports - Imports)
-    - **What GDP measures**: PRODUCTION, not debt or financial metrics
-    - **What's NOT in GDP**: National debt, exchange rates, GNI
-  - **Economic Indicators** (PARTIAL):
-    - Federal Reserve's dual mandate: Low inflation (~2%) + High employment
-    - **Indicators Fed watches**: GDP growth, unemployment rate, inflation (PPI/CPI/PCE)
-    - **National debt**: Affects rates indirectly (crowding out), but not primary Fed indicator
-    - Student showed excellent real-world observation skills
-  - **In slides**: Pages 60-90
-  - **Still need to cover**: Business cycle (4 phases), monetary/fiscal policy tools, supply/demand
-
-- [x] **B.13 Education needs analysis** (2025-10-27) - **Medium confidence** (PARTIAL)
-  - **What it calculates**: How much to SAVE for future education costs
-  - **Key factors needed**:
-    - ✅ Expected inflation rate (project future costs)
-    - ✅ Time until college begins (time horizon for savings/investments)
-    - ✅ Expected investment returns
-  - **What's NOT included**:
-    - ❌ Student's career longevity (happens after college, irrelevant to costs)
-    - ❌ Family's financial aid contribution (too uncertain, separate analysis)
-  - **Critical distinction**:
-    - **Education Needs Analysis** (CFP does): Calculate costs and required savings
-    - **Financial Aid Analysis** (FAFSA does): Estimate aid eligibility (separate process)
-  - **Planning approach**: Plan for full cost, treat financial aid as bonus (don't rely on uncertain aid)
-  - **In slides**: Pages 55-60
-  - **Still need to cover**: Detailed calculation methodology, SAI (Student Aid Index), dependency status
-
-- [x] **B.14 Education savings vehicles** (2025-11-01) - **High confidence**
-  - **Financial Aid Decision Tree** (2025-11-01) - MASTERED:
-    - **When financial aid mentioned**: Roth IRA (parent's)
-      - NOT counted as asset on FAFSA (retirement accounts excluded = 0% assessment)
-      - Contributions can be withdrawn anytime, tax-free, penalty-free
-      - Protects aid eligibility
-      - Distributions DO count as income (time strategically - after last FAFSA year)
-    - **When financial aid NOT mentioned**: 529 Plan
-      - Higher contribution limits ($100K+ per child)
-      - State tax deduction (in most states)
-      - No income limits
-      - Tax-free growth for qualified education expenses
-    - **FAFSA Asset Treatment**:
-      - Roth IRA (parent): 0% assessment ✅ BEST for financial aid
-      - 529 Plan: 5.64% parent asset (moderate impact)
-      - Coverdell ESA: 5.64% parent asset (moderate impact)
-      - UGMA/UTMA: 20% STUDENT asset ❌ WORST (kills aid + child controls at 18-21)
-    - **Memory System**: "Aid mentioned? → Roth wins. Aid not mentioned? → 529 wins."
-    - **EXCELLENT pattern recognition** - Student independently identified this pattern! ✓
-  - **In slides**: Pages 60-70 (529, Coverdell, UGMA/UTMA, Roth IRA, Series EE bonds, 529A ABLE)
-
-- [x] **B.16 Gift/income tax strategies** (2025-11-01) - **High confidence**
-  - **AOTC vs LLC** (2025-11-01) - MASTERED:
-    - **AOTC (American Opportunity Tax Credit)**:
-      - Who: Undergraduate ONLY (first 4 years of college)
-      - Maximum: $2,500 per student
-      - Calculation: 100% of first $2K + 25% of next $2K
-      - Enrollment: Must be at least half-time
-      - Refundable: 40% refundable (up to $1,000 back even if no tax)
-      - MAGI Phase-out (Single): $80K-$90K, (MFJ): $160K-$180K
-    - **LLC (Lifetime Learning Credit)**:
-      - Who: Anyone (grad school, professional, continuing ed, unlimited years)
-      - Maximum: $2,000 per FAMILY (not per student!)
-      - Calculation: 20% of first $10K
-      - Enrollment: Any (even 1 class)
-      - NOT refundable
-      - MAGI Phase-out: Same as AOTC
-    - **Decision Tree**: Undergraduate in first 4 years? → AOTC (almost always wins with $2,500 max)
-    - **Key Exam Traps**:
-      - "Per student vs per family" - AOTC per student, LLC per family
-      - "Refundable" - AOTC 40% refundable, LLC not refundable
-      - "First 4 years limit" - AOTC can only claim 4 times per student
-    - **Memory System**: "Undergrad gets MORE, Grad gets LESS"
-    - **EXCELLENT pattern recognition** - Student said "AOTC for undergrad, LLC for postgrad" ✓
-    - Perfect on practice problem (Jennifer $8K tuition → AOTC $2,500 vs LLC $1,600) ✓
-  - **In slides**: Pages 70-80 (Student Loan Interest, LLC, AOTC, Employer Education Assistance)
-
-### Not Yet Studied (2/10 topics)
-
-- [ ] **B.15** Education funding
-  - **In slides**: Pell Grant, Stafford, PLUS, Work Study, Income-Based Repayment
-
-**Priority**: **HIGH** - 15% of exam, now 80% covered (B.7, B.8 partial, B.9, B.10, B.11 partial, B.12, B.13 partial, B.14, B.16)
+**优先级**: 中等 - 最后2周复习
 
 ---
 
-## C. Risk Management and Insurance Planning (11%)
+## B. 财务规划一般原则 (15%)
 
-**Slides**: Insurance (188 pages comprehensive)
+**幻灯片**: 基础知识 (第40-90页)
 
-### ✅ Mastered Topics (10/10) - DOMAIN COMPLETE ✅
+### ✅ 已掌握主题 (8/10)
 
-- [x] **C.19 Health insurance** (2025-10-15) - **Medium-High confidence**
+- [x] **B.7 财务规划流程** (2025-10-20) - **中等-高信心**
+  - **综合规划**: 解决客户陈述的目标，识别缺口
+  - **遗产保全** vs 遗产建设 vs 收入生成
+  - 现实直觉 vs CFP 考试逻辑
+  - **Gina LTC 问题**: 学会将建议与陈述的目标匹配
+  - **在幻灯片中**: 第40-45页（7步流程）
+
+- [x] **B.8 财务报表** (2025-11-01) - **高信心** (部分)
+  - **固定 vs 可变现金流出** (2025-11-01) - 已掌握:
+    - **固定支出**: 每个月完全相同的美元金额
+      - 可以预测确切数字，不因使用情况而改变
+      - 示例: 抵押贷款、汽车贷款、保险费、HOA 费用、订阅、房产税
+      - 测试: 你能预测确切的金额吗？如果可以 → 固定
+    - **可变支出**: 金额每月变化
+      - 知道会有支出，但金额因使用/季节/行为而异
+      - 示例: 公用事业、食品/杂货、汽油、旅行、服装、医疗、房屋维护
+      - 测试: 你能预测确切的金额吗？如果不能（可能是 $100 或 $300）→ 可变
+    - **关键区别**: 定期支出 ≠ 固定支出
+      - 公用事业是定期（每月支付）但是可变（金额变化）
+      - 抵押贷款是定期和固定（每月相同的 $2,500）
+    - **预算应用**:
+      - 步骤1: 计算固定支出（不可协商的底线）
+      - 步骤2: 估算可变支出（平均值加缓冲）
+      - 步骤3: 为可变波动建立灵活性
+    - **记忆技巧**: "如果数字变化，就是可变。如果数字相同，就是固定"
+    - 一次解释后完美理解 ✓
+  - **在幻灯片中**: 第45-50页（资产负债表、损益表、现金流量表）
+  - **仍需覆盖**: 净资产计算、资产/负债分类、资产负债表结构
+
+- [x] **B.9 现金流管理** (2025-10-20, 2025-10-29, 2025-11-01) - **高信心**
+  - **应急基金指南**: 3-6个月支出
+  - **6个月规则**: 单收入来源已婚（vs 双收入3个月）
+  - **流动性评估**: 什么算作可动用资金
+  - **关键规则**: 3-6个月内到期的资产算作应急基金
+  - **Jack 问题**: 3个月到期的债券 = 流动性（总计 $44,200）✓
+  - **计入项目**:
+    - 现金、储蓄、货币市场
+    - 短期存单
+    - 3-6个月内到期的债券（无市场风险）
+  - **不计入项目**:
+    - 退休账户（罚金 + 税收）
+    - 未接近到期的长期债券（市场价值风险）
+  - **房屋净值获取方法** (2025-10-29) - 已掌握（含批判性分析）:
+    - **利用房屋净值的四种方法**:
+      1. **反向抵押贷款**（62岁以上）: 保留房屋，接收付款，在死亡/搬离时偿还
+      2. **房屋出售**: 出售房屋，将净值转换为现金（失去房屋）
+      3. **第二抵押贷款**: 保留房屋，一次性借入70-80%净值
+      4. **HELOC**: 保留房屋，按需提取，像信用卡一样
+    - **关键洞察** - 学生识别出问题缺陷:
+      - 正常用法: "获取净值" = 保留房屋（方法1、3、4）
+      - 问题说"利用净值" = 包括出售（所有4种方法）
+      - 学生正确认为出售不应称为"获取"
+      - **优秀的专业判断**: CFP 应该测试现实世界的沟通
+      - 对于考试: "利用/货币化/转换" = 比"获取"更广泛
+    - 房屋净值 = 房屋价值 - 抵押贷款余额
+    - 出售将非流动性净值 → 流动性现金
+  - **在幻灯片中**: 第45-50页
+
+- [x] **B.12 货币时间价值** (2025-10-17) - **高信心**
+  - PV/FV 计算: FV = PV × (1 + r)^n
+  - 复利
+  - **在幻灯片中**: 第50-55页，公式和示例
+  - **注意**: 已有先验知识，完美执行
+
+- [x] **B.10 融资和债务管理** (2025-11-01) - **高信心**
+  - **财务比率 - "28-36 + 3-6-10" 记忆系统** (2025-11-01) - 已掌握:
+    - **住房比率（前端）**: 月住房（PITI）÷ 月总收入 ≤ **28%**
+      - PITI = 本金、利息、税收、保险
+      - 仅住房成本，不包括其他债务
+    - **总债务比率（后端）**: 月总债务 ÷ 月总收入 ≤ **36%**
+      - 包括所有债务: 住房 + 汽车 + 学生贷款 + 信用卡 + 其他
+    - **应急基金比率**: **3-6个月** 的支出储蓄
+      - 6个月如果: 单收入来源已婚 OR 自雇
+      - 3个月如果: 双收入家庭
+    - **流动比率**: 流动资产 ÷ 流动负债 ≥ **1.0**（越高越好）
+      - 衡量流动性 - 你能支付短期债务吗？
+    - **储蓄比率**: 年储蓄 ÷ 年总收入 = **10-12%**
+      - 包括退休供款、应急基金储蓄
+    - **记忆技巧**: "28在36之前"（住房在总债务之前，就像房屋是基础）
+    - **记忆系统**: "28-36规则 + 3-6-10"（债务比率，然后是应急月数，然后是储蓄%）
+    - 在练习题上完美（Sarah & Tom 27%住房，35%总债务）✓
+  - **在幻灯片中**: 第50-60页（比率、抵押贷款、购买 vs 租赁）
+  - **仍需覆盖**: 抵押贷款类型（传统、ARM、反向）、再融资决策、购买 vs 租赁分析
+
+- [x] **B.11 经济概念** (2025-10-27) - **中等信心** (部分)
+  - **财政政策** (已掌握):
+    - 财政 = 政府（国会/总统）使用税收和支出
+    - 货币 = 美联储使用利率和货币供应
+    - **限制性/紧缩性财政政策**: 增加税收 + 减少支出
+      - 目标: 减缓经济以对抗通胀
+      - 结果: 预算盈余 → 偿还政府债务
+    - **扩张性财政政策**: 减少税收 + 增加支出
+      - 目标: 刺激经济
+      - 结果: 预算赤字 → 增加债务
+    - **关键区别**: 财政 vs 货币是不同的工具，不是对立力量
+  - **GDP 组成部分** (已掌握):
+    - **公式**: GDP = C + I + G + NX（必须记忆）
+      - C = 消费（家庭支出，约占GDP的70%）
+      - I = 投资（企业支出 + 新购房）
+      - G = 政府支出（工资、军事、基础设施）
+      - NX = 净出口（出口 - 进口）
+    - **GDP 衡量什么**: 生产，不是债务或金融指标
+    - **GDP 不包括什么**: 国家债务、汇率、GNI
+  - **经济指标** (部分):
+    - 美联储双重使命: 低通胀（~2%）+ 高就业
+    - **美联储关注的指标**: GDP增长、失业率、通胀（PPI/CPI/PCE）
+    - **国家债务**: 间接影响利率（挤出效应），但不是主要的美联储指标
+    - 学生表现出优秀的现实观察技能
+  - **在幻灯片中**: 第60-90页
+  - **仍需覆盖**: 商业周期（4个阶段）、货币/财政政策工具、供需
+
+- [x] **B.13 教育需求分析** (2025-10-27) - **中等信心** (部分)
+  - **它计算什么**: 为未来教育成本储蓄多少
+  - **所需关键因素**:
+    - ✅ 预期通胀率（预测未来成本）
+    - ✅ 距离大学开始的时间（储蓄/投资的时间范围）
+    - ✅ 预期投资回报
+  - **不包括什么**:
+    - ❌ 学生的职业寿命（发生在大学之后，与成本无关）
+    - ❌ 家庭的经济援助贡献（太不确定，单独分析）
+  - **关键区别**:
+    - **教育需求分析**（CFP 做）: 计算成本和所需储蓄
+    - **经济援助分析**（FAFSA 做）: 估算援助资格（独立流程）
+  - **规划方法**: 为全额成本做计划，将经济援助视为奖励（不依赖不确定的援助）
+  - **在幻灯片中**: 第55-60页
+  - **仍需覆盖**: 详细计算方法、SAI（学生援助指数）、依赖状态
+
+- [x] **B.14 教育储蓄工具** (2025-11-01) - **高信心**
+  - **经济援助决策树** (2025-11-01) - 已掌握:
+    - **当提到经济援助时**: Roth IRA（父母的）
+      - 在FAFSA上不计为资产（退休账户排除 = 0%评估）
+      - 供款可以随时提取，免税，无罚金
+      - 保护援助资格
+      - 分配确实算作收入（策略性时间 - 在最后一个FAFSA年度之后）
+    - **当未提到经济援助时**: 529计划
+      - 更高的供款限额（每个孩子 $100K+）
+      - 州税扣除（在大多数州）
+      - 无收入限制
+      - 合格教育费用的免税增长
+    - **FAFSA 资产处理**:
+      - Roth IRA（父母）: 0%评估 ✅ 最适合经济援助
+      - 529计划: 5.64%父母资产（中等影响）
+      - Coverdell ESA: 5.64%父母资产（中等影响）
+      - UGMA/UTMA: 20%学生资产 ❌ 最差（扼杀援助 + 孩子在18-21岁控制）
+    - **记忆系统**: "提到援助？→ Roth 胜出。未提到援助？→ 529 胜出。"
+    - **优秀的模式识别** - 学生独立识别出这个模式！✓
+  - **在幻灯片中**: 第60-70页（529、Coverdell、UGMA/UTMA、Roth IRA、Series EE债券、529A ABLE）
+
+- [x] **B.16 赠与/所得税策略** (2025-11-01) - **高信心**
+  - **AOTC vs LLC** (2025-11-01) - 已掌握:
+    - **AOTC（美国机会税收抵免）**:
+      - 谁: 仅本科生（大学前4年）
+      - 最高: 每个学生 $2,500
+      - 计算: 前 $2K 的100% + 后 $2K 的25%
+      - 注册: 必须至少半日制
+      - 可退还: 40%可退还（即使没有税收也可退还最多 $1,000）
+      - MAGI 逐步取消（单身）: $80K-$90K，（联合申报）: $160K-$180K
+    - **LLC（终身学习抵免）**:
+      - 谁: 任何人（研究生、专业、继续教育、无限年）
+      - 最高: 每个家庭 $2,000（不是每个学生！）
+      - 计算: 前 $10K 的20%
+      - 注册: 任何（甚至1门课）
+      - 不可退还
+      - MAGI 逐步取消: 与AOTC相同
+    - **决策树**: 前4年本科生？→ AOTC（几乎总是以 $2,500 最高胜出）
+    - **关键考试陷阱**:
+      - "每个学生 vs 每个家庭" - AOTC 每个学生，LLC 每个家庭
+      - "可退还" - AOTC 40%可退还，LLC 不可退还
+      - "前4年限制" - AOTC 每个学生只能申请4次
+    - **记忆系统**: "本科生获得更多，研究生获得更少"
+    - **优秀的模式识别** - 学生说"AOTC 用于本科生，LLC 用于研究生" ✓
+    - 在练习题上完美（Jennifer $8K 学费 → AOTC $2,500 vs LLC $1,600）✓
+  - **在幻灯片中**: 第70-80页（学生贷款利息、LLC、AOTC、雇主教育援助）
+
+### 尚未学习 (2/10 主题)
+
+- [ ] **B.15** 教育资助
+  - **在幻灯片中**: Pell Grant、Stafford、PLUS、Work Study、基于收入的还款
+
+**优先级**: **高** - 考试15%，现在80%已覆盖（B.7、B.8部分、B.9、B.10、B.11部分、B.12、B.13部分、B.14、B.16）
+
+---
+
+## C. 风险管理和保险规划 (11%)
+
+**幻灯片**: 保险（188页全面）
+
+### ✅ 已掌握主题 (10/10) - 领域完成 ✅
+
+- [x] **C.19 健康保险** (2025-10-15) - **中等-高信心**
   - Medicare Parts A/B/C/D
-  - Part A: $1,632 deductible, Days 61-90 $408/day, 91-150 $816/day
-  - Part A SNF: Days 1-20 FREE, 21-100 $204/day
-  - Part B: $174.70/month premium, $240 deductible, covers 80%
-  - Part C (Medicare Advantage): Lower cost, smaller network, out-of-pocket max
-  - Part D: Prescription drugs
-  - Medigap vs MA tradeoffs
-  - Enrollment periods: IEP, AEP, OEP, SEP
-  - **In slides**: Pages 150-165
-  - ⚠️ **Gap resolved 2025-10-18**: Cost calculations now strong
+  - Part A: $1,632 免赔额，第61-90天 $408/天，91-150 $816/天
+  - Part A SNF: 第1-20天免费，21-100 $204/天
+  - Part B: $174.70/月保费，$240 免赔额，覆盖80%
+  - Part C（Medicare Advantage）: 成本更低，网络更小，自付最高限额
+  - Part D: 处方药
+  - Medigap vs MA 权衡
+  - 注册期: IEP、AEP、OEP、SEP
+  - **在幻灯片中**: 第150-165页
+  - ⚠️ **缺口已解决 2025-10-18**: 成本计算现在很强
 
-- [x] **C.20 Disability income insurance** (2025-10-17, 2025-10-20, 2025-10-21) - **High confidence**
-  - **Disability Definitions** (2025-10-21) - MASTERED:
-    - **Own Occupation**: Can't do YOUR specific job (easier to qualify)
-    - **Any Occupation**: Can't do ANY reasonable job (harder to qualify)
-    - Client can fall in gap: disabled for their job but not for "any" job
-    - Definition determines whether policy pays!
-  - **Integration with Social Security** (2025-10-21):
-    - Integration only applies when policy pays
-    - No policy benefit = no integration calculation
-    - If both pay, total typically capped at policy maximum
-  - Own Occ: 2x more expensive, ideal for specialists
+- [x] **C.20 残疾收入保险** (2025-10-17, 2025-10-20, 2025-10-21) - **高信心**
+  - **残疾定义** (2025-10-21) - 已掌握:
+    - **自有职业**: 无法做您的特定工作（更容易符合条件）
+    - **任何职业**: 无法做任何合理工作（更难符合条件）
+    - 客户可能陷入缺口: 对他们的工作残疾但对"任何"工作不残疾
+    - 定义决定保单是否支付！
+  - **与社会保障的整合** (2025-10-21):
+    - 整合仅在保单支付时适用
+    - 无保单福利 = 无整合计算
+    - 如果两者都支付，总额通常以保单最高限额为上限
+  - Own Occ: 贵2倍，适合专家
   - Modified Any Occupation
-  - **Group LTD Taxation** (2025-10-20) - MASTERED:
-    - Either premium OR benefit taxable (not both)
-    - Employer pays premiums → benefits taxable as ordinary income
-    - Taxed "without regard to" offsets or other income
-    - IRC §104, §105, §106
-  - **In slides**: Pages 175-180, definitions, benefit periods, taxation
+  - **团体LTD税收** (2025-10-20) - 已掌握:
+    - 保费或福利征税（不是两者）
+    - 雇主支付保费 → 福利作为普通收入征税
+    - 征税"不考虑"抵消或其他收入
+    - IRC §104、§105、§106
+  - **在幻灯片中**: 第175-180页，定义、福利期、税收
 
-- [x] **C.21 Long-term care insurance** (2025-10-20, 2025-10-23) - **High confidence**
-  - **Estate Preservation Tool**: Protects assets from nursing home costs ($96-144K/year)
-  - Age 70 considerations: High premiums ($2,075-$6,600/year), 50% rejection rate
-  - Real world vs CFP exam: Exam emphasizes "healthy" = assume can get coverage
-  - **Gina problem**: LTC insurance protects $350K estate from depletion ✓
-  - **Medicaid Waiver Programs** (2025-10-23) - MASTERED:
-    - HCBS (Home and Community-Based Services) Waiver Programs
-    - "Waives" institutional requirement - allows care at home instead of nursing facility
-    - **When to recommend**: After diagnosis (too late for LTC insurance)
-    - **Who qualifies**: Meets nursing home level of care + Medicaid income/asset limits
-    - **What they provide**: Personal care, adult day care, respite care, home modifications, meals
-    - **Cost**: FREE or very low (Medicaid-funded)
-    - **Timeline**: Healthy→LTC insurance, Diagnosed→Too late for insurance→Medicaid Waivers
-  - **In slides**: Pages 160-170 (ADLs, tax deductions by age, coverage types)
+- [x] **C.21 长期护理保险** (2025-10-20, 2025-10-23) - **高信心**
+  - **遗产保全工具**: 保护资产免受疗养院成本（$96-144K/年）
+  - 70岁考虑: 高保费（$2,075-$6,600/年），50%拒绝率
+  - 现实世界 vs CFP 考试: 考试强调"健康" = 假设可以获得保险
+  - **Gina 问题**: LTC 保险保护 $350K 遗产不被耗尽 ✓
+  - **Medicaid 豁免计划** (2025-10-23) - 已掌握:
+    - HCBS（家庭和社区服务）豁免计划
+    - "豁免"机构要求 - 允许在家护理而不是疗养院
+    - **何时推荐**: 诊断后（LTC 保险太晚）
+    - **谁符合条件**: 满足疗养院护理水平 + Medicaid 收入/资产限制
+    - **他们提供什么**: 个人护理、成人日托、临时护理、房屋改造、膳食
+    - **成本**: 免费或非常低（Medicaid 资助）
+    - **时间线**: 健康→LTC 保险，诊断→保险太晚→Medicaid 豁免
+  - **在幻灯片中**: 第160-170页（ADLs、按年龄的税收扣除、保险类型）
 
-- [x] **C.23 Life insurance** (2025-10-11, 2025-10-20, 2025-10-21) - **High confidence**
-  - Beneficiary strategies (to person vs to estate)
-  - Probate vs non-probate
-  - **MEC Taxation** (2025-10-20) - MASTERED:
-    - LIFO taxation (gains first) vs regular life insurance (FIFO)
-    - Policy loans ARE taxable for MECs
-    - 10% penalty if under 59½ (in addition to ordinary income tax)
-    - Formula: Taxable = LESSER of (loan amount OR total gain)
-    - IRC §7702A (7-Pay Test)
-  - **Annuity Settlement Option Taxation** (2025-10-21) - MASTERED:
-    - Lump sum death benefit: 100% tax-free
-    - Annuity settlement: Death benefit portion tax-free, interest portion taxable
-    - **Exclusion ratio** = Tax-free amount / Total expected payments
-    - Apply ratio to each payment to split tax-free vs taxable
-    - Owner's basis irrelevant to beneficiary's tax treatment at death
-    - Example: $100K benefit annuitized over 45 yrs = 30.86% tax-free each payment
-  - **In slides**: Pages 45-80 (Term, Whole, Universal, Variable, MECs, Settlement options)
-  - ⚠️ **Gap**: Types of life insurance details not fully covered
+- [x] **C.23 人寿保险** (2025-10-11, 2025-10-20, 2025-10-21) - **高信心**
+  - 受益人策略（给个人 vs 给遗产）
+  - 遗嘱认证 vs 非遗嘱认证
+  - **MEC 税收** (2025-10-20) - 已掌握:
+    - LIFO 税收（收益优先）vs 普通人寿保险（FIFO）
+    - 保单贷款对MEC征税
+    - 如果低于59½，10%罚金（除了普通所得税）
+    - 公式: 应税 = 较小值（贷款金额 OR 总收益）
+    - IRC §7702A（7-Pay测试）
+  - **年金结算选项税收** (2025-10-21) - 已掌握:
+    - 一次性死亡福利: 100%免税
+    - 年金结算: 死亡福利部分免税，利息部分应税
+    - **排除比率** = 免税金额 / 总预期付款
+    - 将比率应用于每次付款以分割免税 vs 应税
+    - 所有者的基础与受益人死亡时的税收处理无关
+    - 示例: $100K 福利在45年内年金化 = 每次付款30.86%免税
+  - **在幻灯片中**: 第45-80页（定期、终身、万能、变额、MEC、结算选项）
+  - ⚠️ **缺口**: 人寿保险类型细节未完全覆盖
 
-- [x] **C.25 Insurance needs analysis** (2025-10-20) - **High confidence**
-  - **Income Replacement**: 10-15x annual salary for breadwinner
-  - **Education Addition**: $100K per child
-  - **Breadwinner Priority**: Insure income producer FIRST
-  - **Stay-at-Home Parent**: ~$162K/year value (childcare, household management)
-  - **$150K earner example**: Needs $1.5M-$2.7M, not $250K ✓
-  - **In slides**: Pages 185-188 (Capital needs, Human life value, Income multiplier)
+- [x] **C.25 保险需求分析** (2025-10-20) - **高信心**
+  - **收入替代**: 养家糊口者年薪的10-15倍
+  - **教育补充**: 每个孩子 $100K
+  - **养家糊口者优先**: 首先为收入生产者投保
+  - **全职父母**: 约 $162K/年价值（育儿、家庭管理）
+  - **$150K 收入者示例**: 需要 $1.5M-$2.7M，不是 $250K ✓
+  - **在幻灯片中**: 第185-188页（资本需求、人力生命价值、收入倍数）
 
-- [x] **C.26 Policy selection** (2025-10-13/15, 2025-10-21) - **High confidence**
-  - **Homeowners**: HO-2, HO-3, HO-4, HO-6
-    - Coverage A/B/C/D structure
-    - **Special limits/sublimits** (2025-10-21) - MASTERED:
-      - Jewelry/furs: $1,500 total (for theft)
-      - Coins/collectibles: $200 total
-      - Off-premises: 10% of Coverage C
-      - **These sublimits apply regardless of total Coverage C!**
-      - Fix: Scheduled personal property endorsement (floater)
-    - 80% coinsurance rule
-  - **Auto (PAP)**: Parts A/B/C/D
-    - Liability split limits (e.g., 50/100/25)
-    - Collision vs Comprehensive
-  - **In slides**: Pages 100-140
+- [x] **C.26 保单选择** (2025-10-13/15, 2025-10-21) - **高信心**
+  - **房主**: HO-2、HO-3、HO-4、HO-6
+    - Coverage A/B/C/D 结构
+    - **特殊限额/子限额** (2025-10-21) - 已掌握:
+      - 珠宝/毛皮: 总计 $1,500（盗窃）
+      - 硬币/收藏品: 总计 $200
+      - 场外: Coverage C 的10%
+      - **这些子限额适用于无论总Coverage C是多少！**
+      - 修复: 预定个人财产批单（浮动）
+    - 80%共同保险规则
+  - **汽车（PAP）**: Parts A/B/C/D
+    - 责任分割限额（例如，50/100/25）
+    - 碰撞 vs 综合
+  - **在幻灯片中**: 第100-140页
 
-- [x] **C.17 Principles of risk and insurance** (2025-10-21) - **High confidence**
-  - **Insurable Interest** - MASTERED:
-    - Must have financial or emotional stake in insured's life/property
-    - **Life insurance**: Family relationships (automatic), creditors, business key employees
-    - **Property insurance**: Need ownership OR security interest (mortgage/lien)
-    - **Key vs non-key employees**: Key employees YES, non-key NO
-    - **Tenants**: Interest in CONTENTS, NOT building structure
-    - Prevents insurance from becoming gambling
-  - Risk management matrix
-  - Law of large numbers
-  - Perils vs hazards
-  - **In slides**: Pages 1-20
+- [x] **C.17 风险和保险原则** (2025-10-21) - **高信心**
+  - **可保利益** - 已掌握:
+    - 必须对被保险人的生命/财产有财务或情感利益
+    - **人寿保险**: 家庭关系（自动）、债权人、企业关键员工
+    - **财产保险**: 需要所有权 OR 担保权益（抵押/留置权）
+    - **关键 vs 非关键员工**: 关键员工是，非关键员工否
+    - **租户**: 对内容物的利益，不对建筑结构
+    - 防止保险变成赌博
+  - 风险管理矩阵
+  - 大数定律
+  - 危险 vs 风险因素
+  - **在幻灯片中**: 第1-20页
 
-- [x] **C.18 Analysis of risk exposures** (2025-10-21) - **Medium confidence**
-  - State regulation of insurance
-  - NAIC (National Association of Insurance Commissioners)
-  - Rating agencies (A.M. Best, Moody's, S&P)
-  - **In slides**: Pages 20-30
-  - **Note**: Not directly tested but covered through other topics
+- [x] **C.18 风险暴露分析** (2025-10-21) - **中等信心**
+  - 保险的州监管
+  - NAIC（全国保险专员协会）
+  - 评级机构（A.M. Best、Moody's、S&P）
+  - **在幻灯片中**: 第20-30页
+  - **注意**: 不直接测试但通过其他主题覆盖
 
-- [x] **C.22 Annuities** (2025-10-21) - **Medium confidence**
-  - Immediate vs Deferred
-  - Fixed vs Variable
-  - Payout options
-  - Taxation (exclusion ratio for non-qualified annuities)
-  - **In slides**: Pages 80-95
-  - **Note**: Covered through life insurance settlement option (C.23)
+- [x] **C.22 年金** (2025-10-21) - **中等信心**
+  - 即期 vs 递延
+  - 固定 vs 变额
+  - 支付选项
+  - 税收（非合格年金的排除比率）
+  - **在幻灯片中**: 第80-95页
+  - **注意**: 通过人寿保险结算选项（C.23）覆盖
 
-- [x] **C.24 Business owner insurance** (2025-10-21) - **High confidence**
-  - **Buy-sell agreements** - MASTERED:
-    - Cross-purchase vs entity purchase
-    - **Funded buy-sell**: Life insurance provides liquidity
-    - Used when family can't/won't run business
-    - Key employee purchases business from estate
-    - Provides succession plan + liquidity for family
-  - Key person insurance (protects business from loss of key employee)
-  - Disability buy-out insurance
-  - **In slides**: Pages 175-188
+- [x] **C.24 企业主保险** (2025-10-21) - **高信心**
+  - **买卖协议** - 已掌握:
+    - 交叉购买 vs 实体购买
+    - **资金买卖**: 人寿保险提供流动性
+    - 当家庭不能/不会经营业务时使用
+    - 关键员工从遗产购买业务
+    - 为家庭提供继承计划 + 流动性
+  - 关键人员保险（保护企业免受关键员工损失）
+  - 残疾买断保险
+  - **在幻灯片中**: 第175-188页
 
-**Priority**: **COMPLETE** - Insurance domain 100% mastered! ✅
+**优先级**: **完成** - 保险领域100%掌握！✅
 
 ---
 
-## D. Investment Planning (17%)
+## D. 投资规划 (17%)
 
-**Slides**: Investments (188 pages)
+**幻灯片**: 投资（188页）
 
-### ✅ Mastered Topics (8/9 - partial)
+### ✅ 已掌握主题 (8/9 - 部分)
 
-- [x] **D.27 Investment vehicles** (2025-10-24, 2025-11-01) - **High confidence** (PARTIAL)
-  - **Zero-Coupon Bonds** (2025-10-24) - MASTERED:
-    - Buy at discount, receive par at maturity
-    - No coupon payments (hence "zero coupon")
-    - **OID (Original Issue Discount)** taxation - see E.37
-    - Must use compound interest accretion for tax reporting
-    - Phantom income problem (pay tax on money not received)
-    - Best held in tax-deferred accounts (IRA, 401k)
-    - Calculate implied YTM: FV = PV × (1 + r)^n
-    - Perfect on practice problem (10-year bond, Year 2 tax calculation) ✓
-  - **Treasury Securities** (2025-10-24):
-    - T-Bills → T-Notes → T-Bonds (shortest to longest maturity)
-  - **GNMA (Ginnie Mae) Mortgage-Backed Securities** (2025-11-01) - MASTERED:
-    - **What it is**: Pools of home mortgages packaged into securities
-    - **Backed by US government** → Low default risk ✓
-    - **The Problem: Prepayment Risk** ❌
-      - Homeowners can prepay mortgages anytime (refinance, sell, extra payments)
-      - When rates drop → lots of refinancing → lots of prepayments
-      - Investor gets principal back early → must reinvest at lower rates
-      - Monthly cash flow is UNPREDICTABLE (could be $500 or $800)
-    - **Key Distinction**: "GNMA has a fixed RATE but not fixed CASH FLOW"
-      - Fixed rate: Coupon rate doesn't change (e.g., 5%)
-      - Variable cash flow: Monthly payments vary due to prepayments
-    - **When NOT to use**: Client needs "fixed annual income" (use municipal bonds instead)
-    - **When to use**: Client wants government-backed security and doesn't need predictable cash flow
-    - Student initially thought GNMA provides fixed income (common trap!) ✓
-    - Now understands difference between fixed rate vs fixed cash flow ✓
-  - **In slides**: Pages 20-50
-  - **Still need to cover**: Stocks, mutual funds, REITs, ETFs, options, futures, ADRs
+- [x] **D.27 投资工具** (2025-10-24, 2025-11-01) - **高信心** (部分)
+  - **零息债券** (2025-10-24) - 已掌握:
+    - 折价购买，到期时收到面值
+    - 无息票支付（因此"零息"）
+    - **OID（原始发行折扣）**税收 - 见 E.37
+    - 必须使用复利增值进行税务报告
+    - 幻影收入问题（对未收到的钱纳税）
+    - 最好在税收递延账户中持有（IRA、401k）
+    - 计算隐含YTM: FV = PV × (1 + r)^n
+    - 在练习题上完美（10年期债券，第2年税收计算）✓
+  - **国债** (2025-10-24):
+    - T-Bills → T-Notes → T-Bonds（最短到最长到期）
+  - **GNMA（Ginnie Mae）抵押贷款支持证券** (2025-11-01) - 已掌握:
+    - **它是什么**: 打包成证券的房屋抵押贷款池
+    - **由美国政府支持** → 低违约风险 ✓
+    - **问题: 提前还款风险** ❌
+      - 房主可以随时提前还款（再融资、出售、额外付款）
+      - 当利率下降 → 大量再融资 → 大量提前还款
+      - 投资者提前收回本金 → 必须以较低利率再投资
+      - 月现金流不可预测（可能是 $500 或 $800）
+    - **关键区别**: "GNMA 有固定利率但没有固定现金流"
+      - 固定利率: 息票利率不改变（例如，5%）
+      - 可变现金流: 由于提前还款，月付款变化
+    - **何时不使用**: 客户需要"固定年收入"（使用市政债券代替）
+    - **何时使用**: 客户想要政府支持的证券且不需要可预测的现金流
+    - 学生最初认为GNMA提供固定收入（常见陷阱！）✓
+    - 现在理解固定利率 vs 固定现金流的区别 ✓
+  - **在幻灯片中**: 第20-50页
+  - **仍需覆盖**: 股票、共同基金、REITs、ETF、期权、期货、ADR
 
-- [x] **D.28 Types of investment risk** (2025-10-11) - **High confidence**
-  - R-squared and risk decomposition
-  - Systematic vs unsystematic risk
-  - Formula: Unsystematic risk = 1 - R²
-  - Correlation and diversification
-  - **In slides**: Pages 60-75
+- [x] **D.28 投资风险类型** (2025-10-11) - **高信心**
+  - R平方和风险分解
+  - 系统性 vs 非系统性风险
+  - 公式: 非系统性风险 = 1 - R²
+  - 相关性和多样化
+  - **在幻灯片中**: 第60-75页
 
-- [x] **D.29 Market cycles** (2025-10-24) - **High confidence** (PARTIAL)
-  - **Technical Analysis** (2025-10-24) - MASTERED:
-    - **vs Fundamental Analysis**:
-      - Technical: Focus on price patterns, charts
-      - Fundamental: Focus on company financials (earnings, P/E, revenue)
-    - **Support** = Floor where price bounces UP
-      - Buying demand kicks in at this level
-      - Acts as floor holding price up
-    - **Resistance** = Ceiling where price bounces DOWN
-      - Selling pressure kicks in at this level
-      - Acts as ceiling holding price down
-    - **Breakout** = Price breaks through support or resistance
-      - Upward breakout (above resistance) = bullish signal
-      - Downward breakout (below support) = bearish signal
-    - **Trading Strategies**:
-      - Range trading: Buy at support, sell at resistance
-      - Breakout trading: Buy when breaks above resistance
-    - **Memory trick**: Ball bouncing in room (floor = support, ceiling = resistance)
-    - Perfect on practice problem (stock trading $20-$26 range) ✓
-  - **In slides**: Pages 75-95
-  - **Still need to cover**: EMH (weak/semi-strong/strong), yield curve theories, market anomalies
+- [x] **D.29 市场周期** (2025-10-24) - **高信心** (部分)
+  - **技术分析** (2025-10-24) - 已掌握:
+    - **vs 基本面分析**:
+      - 技术: 关注价格模式、图表
+      - 基本面: 关注公司财务（收益、P/E、收入）
+    - **支撑** = 价格反弹向上的地板
+      - 在这个水平买入需求启动
+      - 作为支撑价格的地板
+    - **阻力** = 价格反弹向下的天花板
+      - 在这个水平卖出压力启动
+      - 作为压制价格的天花板
+    - **突破** = 价格突破支撑或阻力
+      - 向上突破（高于阻力）= 看涨信号
+      - 向下突破（低于支撑）= 看跌信号
+    - **交易策略**:
+      - 区间交易: 在支撑买入，在阻力卖出
+      - 突破交易: 当突破阻力时买入
+    - **记忆技巧**: 房间中弹跳的球（地板 = 支撑，天花板 = 阻力）
+    - 在练习题上完美（股票交易 $20-$26 区间）✓
+  - **在幻灯片中**: 第75-95页
+  - **仍需覆盖**: EMH（弱/半强/强）、收益率曲线理论、市场异常
 
-- [x] **D.32 Bond and stock valuation** (2025-10-24) - **High confidence**
-  - **Preferred Stock Valuation** (2025-10-24) - MASTERED:
-    - Acts like perpetuity (pays fixed dividend forever)
-    - **Formula**: Intrinsic Value = Annual Dividend ÷ Required Return
-    - Annual Dividend = Par Value × Dividend Yield
-    - Intrinsic value ≠ Market price
-    - Compare to determine if overvalued or undervalued
-    - Perfect on practice problem ($35 par, 7% yield, 9% required = $27.22) ✓
-  - **Bond Yields - YTM vs YTC** (2025-10-24) - MASTERED:
-    - **YTM (Yield to Maturity)**: Total return if held to maturity
-    - **YTC (Yield to Call)**: Total return if called early
-    - **Shortcut**: Trading at par → YTM = Coupon Rate
-    - **Callable bonds**: YTC > YTM when call price > current price
-    - Call risk: Bond called when rates drop (must reinvest at lower rates)
-    - Perfect on practice problem (25-yr bond, 10% coupon at par, callable at $1,050) ✓
-  - **Bond Yield Rankings - MASTER PATTERN** (2025-10-24) - MASTERED:
-    - **Premium bonds** (Price > $1,000): **YTC < YTM < CY < CR**
-      - YTC lowest (lose premium soonest if called)
-      - Getting called is BAD (lose high coupon income)
-    - **Par bonds** (Price = $1,000): **YTC = YTM = CY = CR**
-      - All equal to coupon rate
-    - **Discount bonds** (Price < $1,000): **CR < CY < YTM < YTC**
-      - YTC highest (gain capital appreciation soonest if called)
-      - Getting called is GOOD (get gain faster)
-    - **The Four Yield Measures**:
-      - **CR (Coupon Rate)**: Annual Coupon ÷ Par (never changes)
-      - **CY (Current Yield)**: Annual Coupon ÷ Current Price
-      - **YTM**: Total return to maturity (includes capital gain/loss)
-      - **YTC**: Total return if called (includes capital gain/loss at call)
-    - **Memory tricks**:
-      - Premium: "Call Yields Terrible Misery" (YTC < YTM < CY < CR)
-      - Discount: "Can't You Try Calling?" (CR < CY < YTM < YTC)
-      - Par: "Everyone's Equal"
-    - Comprehensive understanding demonstrated ✓
-  - **Portfolio Immunization** (2025-10-25) - MASTERED:
-    - Balances **price risk** and **reinvestment risk**
-    - When rates rise: bond prices fall BUT reinvestment income rises (offsetting)
-    - When rates fall: bond prices rise BUT reinvestment income falls (offsetting)
-    - Match bond duration to liability time horizon
-    - **Pension fund example**: 5-year liability, buy 5-year duration bond
-    - If rates change, two risks cancel out → still meet liability ✓
-    - Perfect on practice problem ✓
-  - **Modified Duration** (2025-10-25) - MASTERED:
-    - **Two types of duration**:
-      - **Macaulay Duration**: Time-weighted measure (in years)
-      - **Modified Duration**: Price sensitivity measure
-    - **Conversion**: Modified Duration = Macaulay Duration / (1 + yield)
-    - **Price change formula**: % Change = -Modified Duration × Δyield
-    - **Critical exam trap**: Must convert Macaulay to Modified before using in formula!
-    - Example: Macaulay 10 years, yield 8% → Modified = 9.26
-    - 2% rate increase → -18.5% price change (NOT -20%!)
-    - Student correctly challenged wrong answer ✓
-  - **Gordon Growth Model with Retention Ratio** (2025-10-25) - MASTERED:
-    - **Retention Ratio**: % of earnings kept (not paid as dividends)
-    - **Payout Ratio**: 1 - Retention Ratio
-    - **Growth Rate**: g = ROE × Retention Ratio
-    - **Gordon Model**: P₀ = D₁ / (r - g)
-    - Example: ROE 12.5%, retention 50% → g = 6.25%
-    - D₀ $3.50, r 12% → Intrinsic Value = $64.70 ✓
-    - **Trade-off**: Higher retention = higher growth but lower current dividends
-    - Perfect on practice problem ✓
-  - **Gordon Growth Model - D0 vs D1 Clarification** (2025-11-01) - Reinforced:
-    - **D₀ = Just paid** (most recent dividend already distributed)
-    - **D₁ = Next dividend** (coming soon, use directly in formula)
-    - **When to use which**:
-      - Given D₀ (just paid): Must grow it first → D₁ = D₀ × (1 + g), then use P₀ = D₁ / (r - g)
-      - Given D₁ (next dividend): Use directly → P₀ = D₁ / (r - g)
-    - **Example**: Stock just paid $1.64 (D₀), g = 2.25%, r = 7.5%
+- [x] **D.32 债券和股票估值** (2025-10-24) - **高信心**
+  - **优先股估值** (2025-10-24) - 已掌握:
+    - 像永续年金一样（永远支付固定股息）
+    - **公式**: 内在价值 = 年股息 ÷ 要求回报
+    - 年股息 = 面值 × 股息收益率
+    - 内在价值 ≠ 市场价格
+    - 比较以确定是否高估或低估
+    - 在练习题上完美（$35 面值，7%收益率，9%要求 = $27.22）✓
+  - **债券收益率 - YTM vs YTC** (2025-10-24) - 已掌握:
+    - **YTM（到期收益率）**: 如果持有到期的总回报
+    - **YTC（赎回收益率）**: 如果提前赎回的总回报
+    - **捷径**: 按面值交易 → YTM = 息票利率
+    - **可赎回债券**: 当赎回价格 > 当前价格时 YTC > YTM
+    - 赎回风险: 当利率下降时债券被赎回（必须以较低利率再投资）
+    - 在练习题上完美（25年期债券，10%息票按面值，可赎回 $1,050）✓
+  - **债券收益率排名 - 掌握模式** (2025-10-24) - 已掌握:
+    - **溢价债券**（价格 > $1,000）: **YTC < YTM < CY < CR**
+      - YTC最低（如果赎回最早失去溢价）
+      - 被赎回是坏的（失去高息票收入）
+    - **面值债券**（价格 = $1,000）: **YTC = YTM = CY = CR**
+      - 都等于息票利率
+    - **折价债券**（价格 < $1,000）: **CR < CY < YTM < YTC**
+      - YTC最高（如果赎回最早获得资本增值）
+      - 被赎回是好的（更快获得收益）
+    - **四种收益率指标**:
+      - **CR（息票利率）**: 年息票 ÷ 面值（永不改变）
+      - **CY（当前收益率）**: 年息票 ÷ 当前价格
+      - **YTM**: 到期的总回报（包括资本收益/损失）
+      - **YTC**: 如果赎回的总回报（包括赎回时的资本收益/损失）
+    - **记忆技巧**:
+      - 溢价: "Call Yields Terrible Misery"（YTC < YTM < CY < CR）
+      - 折价: "Can't You Try Calling?"（CR < CY < YTM < YTC）
+      - 面值: "Everyone's Equal"
+    - 全面理解得到证明 ✓
+  - **投资组合免疫** (2025-10-25) - 已掌握:
+    - 平衡**价格风险**和**再投资风险**
+    - 当利率上升: 债券价格下降但再投资收入上升（抵消）
+    - 当利率下降: 债券价格上升但再投资收入下降（抵消）
+    - 将债券久期与负债时间范围匹配
+    - **养老基金示例**: 5年期负债，购买5年久期债券
+    - 如果利率变化，两种风险抵消 → 仍然满足负债 ✓
+    - 在练习题上完美 ✓
+  - **修正久期** (2025-10-25) - 已掌握:
+    - **两种久期类型**:
+      - **Macaulay 久期**: 时间加权指标（以年为单位）
+      - **修正久期**: 价格敏感性指标
+    - **转换**: 修正久期 = Macaulay 久期 / (1 + 收益率)
+    - **价格变化公式**: %变化 = -修正久期 × Δ收益率
+    - **关键考试陷阱**: 必须在公式中使用前将Macaulay转换为修正！
+    - 示例: Macaulay 10年，收益率8% → 修正 = 9.26
+    - 2%利率上升 → -18.5%价格变化（不是-20%！）
+    - 学生正确挑战了错误答案 ✓
+  - **Gordon 增长模型与留存比率** (2025-10-25) - 已掌握:
+    - **留存比率**: 保留的收益百分比（不支付为股息）
+    - **支付比率**: 1 - 留存比率
+    - **增长率**: g = ROE × 留存比率
+    - **Gordon 模型**: P₀ = D₁ / (r - g)
+    - 示例: ROE 12.5%，留存50% → g = 6.25%
+    - D₀ $3.50，r 12% → 内在价值 = $64.70 ✓
+    - **权衡**: 更高留存 = 更高增长但更低当前股息
+    - 在练习题上完美 ✓
+  - **Gordon 增长模型 - D0 vs D1 澄清** (2025-11-01) - 强化:
+    - **D₀ = 刚支付**（最近股息已分配）
+    - **D₁ = 下一个股息**（即将到来，直接在公式中使用）
+    - **何时使用哪个**:
+      - 给定D₀（刚支付）: 必须先增长 → D₁ = D₀ × (1 + g)，然后使用 P₀ = D₁ / (r - g)
+      - 给定D₁（下一个股息）: 直接使用 → P₀ = D₁ / (r - g)
+    - **示例**: 股票刚支付 $1.64（D₀），g = 2.25%，r = 7.5%
       - D₁ = $1.64 × 1.0225 = $1.6769
-      - Intrinsic Value = $1.6769 / (0.075 - 0.0225) = $31.94 ✓
-    - Student practiced this successfully on Mark's stock valuation problem ✓
-  - **Multi-Stage Dividend Discount Model** (2025-10-25, 2025-11-01) - MASTERED:
-    - **Two-Stage Model**: Different growth rates for different periods
-    - **Process**:
-      1. Project dividends year by year during high-growth phase
-      2. Calculate terminal value at end of high-growth phase
-      3. Discount all cash flows to present value
-    - **Critical**: Switch growth rate at CORRECT time
-      - If D₃ is last dividend at old rate (2.25%), then D₄ is first at new rate (2.75%)
-      - Formula: D₄ = D₃ × (1 + new_g) = D₃ × 1.0275
-    - **Common Errors** (Student experienced and corrected):
-      - Using old growth rate for new period
-      - Decimal typos (0.00275 vs 0.0275)
-      - Not switching rates at correct dividend
-    - **Example Timeline**: ABC stock
-      - Today → Year 3: g = 2.25%
-      - Year 4+: g = 2.75% (must switch here!)
-    - Multiple practice problems completed with excellent verification ✓
-  - **In slides**: Pages 95-130
-  - **Still need to cover**: P/E ratios
+      - 内在价值 = $1.6769 / (0.075 - 0.0225) = $31.94 ✓
+    - 学生在Mark的股票估值问题上成功练习了这个 ✓
+  - **多阶段股息贴现模型** (2025-10-25, 2025-11-01) - 已掌握:
+    - **两阶段模型**: 不同期间的不同增长率
+    - **流程**:
+      1. 在高增长阶段逐年预测股息
+      2. 在高增长阶段结束时计算终值
+      3. 将所有现金流折现到现值
+    - **关键**: 在正确时间切换增长率
+      - 如果D₃是旧利率（2.25%）的最后一个股息，那么D₄是新利率（2.75%）的第一个
+      - 公式: D₄ = D₃ × (1 + new_g) = D₃ × 1.0275
+    - **常见错误**（学生经历并纠正）:
+      - 对新期间使用旧增长率
+      - 小数错误（0.00275 vs 0.0275）
+      - 不在正确股息处切换利率
+    - **示例时间线**: ABC股票
+      - 今天 → 第3年: g = 2.25%
+      - 第4年+: g = 2.75%（必须在这里切换！）
+    - 多个练习题完成，验证优秀 ✓
+  - **在幻灯片中**: 第95-130页
+  - **仍需覆盖**: P/E比率
 
-- [x] **D.34 Investment strategies** (2025-10-11, 2025-10-24) - **High confidence**
-  - Short selling mechanics
-  - Put options strategies
-  - When to use puts vs short selling
-  - Max loss calculations
-  - **Technical Analysis Strategies** (2025-10-24) - MASTERED:
-    - Range trading (buy support, sell resistance)
-    - Breakout trading (buy upward breakouts, sell downward breakouts)
-    - Support and resistance identification
-  - **In slides**: Pages 140-160
+- [x] **D.34 投资策略** (2025-10-11, 2025-10-24) - **高信心**
+  - 卖空机制
+  - 看跌期权策略
+  - 何时使用看跌期权 vs 卖空
+  - 最大损失计算
+  - **技术分析策略** (2025-10-24) - 已掌握:
+    - 区间交易（在支撑买入，在阻力卖出）
+    - 突破交易（买入向上突破，卖出向下突破）
+    - 支撑和阻力识别
+  - **在幻灯片中**: 第140-160页
 
-- [x] **D.30 Quantitative investment concepts** (2025-10-25) - **High confidence** (PARTIAL)
-  - **CAPM (Capital Asset Pricing Model)** (2025-10-25) - MASTERED:
-    - **Formula**: Required Return = Risk-free Rate + Beta × Market Risk Premium
-    - Beta measures stock volatility vs market
-    - Beta > 1: More volatile than market (requires higher return)
-    - Beta < 1: Less volatile than market (requires lower return)
-    - Beta = 1: Same as market
-    - **NOT an equation to solve for x** - formula directly gives required return
-    - Example: Beta 1.20, RF 1%, MRP 7% → Required Return = 9.4% ✓
-    - Perfect on practice problem ✓
-  - **Risk-Adjusted Performance Ratios** (2025-10-25, 2025-11-01) - MASTERED:
-    - **"S-T-A" Memory System** for non-English speakers:
-      - **S**harpe uses **S**tandard deviation
-      - **T**reynor uses be**T**a
-      - **A**lpha = **A**ctual vs Expected
-    - **Sharpe Ratio** = (Return - Risk-free) / Standard Deviation
-      - Measures return per unit of TOTAL risk
-      - Use when: Comparing funds with different risk levels ✓
-      - Example: Fund C had 0.35 (best) vs Fund A 0.33, Fund B 0.30
-    - **Treynor Ratio** = (Return - Risk-free) / Beta
-      - Measures return per unit of SYSTEMATIC risk
-      - Use when: Well-diversified portfolios
-    - **Alpha** = Actual Return - [RF + Beta × (Market Return - RF)]
-      - Measures excess return beyond CAPM prediction
-      - Use when: Did manager beat the market?
-    - **Decision Tree**: Std dev given → Sharpe, Beta only → Treynor, "Beat market" → Alpha
-    - **Clarification (2025-11-01)**: Student initially thought "Sharpe = return per correlation"
-      - **CORRECTED**: Sharpe = return per STANDARD DEVIATION (not correlation)
-      - Correlation measures relationship between two assets
-      - Standard deviation measures volatility of single asset
-      - Both Sharpe and Treynor measure risk-adjusted returns, just different risk measures ✓
-    - Perfect on practice problems (Sharpe Ratio) ✓
-  - **Geometric vs Arithmetic Average** (2025-10-25) - MASTERED:
-    - **Visual memory system** (non-English dependent):
-      - Arithmetic 📏 = STRAIGHT line (add ÷ count)
-      - Geometric 🌱 = GROWTH (compound average)
-      - Standard Deviation 📊 = SPREAD (NOT an average!)
-      - Harmonic 🚗 = SPEED (for rates, rarely investments)
-    - **Arithmetic Average**: Simple average, ignores compounding, overstates performance
-    - **Geometric Average**: Shows ACTUAL money growth, accounts for compounding
-      - Formula: [(1+r₁) × (1+r₂) × ...]^(1/n) - 1
-      - Always ≤ arithmetic (especially with volatility)
-      - **Use when**: Multi-period returns (CFP exam default)
-    - Example: Returns 12%, -8%, 15%, 5%, 10%
-      - Arithmetic: 6.8%
-      - Geometric: 6.47% (more accurate) ✓
-    - Perfect on practice problem ✓
-  - **In slides**: Pages 60-75 (HPR, IRR, Standard deviation, Beta, Sharpe/Treynor/Jensen, NPV)
-  - **Still need to cover**: Standard deviation calculations, NPV/IRR calculations
+- [x] **D.30 量化投资概念** (2025-10-25) - **高信心** (部分)
+  - **CAPM（资本资产定价模型）** (2025-10-25) - 已掌握:
+    - **公式**: 要求回报 = 无风险利率 + Beta × 市场风险溢价
+    - Beta 衡量股票相对于市场的波动性
+    - Beta > 1: 比市场更波动（需要更高回报）
+    - Beta < 1: 比市场更不波动（需要更低回报）
+    - Beta = 1: 与市场相同
+    - **不是解x的方程** - 公式直接给出要求回报
+    - 示例: Beta 1.20，RF 1%，MRP 7% → 要求回报 = 9.4% ✓
+    - 在练习题上完美 ✓
+  - **风险调整绩效比率** (2025-10-25, 2025-11-01) - 已掌握:
+    - **"S-T-A" 记忆系统**（针对非英语使用者）:
+      - **S**harpe 使用 **S**tandard deviation（标准差）
+      - **T**reynor 使用 be**T**a（Beta）
+      - **A**lpha = **A**ctual vs Expected（实际 vs 预期）
+    - **Sharpe 比率** = (回报 - 无风险) / 标准差
+      - 衡量每单位总风险的回报
+      - 使用时机: 比较不同风险水平的基金 ✓
+      - 示例: 基金C有0.35（最好）vs 基金A 0.33，基金B 0.30
+    - **Treynor 比率** = (回报 - 无风险) / Beta
+      - 衡量每单位系统性风险的回报
+      - 使用时机: 充分多样化的投资组合
+    - **Alpha** = 实际回报 - [RF + Beta × (市场回报 - RF)]
+      - 衡量超出CAPM预测的 excess回报
+      - 使用时机: 经理是否击败市场？
+    - **决策树**: 给定标准差 → Sharpe，仅Beta → Treynor，"击败市场" → Alpha
+    - **澄清 (2025-11-01)**: 学生最初认为"Sharpe = 每相关性回报"
+      - **纠正**: Sharpe = 每标准差回报（不是相关性）
+      - 相关性衡量两个资产之间的关系
+      - 标准差衡量单个资产的波动性
+      - Sharpe 和 Treynor 都衡量风险调整回报，只是不同的风险指标 ✓
+    - 在练习题上完美（Sharpe 比率）✓
+  - **几何 vs 算术平均** (2025-10-25) - 已掌握:
+    - **视觉记忆系统**（不依赖英语）:
+      - 算术 📏 = 直线（加 ÷ 计数）
+      - 几何 🌱 = 增长（复合平均）
+      - 标准差 📊 = 扩散（不是平均！）
+      - 调和 🚗 = 速度（用于利率，很少用于投资）
+    - **算术平均**: 简单平均，忽略复利，高估表现
+    - **几何平均**: 显示实际资金增长，考虑复利
+      - 公式: [(1+r₁) × (1+r₂) × ...]^(1/n) - 1
+      - 总是 ≤ 算术（特别是波动性时）
+      - **使用时机**: 多期回报（CFP 考试默认）
+    - 示例: 回报 12%、-8%、15%、5%、10%
+      - 算术: 6.8%
+      - 几何: 6.47%（更准确）✓
+    - 在练习题上完美 ✓
+  - **在幻灯片中**: 第60-75页（HPR、IRR、标准差、Beta、Sharpe/Treynor/Jensen、NPV）
+  - **仍需覆盖**: 标准差计算、NPV/IRR计算
 
-### ✅ Mastered Topics (9/9) - DOMAIN COMPLETE ✅
+### ✅ 已掌握主题 (9/9) - 领域完成 ✅
 
-- [x] **D.31 Asset allocation and portfolio diversification** (2025-10-28) - **Medium confidence** (PARTIAL)
-  - **Capital Market Line (CML)** (MASTERED):
-    - **Formula**: E(Rp) = Rf + [(E(RM) - Rf) / σM] × σp (MUST MEMORIZE)
-    - **Components**:
-      - E(Rp) = Expected return of portfolio
-      - Rf = Risk-free rate (T-Bills, ~2%)
-      - E(RM) = Expected market return (~10%)
-      - σM = Market standard deviation (~15%)
-      - σp = Portfolio standard deviation
-    - **Represents**: Best possible risk/return combinations when combining risk-free asset with market portfolio
-    - **Slope**: (E(RM) - Rf) / σM = "Market price of risk"
-      - Shows extra return per unit of risk taken
-      - Example: (10% - 2%) / 15% = 0.533 (0.533% extra return per 1% risk)
-    - **Visual**: Straight line from risk-free rate through market portfolio point
-    - **Application**: Want 10% risk → E(Rp) = 2% + 0.533 × 10% = 7.33% return
-    - **Portfolio mix**: Combine percentages of T-Bills and market portfolio to achieve target risk
-    - Perfect conceptual understanding, needs practice problems ✓
-  - **In slides**: Pages 60-75 (MPT, Efficient frontier, CAPM, CML)
-  - **Still need to cover**: Modern Portfolio Theory details, Efficient Frontier, CAPM connection
+- [x] **D.31 资产配置和投资组合多样化** (2025-10-28) - **中等信心** (部分)
+  - **资本市场线（CML）** (已掌握):
+    - **公式**: E(Rp) = Rf + [(E(RM) - Rf) / σM] × σp（必须记忆）
+    - **组成部分**:
+      - E(Rp) = 投资组合的预期回报
+      - Rf = 无风险利率（T-Bills，~2%）
+      - E(RM) = 预期市场回报（~10%）
+      - σM = 市场标准差（~15%）
+      - σp = 投资组合标准差
+    - **代表**: 将无风险资产与市场投资组合结合时的最佳风险/回报组合
+    - **斜率**: (E(RM) - Rf) / σM = "风险的市场价格"
+      - 显示每单位承担风险的额外回报
+      - 示例: (10% - 2%) / 15% = 0.533（每1%风险0.533%额外回报）
+    - **视觉**: 从无风险利率通过市场投资组合点的直线
+    - **应用**: 想要10%风险 → E(Rp) = 2% + 0.533 × 10% = 7.33%回报
+    - **投资组合组合**: 结合T-Bills和市场投资组合的百分比以实现目标风险
+    - 完美概念理解，需要练习题 ✓
+  - **在幻灯片中**: 第60-75页（MPT、有效前沿、CAPM、CML）
+  - **仍需覆盖**: 现代投资组合理论细节、有效前沿、CAPM连接
 
-**Priority**: **INVESTMENT PLANNING DOMAIN 100% COMPLETE!** ✅ (17% of exam - second highest weighted domain mastered!)
+**优先级**: **投资规划领域100%完成！** ✅（考试17% - 第二高权重领域已掌握！）
 
 ---
 
-## E. Tax Planning (14%)
+## E. 税务规划 (14%)
 
-**Slides**: Tax (150 pages)
+**幻灯片**: 税务（150页）
 
-### ✅ Mastered Topics (6/8)
+### ✅ 已掌握主题 (6/8)
 
-- [x] **E.36 Tax law fundamentals** (2025-10-11, 2025-10-25, 2025-11-01, 2025-11-02) - **High confidence**
-  - Tax doctrines: Step transaction, Constructive receipt, Assignment of income
-  - **Alternative Minimum Tax (AMT) - Property Tax Treatment** (2025-11-02) - MASTERED:
-    - **Property Taxes and AMT**:
-      - Regular tax: State/local property taxes DEDUCTIBLE (up to $10K SALT cap)
-      - AMT: State/local taxes NOT deductible (add-back item under IRC §56(b)(1)(A)(ii))
-    - **The Trap**: Prepaying property taxes when IN AMT
-      - Prepaying seems smart (accelerate deduction to current year)
-      - But in AMT: You DON'T get the deduction anyway!
-      - Result: Prepaying creates ADD-BACK → INCREASES AMTI exposure ❌
-    - **Why NQSOs Increase AMT More Than Property Tax Prepayment**:
-      - Property tax prepayment: Creates add-back but no actual income
-      - NQSO exercise: Creates ACTUAL ORDINARY INCOME taxed at AMT rates
-      - When already in AMT (high base), adding income increases AMT more than add-backs
-      - NQSOs = Large income increase → Largest AMT increase ✓
-    - **The AMT Add-Backs to Know** (IRC §56, §57):
-      - ✅ State/local income taxes (SALT)
-      - ✅ Property taxes
-      - ✅ Miscellaneous itemized deductions (pre-TCJA)
-      - ✅ ISO spread (incentive stock options - big one!)
-      - ❌ Charitable contributions (NOT added back)
-      - ❌ Mortgage interest on primary residence (NOT added back)
-    - **Memory System**: "AMT SALT Trap"
-      - **A**MT doesn't allow state/local/property taxes
-      - **M**unicipals are ok (usually)
-      - **T**axes = add-back
-      - **S**o prepaying doesn't help
-      - **A**dds to AMTI
-      - **L**ose the deduction
-      - **T**axed twice (paid tax, no benefit)
-    - Student initially selected prepaying property taxes thinking it helps avoid AMT ✓
-    - Now understands: Property taxes NOT deductible for AMT, prepaying increases exposure ✓
-  - **Divorced Parent Dependency Rules - IRC §152(e)** (2025-11-01) - MASTERED:
-    - **Custodial Parent Rule**: Custodial parent (more nights with child) claims dependency exemption by DEFAULT
-    - **Overrides financial support**: True even if non-custodial parent provides MORE $ support
-    - **Why**: Custodial parent has day-to-day expenses (food, utilities, housing, time-based costs)
-    - **IRS Presumption**: Custodial parent deemed to provide >50% support
-    - **Form 8332 - Release of Claim to Exemption**:
-      - ONLY way to change the default rule
-      - Custodial parent must sign written release to non-custodial parent
-      - Both parents attach Form 8332 to tax returns
-      - Without Form 8332, custody ALWAYS wins (support % irrelevant)
-    - **Key Trap**: Financial support percentage does NOT determine who claims dependent in divorce situations
-    - **Example**: Ruth (custodial parent) vs Doug (provides 75% support, $15K/year)
-      - No Form 8332 written agreement → Ruth claims both children ✓
-      - Doug's higher support doesn't matter under IRC §152(e)
-    - **Normal Dependency vs Divorce Rule**:
-      - Normal: Whoever provides >50% support claims dependent
-      - Divorce: Custodial parent claims (regardless of support %), unless Form 8332
-    - **Memory System**: "CUSTODY WINS (unless released)"
-      - Custodial parent gets dependency by default
-      - Unless Form 8332 signed (written release)
-      - Support % doesn't matter (special divorce rule)
-    - Perfect understanding ✓
-  - **Municipal Bond Taxation** (2025-10-25) - MASTERED:
-    - Municipal bonds have TWO types of income:
-      1. **INTEREST income** (coupon payments):
-         - Federal tax: **EXEMPT** (tax-free)
-         - State tax: **EXEMPT if home state resident** (triple-tax-free if local)
-      2. **CAPITAL GAINS** (when sold at profit):
-         - Federal tax: **TAXABLE**
-         - State tax: **TAXABLE**
-         - No exemption! Capital gains fully taxable even on munis
-    - **Corrected misconception**: Student thought munis avoided all federal tax
-    - **Key insight**: Interest tax-free, but capital gains ARE taxable
-    - This distinction critical for capital loss offset strategies ✓
-  - **Treasury Bond Taxation**:
-    - INTEREST: Federal taxable, state exempt
-    - CAPITAL GAINS: Fully taxable (both levels)
-  - **In slides**: Pages 1-15
+- [x] **E.36 税法基础** (2025-10-11, 2025-10-25, 2025-11-01, 2025-11-02) - **高信心**
+  - 税法原则: 分步交易、推定收入、收入转让
+  - **替代最低税（AMT）- 房产税处理** (2025-11-02) - 已掌握:
+    - **房产税和AMT**:
+      - 常规税: 州/地方房产税可扣除（最高$10K SALT上限）
+      - AMT: 州/地方税不可扣除（IRC §56(b)(1)(A)(ii)下的加回项目）
+    - **陷阱**: 在AMT中预付房产税
+      - 预付似乎明智（加速扣除到当前年度）
+      - 但在AMT中: 你无论如何都得不到扣除！
+      - 结果: 预付创建加回 → 增加AMTI暴露 ❌
+    - **为什么NQSO比房产税预付增加更多AMT**:
+      - 房产税预付: 创建加回但没有实际收入
+      - NQSO行使: 创建实际普通收入，按AMT税率征税
+      - 当已经在AMT中（高基数）时，增加收入比加回增加更多AMT
+      - NQSO = 大收入增加 → 最大AMT增加 ✓
+    - **需要知道的AMT加回** (IRC §56, §57):
+      - ✅ 州/地方所得税（SALT）
+      - ✅ 房产税
+      - ✅ 杂项分项扣除（TCJA之前）
+      - ✅ ISO价差（激励股票期权 - 大项！）
+      - ❌ 慈善捐赠（不加回）
+      - ❌ 主要住所的抵押贷款利息（不加回）
+    - **记忆系统**: "AMT SALT陷阱"
+      - **A**MT不允许州/地方/房产税
+      - **M**unicipals可以（通常）
+      - **T**axes = 加回
+      - **S**o预付没有帮助
+      - **A**dds到AMTI
+      - **L**ose扣除
+      - **T**axed两次（已付税，无收益）
+    - 学生最初选择预付房产税认为有助于避免AMT ✓
+    - 现在理解: 房产税对AMT不可扣除，预付增加暴露 ✓
+  - **离异父母依赖规则 - IRC §152(e)** (2025-11-01) - 已掌握:
+    - **监护父母规则**: 监护父母（与孩子共度更多夜晚）默认申请依赖豁免
+    - **覆盖财务支持**: 即使非监护父母提供更多$支持也成立
+    - **为什么**: 监护父母有日常费用（食物、公用事业、住房、基于时间的成本）
+    - **IRS推定**: 监护父母被视为提供>50%支持
+    - **Form 8332 - 豁免权释放**:
+      - 改变默认规则的唯一方法
+      - 监护父母必须签署书面释放给非监护父母
+      - 双方父母在纳税申报表上附上Form 8332
+      - 没有Form 8332，监护权总是获胜（支持%无关）
+    - **关键陷阱**: 财务支持百分比在离异情况下不决定谁申请受抚养人
+    - **示例**: Ruth（监护父母）vs Doug（提供75%支持，$15K/年）
+      - 没有Form 8332书面协议 → Ruth申请两个孩子 ✓
+      - Doug的更高支持在IRC §152(e)下无关
+    - **正常依赖 vs 离异规则**:
+      - 正常: 提供>50%支持的人申请受抚养人
+      - 离异: 监护父母申请（无论支持%），除非Form 8332
+    - **记忆系统**: "监护权获胜（除非释放）"
+      - 监护父母默认获得依赖
+      - 除非Form 8332签署（书面释放）
+      - 支持%无关（特殊离异规则）
+    - 完美理解 ✓
+  - **市政债券税收** (2025-10-25) - 已掌握:
+    - 市政债券有两种类型的收入:
+      1. **利息收入**（息票支付）:
+         - 联邦税: **免税**（免税）
+         - 州税: **如果是本州居民则免税**（如果是本地则三重免税）
+      2. **资本收益**（以利润出售时）:
+         - 联邦税: **应税**
+         - 州税: **应税**
+         - 无豁免！资本收益即使对市政债券也完全应税
+    - **纠正误解**: 学生认为市政债券避免所有联邦税
+    - **关键洞察**: 利息免税，但资本收益应税
+    - 这个区别对资本损失抵消策略至关重要 ✓
+  - **国债税收**:
+    - 利息: 联邦应税，州免税
+    - 资本收益: 完全应税（两个级别）
+  - **在幻灯片中**: 第1-15页
 
-- [x] **E.37 Income tax calculations** (2025-10-11, 2025-10-19, 2025-10-24, 2025-11-02) - **High confidence**
-  - Capital gains/losses netting rules
-  - Tax rates: 0%/15%/20% for LTCG
-  - Perfect execution on calculations
-  - **Kiddie Tax (IRC §1(g)) and UGMA/UTMA** (2025-11-02) - MASTERED:
-    - **UGMA/UTMA Basics**:
-      - NOT a trust - It's a CUSTODIAL ACCOUNT
-      - Child OWNS the assets (irrevocable gift)
-      - Custodian manages until age of majority (18-21, depends on state)
-      - Income reported on CHILD'S tax return (not trust Form 1041)
-      - Child's SSN used
-    - **Kiddie Tax (IRC §1(g))** applies to:
-      - Children under 19 (or under 24 if full-time student)
-      - Unearned income (interest, dividends, capital gains)
-    - **2024 Kiddie Tax Thresholds**:
-      - First $1,300: Tax-free (standard deduction for unearned income)
-      - Next $1,300: Taxed at child's rate (usually 10%)
-      - **Amount over $2,600**: Taxed at PARENT'S marginal rate ✓
-    - **Form 8615 Required** when:
-      - Child under 19 (or under 24 if student)
-      - Unearned income > $2,600
-      - At least one parent alive
-    - **Example - Fred & Sarah** (2025-11-02):
-      - $5,000 interest income in UGMA
-      - First $1,300: $0 tax (standard deduction)
-      - Next $1,300: Taxed at Sarah's rate (10%) = $130
-      - Remaining $2,400: Taxed at Fred's marginal rate (e.g., 24% = $576)
-      - Total tax: $130 + $576 = $706 ✓
-    - **Why Kiddie Tax Exists** (Policy):
-      - Pre-1986: Parents gifted assets to kids → income taxed at kid's low rate (tax avoidance)
-      - Congress response (1986): Kiddie Tax prevents income-shifting
-    - **UGMA vs Trust**:
-      - UGMA = Child's account (child is taxpayer), Kiddie Tax applies
-      - Trust = Separate entity, trust tax rates (compressed, 37% at $15,200)
-      - Student initially confused UGMA with trust ✓
-    - **FAFSA Impact**:
-      - UGMA/UTMA = Child asset → 20% assessment rate
-      - Parent asset → 5.64% assessment rate
-      - $10,000 in UGMA → Reduces aid by $2,000/year
-    - **Memory System**:
+- [x] **E.37 所得税计算** (2025-10-11, 2025-10-19, 2025-10-24, 2025-11-02) - **高信心**
+  - 资本收益/损失净额规则
+  - 税率: LTCG为0%/15%/20%
+  - 计算完美执行
+  - **儿童税（IRC §1(g)）和UGMA/UTMA** (2025-11-02) - 已掌握:
+    - **UGMA/UTMA基础**:
+      - 不是信托 - 这是监护账户
+      - 孩子拥有资产（不可撤销赠与）
+      - 监护人管理直到成年（18-21岁，取决于州）
+      - 收入在孩子纳税申报表上报告（不是信托Form 1041）
+      - 使用孩子的SSN
+    - **儿童税（IRC §1(g)）**适用于:
+      - 19岁以下儿童（或24岁以下如果是全日制学生）
+      - 非劳动收入（利息、股息、资本收益）
+    - **2024年儿童税阈值**:
+      - 前$1,300: 免税（非劳动收入的标准扣除）
+      - 下一个$1,300: 按儿童税率征税（通常10%）
+      - **超过$2,600的金额**: 按父母的边际税率征税 ✓
+    - **需要Form 8615**当:
+      - 儿童19岁以下（或24岁以下如果是学生）
+      - 非劳动收入 > $2,600
+      - 至少一个父母在世
+    - **示例 - Fred & Sarah** (2025-11-02):
+      - UGMA中$5,000利息收入
+      - 前$1,300: $0税（标准扣除）
+      - 下一个$1,300: 按Sarah的税率征税（10%）= $130
+      - 剩余$2,400: 按Fred的边际税率征税（例如，24% = $576）
+      - 总税: $130 + $576 = $706 ✓
+    - **为什么存在儿童税**（政策）:
+      - 1986年前: 父母将资产赠与孩子 → 收入按孩子的低税率征税（避税）
+      - 国会回应（1986）: 儿童税防止收入转移
+    - **UGMA vs 信托**:
+      - UGMA = 孩子的账户（孩子是纳税人），儿童税适用
+      - 信托 = 独立实体，信托税率（压缩，$15,200时为37%）
+      - 学生最初混淆UGMA与信托 ✓
+    - **FAFSA影响**:
+      - UGMA/UTMA = 孩子资产 → 20%评估率
+      - 父母资产 → 5.64%评估率
+      - UGMA中$10,000 → 每年减少$2,000援助
+    - **记忆系统**:
       - "UGMA = Under Grantor's Management, Asset's child's"
-      - "Kiddie Tax: $1,300 Free, $1,300 Kid, Rest to MOM & DAD"
-      - "UGMA = 20% FAFSA hit"
-    - Perfect understanding ✓
-  - **Estimated tax safe harbor rules** (2025-10-19) - MASTERED:
-    - 100% prior year if AGI ≤ $150K, 110% if > $150K
-    - OR 90% of current year
-    - Use LESSER amount to avoid penalty
-    - Perfect on lottery winnings problem ✓
-  - **OID (Original Issue Discount) Taxation - Zero-Coupon Bonds** (2025-10-24) - MASTERED:
-    - OID = Par value - Purchase price
-    - Must use **compound interest accretion** (NOT straight-line)
-    - Calculate implied YTM first: FV = PV × (1 + r)^n
-    - Each year: Taxable interest = Beginning value × YTM
-    - Taxable amount increases each year (compound growth)
-    - **Phantom income**: Pay tax on money not received
-    - Example: $445 bond → $1,000 in 10 years at 8.41% YTM
-      - Year 1: $445 × 8.41% = $37.42 tax
-      - Year 2: $482.42 × 8.41% = $40.57 tax
-    - Common trap: Straight-line would be ($1,000 - $445) ÷ 10 = $55.50 (WRONG!)
-    - Perfect on practice problem (Year 2 taxable interest calculation) ✓
-  - **In slides**: Pages 20-50 (Filing status, Standard deduction, Gross income, Kiddie tax, AMT)
+      - "儿童税: $1,300免费，$1,300孩子，其余给MOM & DAD"
+      - "UGMA = 20% FAFSA打击"
+    - 完美理解 ✓
+  - **预估税安全港规则** (2025-10-19) - 已掌握:
+    - 如果AGI ≤ $150K，前一年的100%，如果> $150K，110%
+    - 或当前年的90%
+    - 使用较小金额以避免罚金
+    - 在彩票中奖问题上完美 ✓
+  - **OID（原始发行折扣）税收 - 零息债券** (2025-10-24) - 已掌握:
+    - OID = 面值 - 购买价格
+    - 必须使用**复利增值**（不是直线法）
+    - 首先计算隐含YTM: FV = PV × (1 + r)^n
+    - 每年: 应税利息 = 期初价值 × YTM
+    - 应税金额每年增加（复合增长）
+    - **幻影收入**: 对未收到的钱纳税
+    - 示例: $445债券 → 10年后$1,000，YTM 8.41%
+      - 第1年: $445 × 8.41% = $37.42税
+      - 第2年: $482.42 × 8.41% = $40.57税
+    - 常见陷阱: 直线法将是($1,000 - $445) ÷ 10 = $55.50（错误！）
+    - 在练习题上完美（第2年应税利息计算）✓
+  - **在幻灯片中**: 第20-50页（申报状态、标准扣除、总收入、儿童税、AMT）
 
-- [x] **E.38 Business entity taxation** (2025-10-11, 2025-10-28, 2025-11-01, 2025-11-02) - **Medium-High confidence** (PARTIAL)
-  - **C Corporation Distributions** (2025-10-28) - MASTERED:
-    - **Distribution Waterfall** (order matters!):
-      1. **Dividend income** - Up to Earnings & Profits (E&P) amount
-      2. **Return of basis** - Tax-free, reduces shareholder's stock basis
-      3. **Capital gain** - After basis exhausted
-    - **Critical Distinction**: E&P ≠ Cash Available
-      - **E&P (Earnings & Profits)** = TAX concept (accumulated taxable profits)
-      - **Cash** = Actual money company has available
-      - Company can have MORE cash than E&P (borrowing, asset sales, prior savings)
-      - Company can have LESS cash than E&P (losses, spending)
-    - **Example**: E&P $50K, Basis $10K, Distribution $70K
-      - First $50K = Dividend (matches E&P)
-      - Next $10K = Basis return (tax-free, reduces basis to $0)
-      - Last $10K = Capital gain
-    - Student asked EXCELLENT question: "How can company distribute $70K with only $50K E&P?" ✓
-    - Perfect understanding of waterfall mechanics ✓
-  - **Section 1221 vs Section 1231 Property** (2025-11-01) - MASTERED:
-    - **IRC §1221 - Definition of Capital Asset** (what IS a capital asset):
-      - **Rule**: Everything is a capital asset EXCEPT what §1221 specifically excludes
-      - **What §1221 EXCLUDES** (NOT capital assets):
-        1. Inventory or stock in trade (goods held for sale to customers)
-        2. Depreciable property used in business
-        3. Real estate used in business
-        4. Accounts/notes receivable from business operations
-        5. Creative works (copyrights, compositions) held by creator
-        6. Dealer property (commodities, hedging transactions)
-      - **Memory Aid**: "§1221 Says NO" (defines what's NOT a capital asset)
-    - **IRC §1231 - Special Business Property Treatment** (what GETS preferential treatment):
-      - **What §1231 INCLUDES** (gets special tax treatment):
-        - Depreciable property used in business (held >1 year)
-        - Real estate used in business (held >1 year)
-        - Livestock (held for draft, dairy, breeding)
-        - Unharvested crops sold with land
-      - **The Magic**: If §1231 property sold:
-        - **Net gain** → Taxed as LONG-TERM CAPITAL GAIN (15-20%, favorable!)
-        - **Net loss** → Deducted as ORDINARY LOSS (against ordinary income, better!)
-        - "Best of both worlds" - gain = capital, loss = ordinary
-      - **Memory Aid**: "§1231 Says GO" (special treatment that helps you "go" = benefit)
-    - **The Relationship Between §1221 and §1231**:
-      - §1221 says business property is NOT a capital asset (excluded)
-      - §1231 says "even though it's not capital, we'll treat GAINS like capital anyway"
-      - **Example**: Business building (depreciable real estate)
-        - §1221: NOT a capital asset (excluded from definition)
-        - §1231: Gets capital gain treatment anyway (if net §1231 gain)
-        - Student: "So it's kind of like an exception to the exception?" → YES! Exactly! ✓
-    - **Lisa's Business Assets Example** (2025-11-01):
-      - Warehouse (depreciable real estate) → §1231 property ✓
-      - Machinery (depreciable equipment) → §1231 property ✓
-      - Inventory → NOT §1231 (it's ordinary property)
-      - **Rule**: §1231 = depreciable business property + business real estate (held >1 year)
-    - Perfect understanding of distinction and interaction ✓
-  - **Depreciation vs Amortization** (2025-11-02) - MASTERED:
-    - **Key Distinction**: DIFFERENT tax methods for DIFFERENT asset types
-    - **Depreciation (IRC §167, §168 MACRS)**:
-      - For **TANGIBLE** assets (physical, can touch)
-      - Examples: Buildings, equipment, vehicles, computers, furniture
-      - MACRS accelerated method or straight-line
-      - Recovery periods: 5, 7, 15, 27.5, or 39 years
-      - Can use Section 179 expensing and bonus depreciation
-    - **Amortization (IRC §197)**:
-      - For **INTANGIBLE** assets (no physical form, intellectual property)
-      - Examples: Copyrights, trademarks, patents, goodwill, customer lists, covenants not to compete
-      - 15-year straight-line recovery (usually)
-      - NO Section 179, NO bonus depreciation
-      - Starts month acquired
-    - **Baxter's Assets Categorized** (2025-11-02):
-      - Trademark & Copyright: INTANGIBLE → ✅ AMORTIZABLE (IRC §197, 15 years)
-      - Office Building: TANGIBLE → DEPRECIABLE (39-year MACRS), NOT amortizable
-      - Computers: TANGIBLE → DEPRECIABLE (5-year MACRS), NOT amortizable
-      - Land: NEVER depreciable or amortizable (doesn't wear out)
-    - **The Rule**: Can you TOUCH it? → Depreciate. Can't touch it (idea/right)? → Amortize
-    - **Why Different Terms?**:
-      - Both recover cost over time (same goal)
-      - But different tax rules based on asset type
-      - Tangible wears out physically → depreciation rules
-      - Intangible has legal/economic life → amortization rules
-      - NOT interchangeable terms!
-    - **Memory System**: "D.A.T.I. Rule"
-      - **D**epreciation for **T**angible
-      - **A**mortization for **I**ntangible
-    - **Drop Test**: "If you can DROP IT on your foot → DEPRECIATE. If you can't DROP IT (not physical) → AMORTIZE"
-    - Student initially confused office building (thought amortizable) ✓
-    - Now understands: Buildings = tangible = depreciable, NOT amortizable ✓
-    - Perfect clarity on distinction ✓
-  - **In slides**: Pages 135-145
-  - **Still need to cover**: Section 179 expensing, MACRS depreciation, Mid-quarter convention
-  - **Action**: Study Section 179/MACRS with fresh mind (HIGH PRIORITY GAP still exists)
+- [x] **E.38 企业实体税收** (2025-10-11, 2025-10-28, 2025-11-01, 2025-11-02) - **中等-高信心** (部分)
+  - **C公司分配** (2025-10-28) - 已掌握:
+    - **分配瀑布**（顺序重要！）:
+      1. **股息收入** - 最高到收益和利润（E&P）金额
+      2. **基础返还** - 免税，减少股东股票基础
+      3. **资本收益** - 基础耗尽后
+    - **关键区别**: E&P ≠ 可用现金
+      - **E&P（收益和利润）** = 税收概念（累计应税利润）
+      - **现金** = 公司实际拥有的资金
+      - 公司可以有比E&P更多的现金（借款、资产销售、先前储蓄）
+      - 公司可以有比E&P更少的现金（损失、支出）
+    - **示例**: E&P $50K，基础$10K，分配$70K
+      - 前$50K = 股息（匹配E&P）
+      - 下一个$10K = 基础返还（免税，将基础减少到$0）
+      - 最后$10K = 资本收益
+    - 学生问了优秀的问题: "公司如何只有$50K E&P却分配$70K？" ✓
+    - 完美理解瀑布机制 ✓
+  - **Section 1221 vs Section 1231 财产** (2025-11-01) - 已掌握:
+    - **IRC §1221 - 资本资产定义**（什么是资本资产）:
+      - **规则**: 一切都是资本资产，除了§1221特别排除的
+      - **§1221排除什么**（不是资本资产）:
+        1. 库存或贸易股票（为销售给客户而持有的商品）
+        2. 业务中使用的折旧财产
+        3. 业务中使用的房地产
+        4. 业务运营产生的应收账款/票据
+        5. 创作作品（版权、作品）由创作者持有
+        6. 交易商财产（商品、对冲交易）
+      - **记忆辅助**: "§1221说不"（定义什么不是资本资产）
+    - **IRC §1231 - 特殊业务财产处理**（什么获得优惠待遇）:
+      - **§1231包括什么**（获得特殊税收待遇）:
+        - 业务中使用的折旧财产（持有>1年）
+        - 业务中使用的房地产（持有>1年）
+        - 牲畜（用于牵引、乳制品、繁殖）
+        - 与土地一起出售的未收获作物
+      - **魔法**: 如果§1231财产出售:
+        - **净收益** → 按长期资本收益征税（15-20%，有利！）
+        - **净损失** → 作为普通损失扣除（针对普通收入，更好！）
+        - "两全其美" - 收益 = 资本，损失 = 普通
+      - **记忆辅助**: "§1231说去"（帮助您"去"的特殊待遇 = 收益）
+    - **§1221和§1231之间的关系**:
+      - §1221说业务财产不是资本资产（排除）
+      - §1231说"即使不是资本，我们也会将收益视为资本"
+      - **示例**: 业务建筑（折旧房地产）
+        - §1221: 不是资本资产（从定义中排除）
+        - §1231: 无论如何获得资本收益待遇（如果净§1231收益）
+        - 学生: "所以这有点像例外的例外？" → 是的！正是！✓
+    - **Lisa的业务资产示例** (2025-11-01):
+      - 仓库（折旧房地产）→ §1231财产 ✓
+      - 机械（折旧设备）→ §1231财产 ✓
+      - 库存 → 不是§1231（它是普通财产）
+      - **规则**: §1231 = 折旧业务财产 + 业务房地产（持有>1年）
+    - 完美理解区别和相互作用 ✓
+  - **折旧 vs 摊销** (2025-11-02) - 已掌握:
+    - **关键区别**: 不同资产类型的不同税收方法
+    - **折旧（IRC §167, §168 MACRS）**:
+      - 用于**有形**资产（物理的，可以触摸）
+      - 示例: 建筑、设备、车辆、计算机、家具
+      - MACRS加速方法或直线法
+      - 回收期: 5、7、15、27.5或39年
+      - 可以使用Section 179费用化和奖金折旧
+    - **摊销（IRC §197）**:
+      - 用于**无形**资产（无物理形式，知识产权）
+      - 示例: 版权、商标、专利、商誉、客户名单、不竞争契约
+      - 15年直线回收（通常）
+      - 无Section 179，无奖金折旧
+      - 从获得月份开始
+    - **Baxter的资产分类** (2025-11-02):
+      - 商标和版权: 无形 → ✅ 可摊销（IRC §197，15年）
+      - 办公楼: 有形 → 可折旧（39年MACRS），不可摊销
+      - 计算机: 有形 → 可折旧（5年MACRS），不可摊销
+      - 土地: 永远不可折旧或摊销（不会磨损）
+    - **规则**: 你能触摸它吗？→ 折旧。不能触摸它（想法/权利）？→ 摊销
+    - **为什么不同术语？**:
+      - 两者都在时间上回收成本（相同目标）
+      - 但基于资产类型的不同税收规则
+      - 有形物理磨损 → 折旧规则
+      - 无形有法律/经济寿命 → 摊销规则
+      - 不是可互换的术语！
+    - **记忆系统**: "D.A.T.I.规则"
+      - **D**epreciation用于**T**angible
+      - **A**mortization用于**I**ntangible
+    - **掉落测试**: "如果你能把它掉在脚上 → 折旧。如果你不能掉它（不是物理的）→ 摊销"
+    - 学生最初混淆办公楼（认为可摊销）✓
+    - 现在理解: 建筑 = 有形 = 可折旧，不可摊销 ✓
+    - 完美清晰的区别 ✓
+  - **在幻灯片中**: 第135-145页
+  - **仍需覆盖**: Section 179费用化、MACRS折旧、季度中约定
+  - **行动**: 用新鲜头脑学习Section 179/MACRS（高优先级缺口仍然存在）
 
-- [x] **E.40 Tax reduction techniques** (2025-10-11, 2025-10-19, 2025-10-25, 2025-11-02) - **High confidence**
-  - Traditional IRA contributions & deductions
-  - Roth IRA strategy
-  - QCD (Qualified Charitable Distributions)
-  - Active participant phase-outs
-  - **Bad Debt Deduction Requirements (IRC §166)** (2025-11-02) - MASTERED:
-    - To deduct non-business bad debt (as short-term capital loss), loan must be:
-      1. **Bona fide debt** - True debt, not a gift
-      2. **Legal obligation to repay** - Unconditional promise (NOT contingent!)
-      3. **Reasonable expectation of repayment** - Lender expected to be repaid
-      4. **Became worthless** during the tax year
-      5. **Previously included in income** OR basis in the debt
-    - **The Contingent Repayment Problem**:
-      - "Pay me back IF business succeeds" = NOT legal obligation ❌
-      - "Pay me back IF I get inheritance" = NOT legal obligation ❌
-      - IRS views contingent repayment as part gift, part loan
-      - If business fails → Borrower had NO obligation → NOT deductible
-    - **The Family Loan Problem**:
-      - IRS presumes family loans are GIFTS (not debts) unless proven
-      - Must PROVE with:
-        - Written promissory note
-        - Stated interest rate (at least AFR - Applicable Federal Rate)
-        - Repayment schedule
-        - Collateral or security (if applicable)
-        - Actual efforts to collect
-      - No written agreement + family relationship = presumed gift ❌
-    - **Example - Mother-Daughter Loan** (2025-11-02):
-      - $50,000 loan for business, contingent on business succeeding
-      - FAILS "Legal Obligation" test (contingent repayment)
-      - If business fails, daughter had NO duty to repay
-      - NOT deductible if becomes worthless ❌
-    - **Example - Friend Loan with Written Agreement** (2025-11-02):
-      - $20,000 for investment, written agreement + interest charged
-      - PASSES all tests:
-        - Written agreement = bona fide debt ✓
-        - Interest charged = economic substance (not gift) ✓
-        - Unconditional repayment = legal obligation ✓
-      - If worthless → Deductible as short-term capital loss ($3K/year limit) ✓
-    - **Tax Treatment if Deductible**:
-      - Non-business bad debt → SHORT-TERM CAPITAL LOSS (regardless of how long held)
-      - Limited to $3,000/year against ordinary income
-      - Excess carries forward indefinitely
-      - Example: $20K bad debt → Year 1: -$3K, Year 2: -$3K, etc.
-    - **Memory System**:
+- [x] **E.40 减税技术** (2025-10-11, 2025-10-19, 2025-10-25, 2025-11-02) - **高信心**
+  - 传统IRA供款和扣除
+  - Roth IRA策略
+  - QCD（合格慈善分配）
+  - 活跃参与者逐步取消
+  - **坏账扣除要求（IRC §166）** (2025-11-02) - 已掌握:
+    - 要扣除非业务坏账（作为短期资本损失），贷款必须:
+      1. **真实债务** - 真实债务，不是赠与
+      2. **法律偿还义务** - 无条件承诺（不是或有！）
+      3. **合理还款预期** - 贷款人预期被偿还
+      4. **在纳税年度内变得无价值**
+      5. **先前包含在收入中** OR 债务基础
+    - **或有还款问题**:
+      - "如果业务成功就还我" = 不是法律义务 ❌
+      - "如果我得到继承就还我" = 不是法律义务 ❌
+      - IRS将或有还款视为部分赠与，部分贷款
+      - 如果业务失败 → 借款人有义务 → 不可扣除
+    - **家庭贷款问题**:
+      - IRS推定家庭贷款是赠与（不是债务），除非证明
+      - 必须用以下证明:
+        - 书面本票
+        - 规定利率（至少AFR - 适用联邦利率）
+        - 还款时间表
+        - 抵押品或担保（如果适用）
+        - 实际催收努力
+      - 无书面协议 + 家庭关系 = 推定赠与 ❌
+    - **示例 - 母女贷款** (2025-11-02):
+      - $50,000业务贷款，以业务成功为条件
+      - 失败"法律义务"测试（或有还款）
+      - 如果业务失败，女儿没有还款义务
+      - 如果变得无价值则不可扣除 ❌
+    - **示例 - 有书面协议的朋友贷款** (2025-11-02):
+      - $20,000投资，书面协议 + 收取利息
+      - 通过所有测试:
+        - 书面协议 = 真实债务 ✓
+        - 收取利息 = 经济实质（不是赠与）✓
+        - 无条件还款 = 法律义务 ✓
+      - 如果无价值 → 可作为短期资本损失扣除（每年$3K限制）✓
+    - **如果可扣除的税收处理**:
+      - 非业务坏账 → 短期资本损失（无论持有多久）
+      - 限制每年$3,000针对普通收入
+      - 超额无限期结转
+      - 示例: $20K坏账 → 第1年: -$3K，第2年: -$3K，等等
+    - **记忆系统**:
       - "DEBT = Documented, Economic substance, Binding obligation, True expectation"
-      - "Family Loans Need WRITE Terms": Written, Reasonable rate, Independent terms, Timeline, Enforcement
-      - "Contingent = Gift-scent": If repayment is contingent, IRS smells a gift
-    - Student initially selected contingent mother-daughter loan ✓
-    - Now understands: Contingent repayment = NOT deductible ✓
-  - **Tax credits vs tax deductions** (2025-10-19) - MASTERED:
-    - Tax credit = dollar-for-dollar reduction ($355 credit = $355 savings)
-    - Tax deduction = reduces taxable income (value × marginal rate)
-    - $1,000 deduction in 32% bracket = only $320 savings
-    - Credits ALWAYS beat equal-dollar deductions ✓
-  - **Child support not deductible** (2025-10-19) - tax-neutral
-  - **Capital Loss Carryover** (2025-10-25) - MASTERED:
-    - Short-term capital loss can offset ANY capital gain (ST or LT)
-    - To reduce capital loss carryover, need CAPITAL GAIN income
-    - **Critical tax treatments**:
-      - Market discount on bonds (buy at discount, hold to par) = **ordinary income** (NOT capital gain)
-      - OID on zero-coupon bonds (held to maturity) = **ordinary income** (NOT capital gain)
-      - Annuity gains = **ordinary income** (NOT capital gain)
-      - Municipal bond sold at premium = **CAPITAL GAIN** (taxable!) ✓
-    - **Only capital gains can offset capital loss carryover**
-    - Student's excellent reasoning: "B definitely gives you more" ✓
-    - Perfect on practice problem ✓
-  - **Capital losses** (2025-10-19): Offset up to $3,000 ordinary income/year
-  - **In slides**: Pages 60-90 (Deductions FOR/FROM AGI, Itemized, Pass-through 199A)
+      - "家庭贷款需要WRITE条款": Written, Reasonable rate, Independent terms, Timeline, Enforcement
+      - "或有 = 赠与气味": 如果还款是或有的，IRS闻到赠与
+    - 学生最初选择或有母女贷款 ✓
+    - 现在理解: 或有还款 = 不可扣除 ✓
+  - **税收抵免 vs 税收扣除** (2025-10-19) - 已掌握:
+    - 税收抵免 = 逐美元减少（$355抵免 = $355节省）
+    - 税收扣除 = 减少应税收入（价值 × 边际税率）
+    - 32%税率下的$1,000扣除 = 仅$320节省
+    - 抵免总是击败等额扣除 ✓
+  - **子女抚养费不可扣除** (2025-10-19) - 税收中性
+  - **资本损失结转** (2025-10-25) - 已掌握:
+    - 短期资本损失可以抵消任何资本收益（ST或LT）
+    - 要减少资本损失结转，需要资本收益收入
+    - **关键税收处理**:
+      - 债券的市场折扣（折价购买，持有到面值）= **普通收入**（不是资本收益）
+      - 零息债券的OID（持有到到期）= **普通收入**（不是资本收益）
+      - 年金收益 = **普通收入**（不是资本收益）
+      - 以溢价出售的市政债券 = **资本收益**（应税！）✓
+    - **只有资本收益可以抵消资本损失结转**
+    - 学生的优秀推理: "B肯定给你更多" ✓
+    - 在练习题上完美 ✓
+  - **资本损失** (2025-10-19): 每年最多抵消$3,000普通收入
+  - **在幻灯片中**: 第60-90页（AGI的扣除、分项、转嫁199A）
 
-- [x] **E.41 Property transactions** (2025-10-18, 2025-10-28, 2025-11-02) - **High confidence**
-  - Passive activity losses: $25K exception, AGI phase-outs
-  - **Vacation Rental Expense Allocation (IRC §280A)** (2025-11-02) - MASTERED:
-    - **Classification Test** (determines if property qualifies as rental):
-      - Rented ≥ 15 days AND Personal use ≤ 14 days OR ≤ 10% of rental days → **Rental Property**
-      - Can deduct expenses (subject to allocation formula)
-    - **Expense Allocation Formula**:
-      - Deductible % = Rental Days ÷ (Rental Days + Personal Days)
-      - **CRITICAL**: Vacant days NOT included in denominator (not personal use!)
-    - **Brenda's Example** (2025-11-02):
-      - 355 rental days, 10 personal days, $5,000 expenses
-      - Classification: 10 days < 14 AND < 35.5 (10% × 355) → Qualifies as rental ✓
-      - Deductible %: 355 ÷ (355 + 10) = 97.26%
-      - Deduction: $5,000 × 97.26% = $4,863 ✓
-    - **Student's BRILLIANT Question** (2025-11-02):
-      - "If 10 days were vacant (not personal use), could deduct full $5,000?"
-      - **Answer: YES!** If vacant instead of personal use:
-        - Personal days = 0, Vacant days = 10
-        - Deductible % = 355 ÷ (355 + 0) = 100%
-        - Full $5,000 deduction ✓
-      - **Why**: Vacant days = property held for rental but temporarily unoccupied
-        - No personal benefit from vacant days → no reduction in deduction
-        - Like landlord with apartment vacant between tenants
-    - **The Key Distinction**: USED days matter, VACANT days don't
-      - Formula only includes days actually USED (rental + personal)
-      - Vacant/unoccupied days ignored (not personal use)
-      - Only personal use reduces deduction
-    - **Memory System**: "USED Days Matter, VACANT Days Don't"
-    - Student demonstrated exceptional critical thinking identifying vacant vs personal use distinction ✓
-  - **1031 Like-Kind Exchanges** - EXCELLENT:
-    - Boot = Cash received + Debt relief not replaced ✓
-    - Balanced equation: What you give up = What you get ✓
-    - Basis formula: Old basis - Boot + Gain recognized ✓
-    - Perfect on practice problem ($300K boot) ✓
-  - **Section 1245 vs Section 1250 Depreciation Recapture** (2025-10-28) - MASTERED:
-    - **CRITICAL DISTINCTION**:
-      - **Section 1245** (Equipment, Machinery, Furniture):
-        - Recapture = **ORDINARY INCOME** (35-37% tax rate)
-        - ALL recognized in year of sale (cannot defer with installment)
-        - "Government is GREEDY" - no mercy!
-      - **Section 1250** (Buildings, Real Estate with straight-line):
-        - Recapture = **"Unrecaptured Section 1250 Gain"** (still "capital gain")
-        - Taxed at **25%** rate (not ordinary 35%+)
-        - CAN defer with installment sale
-        - "Government is NICER to real estate"
-    - **Three "Capital Gain" Rates** (student correctly identified as "messed up"):
-      - 0%/15%/20% = Regular long-term capital gain
-      - 25% = Unrecaptured Section 1250 gain (building depreciation)
-      - 28% = Collectibles gain
-    - **Installment Sale Mechanics**:
-      - **Gross profit %** = (Sale price - Adjusted basis) ÷ Contract price
-      - Apply % to each payment to determine gain recognized
-      - Example: $250K sale, $30K basis → $220K gain ÷ $250K = 88% gross profit %
-      - 20% down payment ($50K) × 88% = $44K gain in Year 1 ✓
-    - **Section 1250 composition**:
-      - Depreciation recapture portion taxed at 25%
-      - Appreciation portion taxed at 15-20%
-      - Both spread over installment payments
-    - Student validated in frustration about tax complexity ✓
-  - **In slides**: Pages 10-40 (Basis, Capital gains, Section 1244, Section 1202, Nontaxable exchanges, Depreciation recapture)
+- [x] **E.41 财产交易** (2025-10-18, 2025-10-28, 2025-11-02) - **高信心**
+  - 被动活动损失: $25K例外，AGI逐步取消
+  - **度假租赁费用分配（IRC §280A）** (2025-11-02) - 已掌握:
+    - **分类测试**（确定财产是否合格为租赁）:
+      - 租赁 ≥ 15天 AND 个人使用 ≤ 14天 OR ≤ 租赁天数的10% → **租赁财产**
+      - 可以扣除费用（受分配公式约束）
+    - **费用分配公式**:
+      - 可扣除% = 租赁天数 ÷ (租赁天数 + 个人使用天数)
+      - **关键**: 空置天数不包括在分母中（不是个人使用！）
+    - **Brenda的示例** (2025-11-02):
+      - 355租赁天，10个人使用天，$5,000费用
+      - 分类: 10天 < 14 AND < 35.5（10% × 355）→ 合格为租赁 ✓
+      - 可扣除%: 355 ÷ (355 + 10) = 97.26%
+      - 扣除: $5,000 × 97.26% = $4,863 ✓
+    - **学生的优秀问题** (2025-11-02):
+      - "如果10天是空置（不是个人使用），可以扣除全部$5,000吗？"
+      - **答案: 是的！** 如果空置而不是个人使用:
+        - 个人使用天数 = 0，空置天数 = 10
+        - 可扣除% = 355 ÷ (355 + 0) = 100%
+        - 全额$5,000扣除 ✓
+      - **为什么**: 空置天数 = 为租赁持有但暂时未占用的财产
+        - 空置天数无个人利益 → 不减少扣除
+        - 就像房东在租户之间的空置公寓
+    - **关键区别**: 使用的天数重要，空置天数不重要
+      - 公式只包括实际使用的天数（租赁 + 个人）
+      - 空置/未占用天数被忽略（不是个人使用）
+      - 只有个人使用减少扣除
+    - **记忆系统**: "使用的天数重要，空置天数不重要"
+    - 学生表现出卓越的批判性思维，识别空置 vs 个人使用的区别 ✓
+  - **1031同类交换** - 优秀:
+    - Boot = 收到的现金 + 未替换的债务减免 ✓
+    - 平衡方程: 你放弃的 = 你得到的 ✓
+    - 基础公式: 旧基础 - Boot + 确认收益 ✓
+    - 在练习题上完美（$300K boot）✓
+  - **Section 1245 vs Section 1250 折旧收回** (2025-10-28) - 已掌握:
+    - **关键区别**:
+      - **Section 1245**（设备、机械、家具）:
+        - 收回 = **普通收入**（35-37%税率）
+        - 全部在销售年度确认（不能用分期付款递延）
+        - "政府是贪婪的" - 没有怜悯！
+      - **Section 1250**（建筑、直线法房地产）:
+        - 收回 = **"未收回Section 1250收益"**（仍然是"资本收益"）
+        - 按**25%**税率征税（不是普通35%+）
+        - 可以用分期付款销售递延
+        - "政府对房地产更友好"
+    - **三种"资本收益"税率**（学生正确识别为"混乱"）:
+      - 0%/15%/20% = 常规长期资本收益
+      - 25% = 未收回Section 1250收益（建筑折旧）
+      - 28% = 收藏品收益
+    - **分期付款销售机制**:
+      - **毛利率%** = (销售价格 - 调整基础) ÷ 合同价格
+      - 将%应用于每次付款以确定确认收益
+      - 示例: $250K销售，$30K基础 → $220K收益 ÷ $250K = 88%毛利率
+      - 20%首付（$50K）× 88% = 第1年$44K收益 ✓
+    - **Section 1250组成**:
+      - 折旧收回部分按25%征税
+      - 增值部分按15-20%征税
+      - 两者在分期付款中分摊
+    - 学生验证了对税收复杂性的挫败感 ✓
+  - **在幻灯片中**: 第10-40页（基础、资本收益、Section 1244、Section 1202、非应税交换、折旧收回）
 
-- [x] **E.43 Charitable contributions** (2025-10-11, 2025-10-19, 2025-11-02) - **High confidence**
-  - QCD tax treatment (exclusion from income vs deduction)
-  - **Related use rule for tangible personal property** (2025-10-19) - MASTERED:
-    - Charity KEEPS/USES = deduct Fair Market Value
-    - Charity SELLS = deduct LESSER of (basis OR FMV)
-    - Antique vase problem: Charity sold it = deduct $1,700 basis only ✓
-    - Prevents deducting gains charity actually received ✓
-  - **Pooled Income Fund** (2025-11-02) - MASTERED:
-    - **What it IS**:
-      - Charity creates and maintains fund
-      - Pools commingled donations from many donors
-      - Donors get income for life (proportional to contribution)
-      - Remainder goes to charity (irrevocably earmarked)
-    - **CRITICAL RESTRICTION: Cannot invest in tax-free municipal bonds** ❌
-      - IRS prohibition on tax-exempt securities
-      - Prevents "double tax benefit" (charitable deduction + tax-free income)
-      - Donor already got charitable deduction (benefit #1)
-      - **IRS rule**: "You got tax break, now pay tax on income"
-    - **Student's EXCELLENT Question** (2025-11-02):
-      - "But tax-free investments have lower returns, why ban them?"
-      - **Answer**: Student economically RIGHT (munis often worse after-tax)!
-      - IRS rule is about PRINCIPLE, not economics
-      - Prevent 100% tax-free income (even if smaller amount)
-    - **Allowed Investments**: Stocks, corporate bonds, real estate
-    - **NOT Allowed**: Municipal bonds, tax-exempt securities
-    - **Memory**: "No DOUBLE-Dipping" (deduction + tax-free income)
-  - **In slides**: Pages 95-100
+- [x] **E.43 慈善捐赠** (2025-10-11, 2025-10-19, 2025-11-02) - **高信心**
+  - QCD税收处理（从收入中排除 vs 扣除）
+  - **有形个人财产的关联使用规则** (2025-10-19) - 已掌握:
+    - 慈善保留/使用 = 扣除公平市场价值
+    - 慈善出售 = 扣除较小值（基础 OR 公平市场价值）
+    - 古董花瓶问题: 慈善出售它 = 仅扣除$1,700基础 ✓
+    - 防止扣除慈善实际收到的收益 ✓
+  - **集合收入基金** (2025-11-02) - 已掌握:
+    - **它是什么**:
+      - 慈善创建和维护基金
+      - 汇集来自许多捐赠者的混合捐赠
+      - 捐赠者终身获得收入（与贡献成比例）
+      - 剩余归慈善（不可撤销指定）
+    - **关键限制: 不能投资免税市政债券** ❌
+      - IRS禁止免税证券
+      - 防止"双重税收利益"（慈善扣除 + 免税收入）
+      - 捐赠者已经获得慈善扣除（利益#1）
+      - **IRS规则**: "你已经获得税收优惠，现在对收入纳税"
+    - **学生的优秀问题** (2025-11-02):
+      - "但免税投资回报较低，为什么禁止它们？"
+      - **答案**: 学生在经济上是正确的（市政债券在税后往往更差）！
+      - IRS规则是关于原则，不是经济学
+      - 防止100%免税收入（即使金额较小）
+    - **允许的投资**: 股票、公司债券、房地产
+    - **不允许**: 市政债券、免税证券
+    - **记忆**: "无双重蘸取"（扣除 + 免税收入）
+  - **在幻灯片中**: 第95-100页
 
-- [x] **E.39 Trusts and estates taxation** (2025-10-19) - **High confidence**
-  - **Form 1041**: Estate/Trust Income Tax Return (income earned AFTER death)
-  - **Form 706**: Estate Tax Return (value AT death)
-  - **Reportable income**: Dividends, interest, rental income, capital gains from sales
-  - **NOT income**: Debt repayments, inherited principal
-  - **Filing threshold**: $600 or more annual income
-  - **Estate income tax problem**: Dividends from stocks must be reported ✓
-  - **In slides**: Brief mention in context
+- [x] **E.39 信托和遗产税收** (2025-10-19) - **高信心**
+  - **Form 1041**: 遗产/信托所得税申报表（死亡后赚取的收入）
+  - **Form 706**: 遗产税申报表（死亡时的价值）
+  - **应报告收入**: 股息、利息、租金收入、销售的资本收益
+  - **不是收入**: 债务偿还、继承本金
+  - **申报阈值**: $600或更多年收入
+  - **遗产所得税问题**: 股票的股息必须报告 ✓
+  - **在幻灯片中**: 简要提及在上下文中
 
-### Not Yet Studied (1/8 topics)
+### 尚未学习 (1/8 主题)
 
-- [ ] **E.42** Special circumstances
-  - **In slides**: Various special situations (AMT, kiddie tax, etc.)
+- [ ] **E.42** 特殊情况
+  - **在幻灯片中**: 各种特殊情况（AMT、儿童税等）
 
-**Priority**: **TAX PLANNING DOMAIN COMPLETE!** ✅ Only E.42 remaining (low priority)
-
----
-
-## F. Retirement Savings and Income Planning (18%) ⭐ HIGHEST WEIGHT
-
-**Slides**: Retirement (182 pages - MOST COMPREHENSIVE)
-
-### ✅ Mastered Topics (9/10)
-
-- [x] **F.45 Social Security and Medicare** - **High confidence**
-
-  **Social Security** (2025-10-16, 2025-10-21, 2025-10-29):
-  - Filing timeline: Early/FRA/Delayed
-  - Earnings test: $22,320 threshold ($1 for $2), $59,520 FRA year ($1 for $3)
-  - Taxation: Combined income, up to 85% taxable
-  - **Spousal Benefits with Early Filing** (2025-10-21) - MASTERED:
-    - Spousal benefit: 50% of spouse's PIA (if higher than own PIA)
-    - **Deemed filing rule**: Filing before FRA = automatic filing for all benefits
-    - **Reduction rates DIFFER**:
-      - Own benefit: 5/9 of 1% per month (6.67% for 12 months early)
-      - Spousal benefit: 25/36 of 1% per month (8.33% for 12 months early)
-    - **Calculation**: Own reduced benefit + reduced spousal supplement
-    - Example: PIA $1,500, spouse PIA $3,600 → Total $1,680 ($1,400 own + $275 spousal)
-  - **Fully Insured vs Currently Insured Status** (2025-10-29) - MASTERED:
-    - **Fully Insured (MAIN status)**:
-      - Formula: Credits needed = Age - 22 (minimum 6, maximum 40)
-      - Based on LIFETIME work credits
-      - Gets: ALL benefits (retirement, survivor, disability)
-      - Example: Age 29 needs 7 credits (29-22)
-    - **Currently Insured (BACKUP status)**:
-      - Rule: Need 6 of last 13 quarters (3.25 years)
-      - Based on RECENT work only
-      - Gets: LIMITED survivor benefits (if not fully insured)
-      - Rarely matters once fully insured
-    - **Work history gaps**:
-      - Hurt "currently insured" (recent work requirement)
-      - May not hurt "fully insured" (lifetime credits count)
-      - Example: 4 years work, 4 years grad school, 1 year work = 16 total credits (fully ✓) but only 4 recent (currently ✗)
-    - **Why two statuses exist**: Currently insured protects young workers who die before earning enough lifetime credits
-    - Student noted: "This is tricky" - accurate assessment! ✓
-  - **In slides**: Pages 165-175
-  - ⚠️ **Minor gap**: Early filing reduction % (thinks 5%, actually 5/9 then 5/12) - being resolved
-
-  **Medicare** (comprehensive deep dive 2025-10-18):
-  - All Parts A/B/C/D details mastered
-  - MA vs Medigap tradeoffs understood
-  - Enrollment periods, commissions, coverage limits ✓
-  - **Gap resolved** from Medium to HIGH confidence
-
-- [x] **F.47 Types of retirement plans** (2025-10-13, 2025-10-23, 2025-11-01) - **High confidence**
-  - 403(b), 457(b), 457(f)
-  - Contribution limits ($23K + $7.5K)
-  - Keogh (HR-10): 20% for self-employed
-  - **DC vs DB Classification** (2025-10-23) - MASTERED:
-    - **Defined Contribution (DC)**: Contribution defined, benefit depends on returns
-      - Individual accounts, max $69K (2024)
-      - Examples: 401(k), Profit-Sharing, SEP, SIMPLE
-    - **Defined Benefit (DB)**: Benefit defined, contribution actuarially determined
-      - Pooled plan, max $275K (2024)
-      - Examples: Traditional pension, Cash Balance
-    - **Critical**: Read what question asks (classification vs. best plan vs. highest contribution)
-  - **Target Benefit Plans** (2025-11-01) - MASTERED:
-    - **What it is**: Hybrid between DB and DC plans
-      - TARGET benefit (hoped for, NOT guaranteed like DB)
-      - Individual accounts (employee bears investment risk like DC)
-      - Age-weighted contributions (older employees get MUCH more)
-      - Cheaper than traditional DB (no PBGC insurance, simpler admin)
-    - **Key Concept: Age-Weighting Favors Older Employees**
-      - Example targeting $50K/year at age 65:
-        - Age 30 (35 years left): $5,000/year contribution (5% of salary)
-        - Age 45 (20 years left): $15,000/year contribution (15% of salary)
-        - Age 55 (10 years left): $40,000/year contribution (40% of salary) ✅
-      - Less time to accumulate → need larger contributions
-    - **Perfect Client Profile**:
-      - Small business owner age 50-62
-      - High income, wants to maximize own contributions
-      - Other key employees are also older (50+)
-      - Young employees are low-paid (age-weighting minimizes their share)
-      - Can't afford traditional DB plan costs
-    - **When NOT to use**:
-      - Large publicly held corporations (use 401k instead)
-      - Young executives (age-weighting works against them)
-      - Companies wanting to favor rank-and-file workers
-    - **Memory Aid**: "Target Benefit = Old Guys Win"
-    - Student initially thought it favored young employees (common trap!) ✓
-    - Now understands age-weighting concept perfectly ✓
-  - **Retirement Plan Selection Patterns** (2025-10-23) - MASTERED:
-    - **"Flexible contributions"** → Rules out DB plans (actuarially required)
-    - **"Employee retention"** → Need vesting schedules (rules out SEP, SIMPLE)
-    - **"Maximize owner contributions"** → DB plans or high DC limits
-    - Safe Harbor 401(k) = base 3% + discretionary profit-sharing (true flexibility)
-  - **In slides**: Pages 10-40 (DB vs DC, Pension vs Profit-sharing, All plan types)
-
-- [x] **F.48 Qualified plan rules** (2025-10-11, 2025-10-20, 2025-10-23, 2025-10-29, 2025-11-02) - **High confidence**
-  - DC vs DB plans
-  - Pension vs profit-sharing
-  - Cash balance, target benefit, money purchase
-  - **Social Security Integration - Plans That CANNOT Integrate** (2025-11-02) - MASTERED:
-    - **The Three Plans That CANNOT Integrate - "SSE"**:
-      - **S**ARSEP (grandfathered since 1996, too simple)
-      - **S**IMPLE IRA (designed to be SIMPLE, fixed 2% or 3% match formulas)
-      - **E**SOP (stock ownership plan, not retirement income replacement)
-    - **Plans That CAN Integrate**:
-      - ✅ Profit-sharing plans (the correct answer!)
-      - ✅ Traditional pension plans (defined benefit)
-      - ✅ Money purchase plans
-      - ✅ 401(k) plans
-      - ✅ Target benefit plans
-    - **Why These Three Cannot**:
-      - **SIMPLE**: Name says it - Keep it SIMPLE, no complexity allowed
-        - Fixed formulas only (2% nonelective OR dollar-for-dollar up to 3% match)
-        - Can't layer integration formulas on top
-      - **SARSEP**: Grandfathered (no new after 1996), too simple for integration
-      - **ESOP**: Allocates company STOCK, not cash contributions
-        - Purpose is employee ownership, not retirement income optimization
-        - Integration doesn't make sense for stock allocation
-    - **What is Social Security Integration?** (Permitted Disparity):
-      - Allows higher contributions for employees above SS wage base ($168,600 for 2024)
-      - Rationale: SS taxes only apply up to wage base
-      - Integration "evens out" total benefits
-      - Maximum disparity: 5.7% for DC plans
-    - **Memory System**:
-      - "SSE Cannot Integrate" (SARSEP, SIMPLE, ESOP)
-      - "SIMPLE Stays SIMPLE" (no integration complexity)
-      - "Everything else CAN integrate"
-    - Student initially selected SIMPLE IRA thinking it would integrate ✓
-    - Now understands: SSE = the three plans that cannot integrate ✓
-  - **Nondiscrimination Coverage Testing (IRC §410(b))** (2025-10-29) - MASTERED:
-    - **Purpose**: Ensure plans don't only benefit highly paid employees
-    - **Two tests available**:
-      - **Ratio Percentage Test**: (% NHCEs benefitting) ÷ (% HCEs benefitting) ≥ 70%
-        - Example: 90% HCEs participate → need 63% NHCEs minimum (70% × 90%)
-      - **Average Benefits Test**: (Avg benefit % NHCEs) ÷ (Avg benefit % HCEs) ≥ 70%
-        - Example: HCEs get 12% of comp → NHCEs need 8.4% minimum (70% × 12%)
-    - **CRITICAL DIRECTION**: Protected group (NHCEs) must be 70% of advantaged group (HCEs)
-      - **NEVER backwards!** Not HCE ÷ NHCE (would protect bosses, not workers)
-      - Formula pattern: NHCE amount ÷ HCE amount ≥ 70%
-    - **HCEs vs Key Employees** (different definitions):
-      - **HCEs** (for coverage testing): Earned >$155K (2024) OR >5% owner
-      - **Key Employees** (for top-heavy testing): Officers >$220K, >5% owners, >1% owners earning >$150K
-      - Common exam trap: Questions use wrong employee classification
-    - Memory trick: Disadvantaged group must get 70% of what advantaged group gets
-  - **Permitted Disparity / Social Security Integration** (2025-10-20) - MASTERED:
-    - Also called "Social Security Integration"
-    - Allows extra benefits to higher-paid employees
-    - **EXCESS METHOD** (two-tier): Higher contribution/benefit on wages above threshold
-      - DB can use: Tier benefit percentages
-      - DC can use: Tier contribution percentages
-    - **OFFSET METHOD** (subtract SS): Reduce promised benefit by portion of Social Security
-      - DB can use: Has promised benefit to reduce
-      - DC CANNOT use: No promised benefit to offset!
-    - **Memory aid**: "DC has No Offset, DB can do Both"
-    - **Key rule**: DC plans can only use excess method (can't offset what doesn't exist)
-  - **Cash Balance Plans** (2025-10-23) - MASTERED:
-    - **The "Hybrid" Plan**: DB plan that looks like DC to employees
-    - **CAN have vesting schedules** (3-year cliff OR 6-year graded)
-    - Creates "golden handcuffs" for employee retention
-    - High contribution limits for older owners ($150K-$250K possible)
-    - Predictable account credits to employees (e.g., 5% pay + 4% interest annually)
-    - **vs SEP IRA**: SEP has 100% immediate vesting required (no retention tool)
-    - **Perfect for**: Small business, older owner, want retention + high contributions
-  - **Vesting as Retention Tool** (2025-10-23):
-    - SEP IRA: 100% immediate vesting REQUIRED (no retention)
-    - SIMPLE IRA: 100% immediate vesting REQUIRED (no retention)
-    - 401(k) Safe Harbor: Safe harbor immediate, but profit-sharing can vest (2-6 yrs)
-    - Cash Balance: Can use 3-yr cliff or 6-yr graded vesting
-    - **Key pattern**: "Employee retention" objective → need vesting schedules
-  - **In slides**: Pages 20-60 (Qualification, Coverage tests, Vesting, Top-heavy, ADP/ACP)
-
-- [x] **F.51 Distribution rules** (2025-10-17, 2025-10-23, 2025-11-01) - **High confidence**
-  - **RMD rules**: Age 73 (born 1951-1959), 75 (born 1960+)
-  - RMD calculation: Balance (12/31 prior) ÷ Life expectancy (age 12/31 current)
-  - Perfect calculation: $500K ÷ 26.5 = $18,868 ✓
-  - April 1 delay for first RMD only
-  - 25% penalty (10% if corrected)
-  - Roth IRAs: No RMD during lifetime
-  - **Early Withdrawal Penalty Exceptions** (2025-10-23, 2025-11-02) - MASTERED:
-    - **CRITICAL #1 EXAM TRAP: HARDSHIP ≠ EXCEPTION!** (2025-11-02):
-      - **Most common mistake**: Thinking hardship withdrawals avoid 10% penalty
-      - **Reality**: Hardship withdrawals STILL subject to 10% penalty (if under 59½)!
-      - You can ACCESS the money (hardship allows withdrawal)
-      - But you PAY the penalty (10% + regular tax)
-      - **Memory**: "HARDSHIP is HARD on your wallet - you still pay 10%"
-    - **The Main Exceptions - "D³ + 55 = FREE"** (2025-11-02):
-      - **D¹ = DEATH**: Beneficiary receives after participant dies (no penalty)
-      - **D² = DISABILITY**: Totally and permanently disabled (no penalty)
-      - **D³ = Distributions after 59½**: Magic age (no penalty)
-      - **55 = Rule of 55**: Separated from service at age 55+ (NOT in-service!)
-    - **Rule of 55 CRITICAL Requirement** (2025-10-23, 2025-11-02):
-      - Must SEPARATE from service (quit/fired) at age 55 or later
-      - **In-service = Rule doesn't apply!** (Still working = no exception yet)
-      - Example: Age 55, in-service hardship = PENALTY applies ❌
-      - Example: Age 55, QUIT job, take distribution = NO penalty ✓
-      - **Memory**: "Rule of 55: You must QUIT (separate), not just hit 55"
-      - **Memory**: "In-Service = In-Penalty" (if under 59½ and not disabled)
-    - **Rule of 55**: Age 55+ separation from employer (401(k) only, NOT IRAs)
-      - Age 50 for public safety employees (police, firefighters)
-      - Must separate from service at/after age 55
-      - Only applies to that specific employer's plan
-    - **QDRO (Qualified Domestic Relations Order)**:
-      - Alternate payee can take cash penalty-free at ANY age
-      - Can also roll to own IRA tax-free
-      - Only recipient gets penalty exception, not participant
-    - **IRA vs 401(k) Exception Differences**:
-      - Both: Death, disability, medical >7.5% AGI, SEPP/72(t)
-      - IRA ONLY: Education, first home ($10K), health insurance (unemployed), IRS levy
-      - 401(k) ONLY: Rule of 55 (age 55+ separation)
-    - **"HIDES" mnemonic for IRA exceptions**:
-      - H = Higher education (qualified expenses)
-      - I = Insurance (health premiums if unemployed 12+ weeks)
-      - D = Disability
-      - E = Excessive medical (>7.5% AGI)
-      - S = SEPP (72(t) substantially equal payments)
-    - Perfect on practice problems (Rule of 55, QDRO, IRA education exception) ✓
-  - **401(k) Hardship Withdrawals vs In-Service Rollovers** (2025-11-01) - MASTERED:
-    - **Hardship Withdrawal Requirements**:
-      - Must prove immediate and heavy financial need
-      - Common reasons: Medical expenses, home purchase, tuition, prevent foreclosure/eviction, funeral
-      - Tax treatment: Ordinary income + 10% penalty (if under 59½)
-      - **Cannot be repaid** to plan (unlike loans)
-      - **Suspension**: No contributions for 6 months after hardship withdrawal
-    - **Why Hardship Withdrawal Exists** (vs regular withdrawal):
-      - Many 401(k) plans DON'T allow regular in-service withdrawals before age 59½
-      - Hardship provision provides emergency access when truly needed
-      - "Better than nothing" when no other option exists
-    - **Student's Excellent Alternative Question**: "Why not rollover to IRA first, then withdraw?"
-      - **CRITICAL RESTRICTION**: In-service rollovers generally NOT allowed before age 59½
-      - Can't rollover WHILE still employed at that company (except specific circumstances)
-      - **Exception**: Some plans allow in-service rollovers after age 59½
-      - **Result**: For Joe (age 48), rollover NOT an option → Hardship withdrawal is only choice
-    - **Why This Is Important**:
-      - Student demonstrated EXCELLENT professional skepticism ✓
-      - Identified potential alternative solution (rollover strategy)
-      - Understanding restriction helps explain why hardship rules exist
-      - Real-world CFP advice: Build emergency fund to AVOID needing hardship withdrawals!
-    - **Tax Comparison**:
-      - Hardship withdrawal: Taxed + 10% penalty (expensive!)
-      - Regular withdrawal (if allowed): Taxed + 10% penalty (same cost)
-      - **Key insight**: Hardship requirements don't make it MORE expensive, just regulate ACCESS
-    - **Joe's Mortgage Problem** (2025-11-01):
-      - Age 48, $60K mortgage due, no cash, has 401(k)
-      - Can't do regular withdrawal (plan doesn't allow in-service before 59½)
-      - Can't rollover to IRA (in-service rollover restricted before 59½)
-      - **ONLY option**: Hardship withdrawal (prevents foreclosure = qualifies)
-      - Takes withdrawal, pays tax + 10% penalty, keeps house ✓
-    - Student challenged instructor twice with excellent questions - shows deep thinking! ✓
-  - **In slides**: Pages 80-100
-  - ⚠️ **Remaining gap**: 72(t) SEPP calculations not yet covered
-
-- [x] **F.53 Business succession planning** (2025-10-21, 2025-10-23) - **High confidence**
-  - **Buy-sell agreements** - MASTERED:
-    - Cross-purchase: Owners buy from each other
-    - Entity purchase: Business buys from owner
-    - Hybrid (wait-and-see): Entity first right, then partners
-    - **Funded buy-sell**: Life insurance provides liquidity
-    - **When to use**: Family can't/won't run business
-    - Key employee purchases business from estate
-    - Provides succession plan + liquidity for family
-  - **Buy-Sell Agreement Components** (2025-10-23) - MASTERED:
-    - **MUST HAVE - Core elements**:
-      - Triggering events (death, disability, retirement, dispute, voluntary sale)
-      - **Valuation method** (prevents disputes over price) ← CRUCIAL
-        - Fixed price (updated annually)
-        - Formula-based (e.g., 5x EBITDA, book value multiple)
-        - Independent appraisal
-        - Combination approach
-      - Funding mechanism (life insurance, sinking fund, installments)
-      - Purchase obligation (must buy vs may buy)
-      - First right of refusal provisions
-      - Transfer restrictions
-    - **SHOULD HAVE - Family protection**:
-      - **Trust establishment** (manages transaction, protects family) ← CRUCIAL
-        - Trust owns shares or receives insurance proceeds
-        - Professional trustee handles buyout
-        - Removes emotion from transaction
-        - Clear distribution plan for family
-    - **NOT IN BUY-SELL AGREEMENT** (common trap):
-      - ❌ Roles and responsibilities (goes in operating agreement)
-      - ❌ Job descriptions (employment contracts)
-      - ❌ Management succession plan (separate document)
-      - ❌ CEO transition timeline (succession roadmap)
-      - **Key distinction**: Buy-sell = OWNERSHIP transfer, NOT management structure
-    - **AVOID**:
-      - ❌ Asset exclusions (creates ambiguity and future disputes)
-      - Keep agreement comprehensive and clear
-    - Perfect on practice problem (valuation + trust, not roles) ✓
-  - **Business structures for succession**:
-    - When family involved: FLP, voting/non-voting stock, GRAT
-    - When family NOT involved: Buy-sell to key employee or third party
-  - ESOPs (Employee Stock Ownership Plans)
-  - Disability buy-out insurance
-  - **Practical application**: Match tools to client situation (family capability/willingness)
-  - **In slides**: Pages 175-182
-
-### ✅ Mastered Topics (10/10) - DOMAIN COMPLETE ✅
-
-- [x] **F.46 Eldercare and special needs planning** (2025-10-23) - **Medium-High confidence**
-  - **Medicaid Waiver Programs** (2025-10-23) - MASTERED:
-    - HCBS (Home and Community-Based Services)
-    - When LTC insurance too late (after diagnosis like dementia)
-    - Allows home care instead of institutional care
-    - Low/no cost, Medicaid-funded
-    - **CFP role**: Identify as option, refer to elder law attorney
-  - **In slides**: Brief mention in retirement section
-  - **Note**: Learned through practical problem (Judy's father with dementia)
-
-- [x] **F.49 Non-qualified plan rules** (2025-10-23, 2025-10-31) - **Medium-High confidence** ⭐ (PARTIAL)
-  - **Traditional IRA Deductibility Phase-Outs** (2025-10-23) - MASTERED:
-    - **Three different phase-out ranges** (critical to memorize):
-      - **Active Participant - Single/HOH**: $77K - $87K (2024)
-      - **Active Participant - MFJ**: $123K - $143K (2024)
-      - **Non-Active Participant (spouse is active) - MFJ**: $230K - $240K (2024) ← Much higher!
-    - **Catch-up contributions**: Age 50+ only ($1,000 extra = $8,000 total)
-    - **Key pattern**: Non-active participant spouse gets much higher phase-out range
-    - Perfect on practice problem (Sarah $225K MAGI, full $7K deduction) ✓
-  - **Rabbi Trust vs Secular Trust** (2025-10-31) - MASTERED:
-    - **Rabbi Trust**:
-      - Employer's creditors CAN reach funds (risky for employee)
-      - Employer CANNOT take money back (irrevocable)
-      - Tax-deferred until distribution
-      - Springing irrevocability: Becomes irrevocable upon trigger event (e.g., management takeover)
-    - **Secular Trust**:
-      - Employer's creditors CANNOT reach funds (protected)
-      - Immediately taxable to employee (no tax deferral)
-      - Trade-off: Protection vs tax timing
-    - **Memory aid**: "Rabbi = Risky" (creditors can reach), "3 C's" (Creditors yes, Company no, Change triggers)
-  - **In slides**: Pages 105-140 (IRAs, Roth, SEP, SIMPLE, NQDCs, Stock options)
-  - **Still need to cover**: Roth IRA phaseouts, ordering rules, SEP, SIMPLE, ISOs vs NQSOs
-  - **Priority**: Continue Day 3-4 study - IRA deductibility and rabbi trusts covered
-
-**Priority**: **RETIREMENT DOMAIN 100% COMPLETE!** ✅ (18% of exam - highest weighted domain mastered!)
+**优先级**: **税务规划领域完成！** ✅ 仅E.42剩余（低优先级）
 
 ---
 
-## G. Estate Planning (10%)
+## F. 退休储蓄和收入规划 (18%) ⭐ 最高权重
 
-**Slides**: Estate (200 pages comprehensive)
+**幻灯片**: 退休（182页 - 最全面）
 
-### ✅ Mastered Topics (9/14)
+### ✅ 已掌握主题 (9/10)
 
-- [x] **G.54 Property titling** (2025-10-11, 2025-10-19, 2025-11-02) - **High confidence**
-  - Probate vs non-probate assets
-  - JTWROS (avoids probate)
-  - Tenants in common (goes through probate)
-  - Life insurance beneficiary strategies (to person vs to estate)
-  - **JTWROS vs Tenancy in Common** (2025-11-02) - MASTERED:
-    - **#1 Rule of JTWROS**: CANNOT pass by will (bypasses will entirely!)
-      - Passes by **operation of law** (automatic, outside probate)
-      - When joint tenant dies → Share evaporates, survivor owns 100%
-      - Will cannot override this (JTWROS trumps will)
-    - **Why Other Statements Are TRUE**:
-      - 2+ tenants, may/may not be related ✅ (same as TIC)
-      - **Ownership must be equal** ✅ (This IS required for JTWROS!)
-      - Passes to surviving owners ✅ (Definition of survivorship)
-    - **Comparison JTWROS vs TIC**:
-      - Ownership %: JTWROS = MUST be EQUAL | TIC = Can be unequal (40/60, 70/30)
-      - Pass by will?: JTWROS = NO (bypasses will!) | TIC = YES (will controls)
-      - Survivorship?: JTWROS = YES (survivor takes all) | TIC = NO (heirs get %)
-      - Probate?: JTWROS = NO (outside probate) | TIC = YES (goes through probate)
-    - **The 4 Unities of JTWROS (TIPS)**:
-      - **T**ime: All owners get title at same time
-      - **I**nterest: All owners have same interest (equal % - REQUIRED!)
-      - **P**ossession: All owners have equal right to possess
-      - **S**urvivorship: Right of survivorship
-    - **Memory System**:
-      - "JTWROS = 3 Magic Words: EQUAL, AUTOMATIC, WILL-PROOF"
-      - "Your Will is Powerless Against JTWROS"
-      - "Equal Shares, Survivor Cares, Will Don't Matter"
-    - Student thought "ownership must be equal" was wrong answer ✓
-    - Now understands: JTWROS CANNOT pass by will (that's the false statement) ✓
-  - **Ancillary Probate** (2025-11-02) - MASTERED:
-    - **The Problem**: Out-of-state real property creates **TWO probate proceedings**
-      - **Primary probate**: State where decedent lived (domicile)
-      - **Ancillary probate**: State where real property is located
-      - **Result**: Double costs, double time (2-3 years vs 1 year), double complexity
-    - **Why It's a Nightmare**:
-      - Pay for probate in BOTH states (2× attorney fees, court fees)
-      - Different state laws, different courts, coordination required
-      - Delays transfer significantly (defeats "expedite transfer" goal)
-    - **Solution - Lifetime Transfer**:
-      - Transfer property BEFORE death to avoid ancillary probate
-      - Options: Gift to beneficiaries, Revocable Living Trust, JTWROS, LLC
-      - **Result**: No ancillary probate, faster transfer, lower costs
-    - **Dave & Jessica Example** (2025-11-02):
-      - Beachfront cottage **in another state** (red flag!)
-      - Goal: "Expedite transfer of estate assets"
-      - **Recommendation**: Lifetime transfer of cottage
-      - Why: Avoids ancillary probate entirely, achieves expedite goal
-    - **Memory System**:
-      - "OUT-OF-STATE = OUT-OF-LUCK (without planning)"
-      - "ANCILLARY = ANOTHER STATE = ANOTHER PROBATE"
-      - "The THREE A's": ANCILLARY probate → Lifetime transfer
-    - Student initially didn't select lifetime transfer recommendation ✓
-    - Now understands: Out-of-state property = ancillary probate problem ✓
-  - **JTWROS Estate Tax Treatment** (2025-10-19) - MASTERED:
-    - Included in gross estate for estate tax (IRC § 2040) ✓
-    - 50% included for spouses, 100% for non-spouses (unless prove contribution)
-    - Avoids PROBATE but NOT estate tax ✓
-    - Common trap: "avoids probate" ≠ "avoids estate tax"
-  - **Step-Up Basis Rules**:
-    - JTWROS: 50% step-up (spouses in common law states)
-    - Community Property: 100% step-up (both halves)
-    - TIC: Only deceased's % gets step-up
-  - **Memory System Created**: "3 P's Test" (Probate, Pass, Percentage)
-  - **In slides**: Pages 20-40
+- [x] **F.45 社会保障和Medicare** - **高信心**
 
-- [x] **G.55 Strategies to transfer property** (2025-10-21, 2025-10-31) - **High confidence**
-  - **Self-Canceling Installment Note (SCIN)** - MASTERED:
-    - Seller sells property to buyer for installment note
-    - If seller dies before note paid off, remaining payments CANCELLED
-    - **Perfect for shortened life expectancy**: High probability of dying during term
-    - Provides cash flow during life + estate tax savings
-    - SCIN premium (slightly higher price) compensates for cancellation risk
-    - **Textbook use case**: Person with health issues/shortened life expectancy
-  - **SCIN vs Other Gift Tax Avoidance Methods** (2025-10-31) - MASTERED:
-    - **SCIN with premium over FMV** = Treated as **SALE** (not gift)
-      - Buyer pays FMV + premium
-      - Premium compensates for cancellation risk
-      - IRS treats as legitimate business transaction
-      - **Result**: NO GIFT TAX (even if applicable credit exhausted)
-    - **All other common methods create GIFTS**:
-      - **QPRT**: Transfer to trust = taxable gift of remainder interest
-      - **FLP with gifts**: Only $18K annual exclusion applies, excess is taxable gift
-        - Example: $50K gift - $18K exclusion = $32K taxable gift
-        - With exhausted credit → immediate gift tax liability
-      - **JTWROS**: Adding joint tenant = gift of 50% ownership
-    - **Key distinction**: SCIN is ONLY method that's a SALE instead of GIFT
-    - **Memory aid**: "SCIN = SALE" vs "Everything else = GIFT", "SCIN keeps it CLEAN"
-  - **Private annuity contracts**:
-    - Transfer property for lifetime payments
-    - Unsecured obligation
-    - With shortened life expectancy: Actuarially valued higher (bad for buyer)
-  - **When to use SCIN vs Private Annuity**:
-    - SCIN: Shortened life expectancy (seller likely dies during term)
-    - Private Annuity: Normal life expectancy, need lifetime income
-  - **GRIT limitations**: Doesn't work for family members (IRC §2702)
-  - **In slides**: Pages 70-85
-  - **Note**: Compared to FLP (long time horizon) and GRIT (non-family only)
+  **社会保障** (2025-10-16, 2025-10-21, 2025-10-29):
+  - 申请时间线: 提前/FRA/延迟
+  - 收入测试: $22,320阈值（$1对$2），$59,520 FRA年（$1对$3）
+  - 税收: 合并收入，最高85%应税
+  - **提前申请的配偶福利** (2025-10-21) - 已掌握:
+    - 配偶福利: 配偶PIA的50%（如果高于自己的PIA）
+    - **推定申请规则**: FRA前申请 = 自动申请所有福利
+    - **减少率不同**:
+      - 自己的福利: 每月5/9的1%（提前12个月6.67%）
+      - 配偶福利: 每月25/36的1%（提前12个月8.33%）
+    - **计算**: 自己减少的福利 + 减少的配偶补充
+    - 示例: PIA $1,500，配偶PIA $3,600 → 总计$1,680（$1,400自己 + $275配偶）
+  - **完全保险 vs 当前保险状态** (2025-10-29) - 已掌握:
+    - **完全保险（主要状态）**:
+      - 公式: 所需积分 = 年龄 - 22（最少6，最多40）
+      - 基于终身工作积分
+      - 获得: 所有福利（退休、遗属、残疾）
+      - 示例: 29岁需要7个积分（29-22）
+    - **当前保险（备用状态）**:
+      - 规则: 需要最近13个季度中的6个（3.25年）
+      - 仅基于最近工作
+      - 获得: 有限遗属福利（如果未完全保险）
+      - 一旦完全保险就很少重要
+    - **工作历史缺口**:
+      - 伤害"当前保险"（最近工作要求）
+      - 可能不伤害"完全保险"（终身积分计算）
+      - 示例: 4年工作，4年研究生，1年工作 = 16总积分（完全✓）但仅4个最近（当前✗）
+    - **为什么存在两种状态**: 当前保险保护在赚取足够终身积分前死亡的年轻工人
+    - 学生注意到: "这很棘手" - 准确评估！✓
+  - **在幻灯片中**: 第165-175页
+  - ⚠️ **小缺口**: 提前申请减少%（认为5%，实际前3年5/9，之后5/12）- 正在解决
 
-- [x] **G.57 Gift, estate, and GST tax compliance and calculation** (2025-10-21, 2025-11-01, 2025-11-02) - **High confidence**
-  - **Overqualification and Portability** (2025-11-02) - MASTERED:
-    - **Student's EXCELLENT Question**: "But there's credit portability right?"
-    - **Answer**: YES, portability exists BUT has major limitations!
-    - **Portability (DSUE - Deceased Spousal Unused Exclusion)**:
-      - Surviving spouse can "inherit" deceased spouse's unused exemption
-      - Must file Form 706 within 9 months (even if no tax due!)
-      - Example: Husband dies with $5M unused → Wife gets $5M DSUE
-    - **BUT Portability Has 3 MAJOR Limitations**:
-      1. **NO GROWTH PROTECTION** (BIGGEST PROBLEM!):
-         - Credit Shelter Trust: Growth protected (tax-free forever)
-         - Portability: Growth NOT protected (taxable in surviving spouse's estate)
-         - Example: $13.61M grows to $30M
-           - Portability: $30M in wife's estate, excess over $27.22M taxed at 40%
-           - Credit Shelter Trust: $30M NOT in wife's estate, goes to kids tax-free
-           - **Tax savings**: Over $1M with Credit Shelter Trust!
-      2. **Remarriage Problem**: Can only use LAST deceased spouse's DSUE (lose first spouse's!)
-      3. **Must File Form 706**: Not automatic, miss deadline = lose portability forever
-    - **Modern Definition of Overqualification**:
-      - **Pre-portability**: Wasting exemption amount itself
-      - **Post-portability**: Wasting **growth protection** benefit
-      - Either way = **underutilization of credit's value**
-    - **Statement I TRUE**: Overqualification = underutilization of applicable credit
-      - Even with portability, growth protection underutilized
-      - Not all estates file Form 706 (portability lost)
-      - Remarriage can eliminate DSUE
-    - **Statement II FALSE**: Describes UNDERQUALIFICATION (backwards!)
-      - Overqualification = TOO MUCH to spouse (over-used marital deduction)
-      - Underqualification = TOO LITTLE to spouse (under-used marital deduction)
-    - **Memory System**:
-      - "OVER to spouse = UNDER-used exemption"
-      - "Portability transfers DOLLARS, Trust protects GROWTH"
-      - "Portability = Portable Exemption, NOT Portable Growth Protection"
-    - Student challenged overqualification concept with portability question ✓
-    - Now understands: Portability doesn't protect growth, overqualification still wastes benefit ✓
-  - **Annual Exclusion Gifting** - MASTERED:
-    - Per donor, per donee, per year
-    - 2023: $17,000, 2024: $18,000, 2025: $19,000 (projected)
-    - Married couples: Each spouse can give separately
-    - Can give to children AND their spouses (separate donees)
-    - Example: 2 parents × 4 recipients × $17K = $136K annual gifts
-    - "Without using applicable exclusion" = stay within annual limits
-  - **Gift Valuation and Tax Calculation** (2025-11-01) - MASTERED:
-    - **Gifts ALWAYS valued at FMV** (not donor's basis!)
-    - Taxable gift = FMV - Annual exclusion ($18K)
-    - Lifetime exclusion 2024: $13,610,000
-    - Applicable credit offsets tax on gifts below lifetime exclusion
-    - Example: $5,130,000 gift - $18K = $5,112,000 taxable → no tax due (covered by credit)
-  - **Loss Property Gifts and Double-Basis Rule** (2025-11-01) - MASTERED:
-    - **Loss property**: FMV < Donor's basis (property went down in value)
-    - **Gift tax can ONLY be added to basis for APPRECIATED property**
-      - Appreciated (FMV > Basis): Gift tax CAN be allocated to increase basis ✓
-      - Loss property (FMV < Basis): Gift tax CANNOT be allocated ❌
-    - **Double-Basis Rule for Loss Property**:
-      - Donee receives TWO different bases:
-        - **Gain basis**: Donor's original basis (for calculating gains)
-        - **Loss basis**: FMV at time of gift (for calculating losses)
-      - **Sale scenarios**:
-        - Sell above donor's basis → Use gain basis (donor's original basis)
-        - Sell below FMV at gift → Use loss basis (FMV at gift)
-        - **Sell between the two bases → NO gain or loss** (the "dead zone")
-    - **Example**: Basis $6.8M, FMV $5.13M at gift
-      - Sell for $7M → Gain = $200K (use $6.8M basis)
-      - Sell for $6.5M → NO gain or loss (in dead zone)
-      - Sell for $5M → Loss = $130K (use $5.13M basis)
-    - **Memory Aid**: "FAB-L" (FMV for gift tax, Appreciated only for basis addition, Bases are double, Loss property has dead zone)
-  - **Gross Estate Calculation** - MASTERED:
-    - **3-Year Lookback Rule (IRC §2035)**:
-      - Life insurance transferred within 3 years of death → included in estate
-      - Prevents deathbed transfers to avoid estate tax
-      - Must transfer >3 years before death for ILIT to work
-      - If transfer <3 years: Death benefit included in gross estate
-    - **JTWROS Estate Tax Treatment (IRC §2040)**:
-      - Spouses: 50% included in deceased's gross estate
-      - Non-spouses: 100% unless prove contribution
-      - Avoids probate but NOT estate tax
-    - **Formula**: Add up all includible assets
-  - **Lifetime Exclusion**: $13.61M (2024), adjusts for inflation
-  - **In slides**: Pages 50-120 (most comprehensive estate section)
-  - **Key distinction**: Annual exclusion vs lifetime exemption
+  **Medicare** (2025-10-18全面深入):
+  - 所有Parts A/B/C/D细节已掌握
+  - MA vs Medigap权衡已理解
+  - 注册期、佣金、覆盖限制 ✓
+  - **缺口已解决**从中等到高信心
 
-- [x] **G.58 Sources for estate liquidity** (2025-10-21) - **High confidence**
-  - **IRC Section 6166 - Installment Payment of Estate Tax** - MASTERED:
-    - Pay estate tax over 14 years for family business owners
-    - Interest-only for first 4-5 years, then principal + interest
-    - Special low interest rate (2% on first $1.7M)
-    - Requirements: Closely-held business >35% of adjusted gross estate
-    - **Perfect for**: Family business owners with illiquid estates
-    - Prevents forced sale of business to pay estate taxes
-  - **Immediate Liquidity Sources**:
-    - Life insurance death benefit (if estate is beneficiary)
-    - Cash and checking accounts
-    - Stocks and bonds (sell within days/weeks)
-    - Money market accounts
-  - **NOT Immediate Liquidity**:
-    - Borrowing (complex, slow, creates new debt)
-    - Rental income (ongoing, not lump sum)
-  - **NOT Estate Liquidity**:
-    - Retirement accounts with beneficiaries (bypass estate)
-    - Life insurance with beneficiaries (bypass estate)
-  - **Critical Distinction**: Estate assets vs. non-probate/beneficiary assets
-  - **Other liquidity tools**:
-    - Section 303 Stock Redemption (capital gain treatment)
-    - Section 2032A Special Use Valuation (farms/business real estate)
-  - **Key Concept**: Immediate vs. medium-term vs. ongoing liquidity sources
-  - **In slides**: Pages 150-165
+- [x] **F.47 退休计划类型** (2025-10-13, 2025-10-23, 2025-11-01) - **高信心**
+  - 403(b)、457(b)、457(f)
+  - 供款限制（$23K + $7.5K）
+  - Keogh（HR-10）: 自雇20%
+  - **DC vs DB分类** (2025-10-23) - 已掌握:
+    - **固定供款（DC）**: 供款固定，福利取决于回报
+      - 个人账户，最高$69K（2024）
+      - 示例: 401(k)、利润分享、SEP、SIMPLE
+    - **固定福利（DB）**: 福利固定，供款精算确定
+      - 合并计划，最高$275K（2024）
+      - 示例: 传统养老金、现金余额
+    - **关键**: 阅读问题问什么（分类 vs 最佳计划 vs 最高供款）
+  - **目标福利计划** (2025-11-01) - 已掌握:
+    - **它是什么**: DB和DC计划之间的混合
+      - 目标福利（希望的，不像DB那样保证）
+      - 个人账户（员工承担投资风险如DC）
+      - 年龄加权供款（年长员工获得更多）
+      - 比传统DB更便宜（无PBGC保险，更简单的管理）
+    - **关键概念: 年龄加权有利于年长员工**
+      - 示例目标65岁时$50K/年:
+        - 30岁（剩余35年）: $5,000/年供款（工资的5%）
+        - 45岁（剩余20年）: $15,000/年供款（工资的15%）
+        - 55岁（剩余10年）: $40,000/年供款（工资的40%）✅
+      - 更少时间积累 → 需要更大供款
+    - **完美客户档案**:
+      - 50-62岁小企业主
+      - 高收入，想最大化自己的供款
+      - 其他关键员工也年长（50+）
+      - 年轻员工低薪（年龄加权最小化他们的份额）
+      - 负担不起传统DB计划成本
+    - **何时不使用**:
+      - 大型上市公司（使用401k代替）
+      - 年轻高管（年龄加权对他们不利）
+      - 想有利于普通员工的公司
+    - **记忆辅助**: "目标福利 = 老家伙获胜"
+    - 学生最初认为它有利于年轻员工（常见陷阱！）✓
+    - 现在完美理解年龄加权概念 ✓
+  - **退休计划选择模式** (2025-10-23) - 已掌握:
+    - **"灵活供款"** → 排除DB计划（精算要求）
+    - **"员工保留"** → 需要归属时间表（排除SEP、SIMPLE）
+    - **"最大化所有者供款"** → DB计划或高DC限制
+    - Safe Harbor 401(k) = 基础3% + 自由裁量利润分享（真正灵活性）
+  - **在幻灯片中**: 第10-40页（DB vs DC、养老金 vs 利润分享、所有计划类型）
 
-- [x] **G.59 Types, features, and taxation of trusts** (2025-10-20 voice, 2025-10-21, 2025-11-01) - **High confidence**
-  - **Charitable Remainder Trusts (CRT)**:
-    - CRAT (Annuity): Fixed dollar amount annually, remainder to charity
-    - CRUT (Unitrust): Percentage of value (varies), remainder to charity
-    - Income to donor/beneficiaries during life, remainder to CHARITY
-  - **Grantor Retained Trusts (GRT)**:
-    - GRAT (Annuity): Fixed payment to grantor, remainder to FAMILY
-    - GRUT (Unitrust): Percentage payment to grantor, remainder to FAMILY
-    - Key difference from CRT: Remainder goes to beneficiaries, not charity
-  - **QPRT (Qualified Personal Residence Trust)** (2025-10-21) - MASTERED:
-    - Transfer residence to trust, retain right to live there for X years
-    - After term, residence passes to beneficiaries
-    - Gift = FMV of home - PV of retained interest
-    - **Maximum of TWO QPRTs** (principal residence + one other)
-    - **AFR effect**: Higher AFR → Lower PV of retained interest
-    - **Term length effect**: Shorter term → Higher gift (less retained interest)
-    - **Planning tradeoff**: Shorter term (safer, higher gift) vs Longer term (riskier, lower gift)
-    - Must survive term or property comes back into estate
-    - Gift occurs at CREATION, not termination
-  - **Charitable Lead Trust (CLT)**:
-    - Opposite of CRT: Income to CHARITY first, remainder to FAMILY later
-  - **Pooled Income Fund**:
-    - Simpler charitable giving vehicle, managed by charity
-    - Income to donor, remainder to charity
-  - **QTIP (Qualified Terminable Interest Property Trust)**:
-    - Marital deduction trust for surviving spouse
-    - Spouse gets income for life, grantor controls remainder (often kids from first marriage)
-    - Estate tax deferred until second spouse dies
-  - **QDOT (Qualified Domestic Trust)**:
-    - For non-citizen spouse to preserve marital deduction
-    - US trustee requirement
-    - Estate tax deferred until distributions or death
-  - **ABC Trust Structure**:
-    - A Trust (Bypass/Applicable Exclusion): Uses deceased's estate tax exemption
-    - C Trust (Marital/QTIP): Surviving spouse's assets, gets marital deduction
-    - Less common now due to portability of estate tax exemption
-  - **ILIT (Irrevocable Life Insurance Trust)**:
-    - Transfer life insurance to remove from estate
-    - **3-year rule applies**: Must transfer >3 years before death
-    - If <3 years: Death benefit included in gross estate anyway
-  - **Key Framework**: "Who gets what" - income recipient vs remainder recipient
-  - **Memory Aid Created**: CRAT/CRUT → Charity Remainder, GRAT/GRUT → Grantor Retained
-  - **CRT 4-Tier Taxation** (2025-10-21) - MASTERED:
-    - **Not** a basis calculation like annuities!
-    - **Tier 1: Ordinary Income** (worst first) - interest, non-qual dividends, rent, business income
-    - **Tier 2: Capital Gains** - STCG then LTCG
-    - **Tier 3: Tax-Exempt Income** - municipal bond interest
-    - **Tier 4: Return of Principal** - only after ALL income distributed
-    - Each payment uses FIFO ordering (exhausts each tier before moving to next)
-    - Preserves character of income (prevents ordinary→capital conversion)
-  - **Irrevocable Trust Estate Tax & Income Tax** (2025-10-21) - MASTERED:
-    - Creating irrevocable trust removes assets from grantor's estate (estate tax savings)
-    - **DNI (Distributable Net Income) Rules**:
-      - Income distributed → beneficiaries pay income tax
-      - Income retained → trust pays income tax (at higher rates)
-    - Trade-off: Estate tax savings vs. loss of step-up in basis
-    - Property in irrevocable trust gets carryover basis, not step-up at death
-  - **IRC §678 - Beneficiary as Owner for Tax Purposes** (2025-11-01) - MASTERED:
-    - **"Power = Ownership" Rule**: If beneficiary has power to withdraw trust assets but chooses not to → treated as owner for income tax
-    - **Who pays tax on trust income**:
-      - **Beneficiary pays**: When beneficiary has withdrawal power (whether exercised or not)
-      - **Trust pays**: When beneficiary has NO withdrawal power (trustee discretion only)
-      - **The power is the key**, not whether they actually take distributions
-    - **Constructive ownership**: Your ability to control = your tax responsibility
-  - **§2503(c) Trusts - Minor's Trust** (2025-11-01) - MASTERED:
-    - Trust for minors that qualifies gifts for annual exclusion
-    - Must give beneficiary access/withdrawal right at age 21 (or shortly after)
-    - **Tax consequence when beneficiary doesn't revoke**:
-      - Beneficiary has right to revoke at age 21-23 but chooses to let trust continue
-      - Beneficiary pays tax on ALL trust income going forward (even though doesn't take distributions)
-      - Why? Has power to withdraw → IRC §678 applies → treated as owner
-    - **Example**: Julie gets revocation right at 23, doesn't revoke, lets trust continue to 30
-      - Julie pays income tax on trust earnings from age 23-30
-      - Even though money stays in trust and Julie doesn't receive distributions
-  - **Crummey Powers - Gift Tax vs Income Tax Purposes** (2025-11-01) - MASTERED:
-    - **Student's BRILLIANT insight**: "Why don't ILIT Crummey powers create income tax issue?"
-    - **Answer**: Life insurance cash value growth = TAX-DEFERRED (IRC §7702)
-    - **Key Distinction**:
-      - **§2503(c) trust with stocks/bonds**: Generates dividends, interest, capital gains = LOTS of taxable income
-        - Beneficiary with withdrawal power → pays tax on all that income
-      - **ILIT with life insurance**: Cash value grows tax-deferred → minimal/zero taxable income
-        - Only taxable income = tiny interest on cash in trust account ($50-$500/year)
-        - Trust pays small tax; beneficiaries not affected
-    - **Why use Crummey powers in ILIT**:
-      - Purpose: GIFT TAX (qualify for annual exclusion)
-      - NOT for income tax issue (no income to worry about!)
-      - Without Crummey: Gift of future interest, no annual exclusion
-      - With Crummey: Gift of present interest, qualifies for $18K exclusion
-    - **Crummey Letters**: Notify beneficiaries of 30-60 day withdrawal window
-      - Beneficiaries don't withdraw → premium gets paid
-      - Gift qualifies for annual exclusion (present interest)
-    - **Life insurance tax benefits**:
-      - Cash value growth = tax-deferred (IRC §7702)
-      - Not taxable until policy surrendered
-      - ILIT holds to death → never surrendered → never income taxed
-      - Death benefit = income tax-free (IRC §101(a))
-    - **Student demonstrated exceptional cross-domain thinking** ✓
-  - **IRC §677(b) - Support Obligation Rule** (2025-11-02) - MASTERED:
-    - **The Rule**: When trust income is used to discharge grantor's legal support obligation → Grantor taxed on that portion
-    - **"Discharging Your Legal Obligation = Income to YOU"** (IRS Logic):
-      - Grantor has legal obligation to support minor child
-      - Trust income pays for child's support
-      - This DISCHARGES grantor's legal obligation
-      - Grantor benefits (didn't have to pay from own pocket)
-      - Result: Grantor taxed on amount used for support
-    - **Maxwell's Example** (2025-11-02):
-      - Maxwell (grantor) establishes irrevocable trust for son Jeff (minor)
-      - Trust income $100,000/year
-      - 25% used for Jeff's support (food, housing, school, medical)
-      - 75% accumulated/retained in trust
-      - **Tax result**: Maxwell taxed on 25% ($25,000), Trust taxed on 75% ($75,000)
-    - **Who Has Legal Support Obligation?**:
-      - ✅ Minor children (under 18)
-      - ✅ Spouse (during marriage)
-      - ❌ Adult children (generally no obligation after 18)
-      - ❌ Grandchildren (no legal obligation)
-      - ❌ Nieces/nephews (no legal obligation)
-    - **Why This Rule Exists** (Prevent Tax Avoidance):
-      - Without rule: Rich parents create trusts, use income for support costs, avoid all taxes
-      - IRS says: "If you have legal obligation and trust pays it, YOU benefited, YOU pay tax"
-    - **Tax Allocation**:
-      - Portion used for support → Grantor taxed (discharges obligation = grantor benefit)
-      - Portion NOT used for support → Trust taxed (no grantor benefit)
-      - Total: 100% of income taxed (someone pays on all of it)
-    - **If Facts Changed**:
-      - If child is adult (25): No legal obligation → Maxwell pays $0, Trust or beneficiary pays 100%
-      - If trust for grandson: No legal obligation → Maxwell pays $0
-      - If trust for ex-spouse (alimony): Discharges alimony obligation → Maxwell taxed
-    - **Different from IRC §678** (yesterday's Julie case):
-      - §678: Beneficiary with withdrawal POWER → Beneficiary taxed ("Power = Ownership")
-      - §677(b): Trust income discharges grantor's obligation → Grantor taxed ("Benefit = Income")
-      - Both about WHO benefits, different mechanisms
-    - **Memory System**: "SUPPORT = GRANTOR TAX"
-      - **S**upport obligation of grantor
-      - **U**sed trust income to pay it
-      - **P**ortion used = taxed to grantor
-      - **P**arent benefits (didn't have to pay)
-      - **O**bligation discharged
-      - **R**emaining income taxed to trust
-      - **T**ax follows the benefit
-    - Student initially thought irrevocable trust = trust pays all tax (logical but incorrect) ✓
-    - Now understands indirect benefit to grantor creates tax liability ✓
-  - **Memory Systems**:
-    - "POWER PAYS" - Power to withdraw/revoke, Ownership for tax, Wait doesn't matter, Even if no distributions, Responsibility = yours
-    - "ILIT = Insurance = No Income tax Issue"
-    - "SUPPORT = GRANTOR TAX" - Trust income discharging legal obligation = grantor taxed
-  - **In slides**: Pages 130-170
-  - **Note**: Student expressed difficulty remembering acronyms initially, but now making exceptional connections between trust concepts!
+- [x] **F.48 合格计划规则** (2025-10-11, 2025-10-20, 2025-10-23, 2025-10-29, 2025-11-02) - **高信心**
+  - DC vs DB计划
+  - 养老金 vs 利润分享
+  - 现金余额、目标福利、货币购买
+  - **社会保障整合 - 不能整合的计划** (2025-11-02) - 已掌握:
+    - **不能整合的三个计划 - "SSE"**:
+      - **S**ARSEP（自1996年以来祖父，太简单）
+      - **S**IMPLE IRA（设计为简单，固定2%或3%匹配公式）
+      - **E**SOP（股票所有权计划，不是退休收入替代）
+    - **可以整合的计划**:
+      - ✅ 利润分享计划（正确答案！）
+      - ✅ 传统养老金计划（固定福利）
+      - ✅ 货币购买计划
+      - ✅ 401(k)计划
+      - ✅ 目标福利计划
+    - **为什么这三个不能**:
+      - **SIMPLE**: 名称说明 - 保持简单，不允许复杂性
+        - 仅固定公式（2%非选择性 OR 美元对美元最高3%匹配）
+        - 不能在其上叠加整合公式
+      - **SARSEP**: 祖父（1996年后不再新增），太简单无法整合
+      - **ESOP**: 分配公司股票，不是现金供款
+        - 目的是员工所有权，不是退休收入优化
+        - 整合对股票分配没有意义
+    - **什么是社会保障整合？**（允许的差异）:
+      - 允许对高于SS工资基数（2024年$168,600）的员工更高供款
+      - 理由: SS税仅适用于工资基数
+      - 整合"平衡"总福利
+      - 最大差异: DC计划5.7%
+    - **记忆系统**:
+      - "SSE不能整合"（SARSEP、SIMPLE、ESOP）
+      - "SIMPLE保持简单"（无整合复杂性）
+      - "其他一切都可以整合"
+    - 学生最初选择SIMPLE IRA认为它会整合 ✓
+    - 现在理解: SSE = 不能整合的三个计划 ✓
+  - **非歧视覆盖测试（IRC §410(b)）** (2025-10-29) - 已掌握:
+    - **目的**: 确保计划不仅有利于高薪员工
+    - **两种可用测试**:
+      - **比率百分比测试**: （受益的NHCEs %）÷ （受益的HCEs %）≥ 70%
+        - 示例: 90% HCEs参与 → 需要至少63% NHCEs（70% × 90%）
+      - **平均福利测试**: （NHCEs平均福利%）÷ （HCEs平均福利%）≥ 70%
+        - 示例: HCEs获得12%补偿 → NHCEs需要8.4%最低（70% × 12%）
+    - **关键方向**: 受保护组（NHCEs）必须是优势组（HCEs）的70%
+      - **绝不反向！** 不是HCE ÷ NHCE（会保护老板，不是工人）
+      - 公式模式: NHCE金额 ÷ HCE金额 ≥ 70%
+    - **HCEs vs 关键员工**（不同定义）:
+      - **HCEs**（用于覆盖测试）: 赚取>$155K（2024）OR >5%所有者
+      - **关键员工**（用于顶级重测试）: 官员>$220K、>5%所有者、>1%所有者赚取>$150K
+      - 常见考试陷阱: 问题使用错误的员工分类
+    - 记忆技巧: 弱势组必须获得优势组70%的
+  - **允许的差异 / 社会保障整合** (2025-10-20) - 已掌握:
+    - 也称为"社会保障整合"
+    - 允许对高薪员工额外福利
+    - **超额方法**（两层）: 高于阈值的工资更高供款/福利
+      - DB可以使用: 层福利百分比
+      - DC可以使用: 层供款百分比
+    - **抵消方法**（减去SS）: 通过部分社会保障减少承诺福利
+      - DB可以使用: 有承诺福利可减少
+      - DC不能使用: 没有承诺福利可抵消！
+    - **记忆辅助**: "DC无抵消，DB可以做两者"
+    - **关键规则**: DC计划只能使用超额方法（不能抵消不存在的东西）
+  - **现金余额计划** (2025-10-23) - 已掌握:
+    - **"混合"计划**: 对员工看起来像DC的DB计划
+    - **可以有归属时间表**（3年悬崖 OR 6年分级）
+    - 为员工保留创造"金手铐"
+    - 年长所有者的高供款限制（可能$150K-$250K）
+    - 对员工可预测的账户信用（例如，每年5%工资 + 4%利息）
+    - **vs SEP IRA**: SEP要求100%立即归属（无保留工具）
+    - **完美用于**: 小企业、年长所有者、想要保留 + 高供款
+  - **归属作为保留工具** (2025-10-23):
+    - SEP IRA: 要求100%立即归属（无保留）
+    - SIMPLE IRA: 要求100%立即归属（无保留）
+    - 401(k) Safe Harbor: Safe harbor立即，但利润分享可以归属（2-6年）
+    - 现金余额: 可以使用3年悬崖或6年分级归属
+    - **关键模式**: "员工保留"目标 → 需要归属时间表
+  - **在幻灯片中**: 第20-60页（资格、覆盖测试、归属、顶级重、ADP/ACP）
 
-- [x] **G.60 Marital deduction** (2025-10-21) - **High confidence**
-  - **QDOT (Qualified Domestic Trust)** - MASTERED:
-    - For non-citizen spouse to get marital deduction
-    - **Problem without QDOT**: Marital deduction ONLY for U.S. citizen spouses
-    - **Solution**: QDOT enables unlimited marital deduction for non-citizen spouse
-    - **Estate tax deferred, not eliminated**:
-      - No estate tax at first spouse's death (marital deduction applies)
-      - Estate tax due on principal distributions to surviving spouse
-      - Estate tax due at surviving spouse's death (on remaining assets)
-    - **Income distributions**: NO estate tax (just income tax)
-    - **Requirements**:
-      - U.S. trustee (citizen or domestic corporation)
-      - U.S. trustee can withhold estate tax on distributions
-      - Irrevocable election on estate tax return
-    - **Key distinction**: Non-citizen spouse does NOT become "domestic"
-      - Still non-citizen, still gets different treatment than U.S. citizen spouse
-      - QDOT is a workaround, not equivalence
-  - **QTIP (Qualified Terminable Interest Property)**:
-    - Marital deduction trust for surviving spouse
-    - Spouse gets income for life
-    - Grantor controls remainder (often kids from first marriage)
-    - Estate tax deferred until second spouse dies
-  - **Unlimited marital deduction**: No limit on gifts/bequests to U.S. citizen spouse
-  - **Terminable interest rule**: Property that terminates doesn't qualify (unless QTIP)
-  - **In slides**: Pages 50-70
+- [x] **F.51 分配规则** (2025-10-17, 2025-10-23, 2025-11-01) - **高信心**
+  - **RMD规则**: 73岁（1951-1959年出生），75岁（1960年后出生）
+  - RMD计算: 余额（前一年12/31）÷ 预期寿命（当前年龄12/31）
+  - 完美计算: $500K ÷ 26.5 = $18,868 ✓
+  - 仅第一次RMD的4月1日延迟
+  - 25%罚金（如果纠正则为10%）
+  - Roth IRAs: 终身无RMD
+  - **提前提取罚金例外** (2025-10-23, 2025-11-02) - 已掌握:
+    - **关键#1考试陷阱: 困难 ≠ 例外！** (2025-11-02):
+      - **最常见错误**: 认为困难提取避免10%罚金
+      - **现实**: 困难提取仍然受10%罚金约束（如果低于59½）！
+      - 你可以获取资金（困难允许提取）
+      - 但你支付罚金（10% + 常规税）
+      - **记忆**: "困难对你的钱包很困难 - 你仍然支付10%"
+    - **主要例外 - "D³ + 55 = 免费"** (2025-11-02):
+      - **D¹ = 死亡**: 受益人在参与者死后收到（无罚金）
+      - **D² = 残疾**: 完全和永久残疾（无罚金）
+      - **D³ = 59½后分配**: 魔法年龄（无罚金）
+      - **55 = 55规则**: 55岁或之后从服务中分离（不是在职！）
+    - **55规则关键要求** (2025-10-23, 2025-11-02):
+      - 必须在55岁或之后从服务中分离（辞职/解雇）
+      - **在职 = 规则不适用！**（仍在工作 = 还没有例外）
+      - 示例: 55岁，在职困难 = 罚金适用 ❌
+      - 示例: 55岁，辞职，提取 = 无罚金 ✓
+      - **记忆**: "55规则: 你必须辞职（分离），不只是达到55"
+      - **记忆**: "在职 = 罚金中"（如果低于59½且未残疾）
+    - **55规则**: 55岁或之后从雇主分离（仅401(k)，不是IRAs）
+      - 公共安全员工50岁（警察、消防员）
+      - 必须在55岁或之后从服务中分离
+      - 仅适用于该特定雇主的计划
+    - **QDRO（合格家庭关系令）**:
+      - 替代收款人可以在任何年龄提取现金无罚金
+      - 也可以免税转入自己的IRA
+      - 仅收款人获得罚金例外，不是参与者
+    - **IRA vs 401(k)例外差异**:
+      - 两者: 死亡、残疾、医疗>7.5% AGI、SEPP/72(t)
+      - 仅IRA: 教育、第一套住房（$10K）、健康保险（失业）、IRS征收
+      - 仅401(k): 55规则（55岁或之后分离）
+    - **IRA例外的"HIDES"助记符**:
+      - H = 高等教育（合格费用）
+      - I = 保险（如果失业12+周的健康保费）
+      - D = 残疾
+      - E = 过度医疗（>7.5% AGI）
+      - S = SEPP（72(t)基本相等付款）
+    - 在练习题上完美（55规则、QDRO、IRA教育例外）✓
+  - **401(k)困难提取 vs 在职转入** (2025-11-01) - 已掌握:
+    - **困难提取要求**:
+      - 必须证明立即和严重财务需求
+      - 常见原因: 医疗费用、购房、学费、防止止赎/驱逐、葬礼
+      - 税收处理: 普通收入 + 10%罚金（如果低于59½）
+      - **不能偿还**给计划（不像贷款）
+      - **暂停**: 困难提取后6个月无供款
+    - **为什么存在困难提取**（vs 常规提取）:
+      - 许多401(k)计划不允许在59½前常规在职提取
+      - 困难条款在真正需要时提供紧急访问
+      - "比没有好"当没有其他选项存在时
+    - **学生的优秀替代问题**: "为什么不先转入IRA，然后提取？"
+      - **关键限制**: 在职转入通常不允许在59½前
+      - 不能在该公司仍受雇时转入（除特定情况）
+      - **例外**: 一些计划允许59½后在职转入
+      - **结果**: 对于Joe（48岁），转入不是选项 → 困难提取是唯一选择
+    - **为什么这很重要**:
+      - 学生表现出优秀的专业怀疑 ✓
+      - 识别潜在替代解决方案（转入策略）
+      - 理解限制有助于解释为什么存在困难规则
+      - 现实世界CFP建议: 建立应急基金以避免需要困难提取！
+    - **税收比较**:
+      - 困难提取: 征税 + 10%罚金（昂贵！）
+      - 常规提取（如果允许）: 征税 + 10%罚金（相同成本）
+      - **关键洞察**: 困难要求不会使其更昂贵，只是规范访问
+    - **Joe的抵押贷款问题** (2025-11-01):
+      - 48岁，$60K抵押贷款到期，无现金，有401(k)
+      - 不能做常规提取（计划不允许59½前在职）
+      - 不能转入IRA（59½前在职转入受限）
+      - **唯一选项**: 困难提取（防止止赎 = 符合条件）
+      - 提取，支付税 + 10%罚金，保留房屋 ✓
+    - 学生两次用优秀问题挑战讲师 - 显示深度思考！✓
+  - **在幻灯片中**: 第80-100页
+  - ⚠️ **剩余缺口**: 72(t) SEPP计算尚未覆盖
 
-- [x] **G.64 Special needs planning** (2025-10-21) - **High confidence**
-  - **Special Needs Trust (SNT)** - MASTERED:
-    - Preserves government benefits (SSI, Medicaid)
-    - Provides supplemental care without disqualifying from benefits
-    - Critical for disabled beneficiaries receiving inheritance
-    - First-party vs third-party SNT
-  - **Practical application**: Business succession with incapacitated child
-  - 529A ABLE accounts (up to $18K/year)
-  - Crisis planning considerations
-  - **In slides**: Brief mention throughout estate slides
-  - **Note**: Learned through integrated planning problem (business succession + special needs)
+- [x] **F.53 企业继承规划** (2025-10-21, 2025-10-23) - **高信心**
+  - **买卖协议** - 已掌握:
+    - 交叉购买: 所有者相互购买
+    - 实体购买: 企业从所有者购买
+    - 混合（等待看）: 实体优先权，然后合伙人
+    - **资金买卖**: 人寿保险提供流动性
+    - **何时使用**: 家庭不能/不会经营业务
+    - 关键员工从遗产购买业务
+    - 为家庭提供继承计划 + 流动性
+  - **买卖协议组成部分** (2025-10-23) - 已掌握:
+    - **必须有 - 核心要素**:
+      - 触发事件（死亡、残疾、退休、争议、自愿销售）
+      - **估值方法**（防止价格争议）← 关键
+        - 固定价格（每年更新）
+        - 基于公式（例如，5x EBITDA，账面价值倍数）
+        - 独立评估
+        - 组合方法
+      - 资金机制（人寿保险、偿债基金、分期付款）
+      - 购买义务（必须购买 vs 可以购买）
+      - 优先拒绝权条款
+      - 转让限制
+    - **应该有 - 家庭保护**:
+      - **信托建立**（管理交易，保护家庭）← 关键
+        - 信托拥有股份或接收保险收益
+        - 专业受托人处理买断
+        - 从交易中移除情感
+        - 家庭的明确分配计划
+    - **不在买卖协议中**（常见陷阱）:
+      - ❌ 角色和责任（在运营协议中）
+      - ❌ 工作描述（雇佣合同）
+      - ❌ 管理继承计划（独立文件）
+      - ❌ CEO过渡时间线（继承路线图）
+      - **关键区别**: 买卖 = 所有权转让，不是管理结构
+    - **避免**:
+      - ❌ 资产排除（创造模糊性和未来争议）
+      - 保持协议全面和清晰
+    - 在练习题上完美（估值 + 信托，不是角色）✓
+  - **继承的业务结构**:
+    - 当家庭参与时: FLP、投票/非投票股票、GRAT
+    - 当家庭不参与时: 买卖给关键员工或第三方
+  - ESOPs（员工股票所有权计划）
+  - 残疾买断保险
+  - **实际应用**: 将工具与客户情况匹配（家庭能力/意愿）
+  - **在幻灯片中**: 第175-182页
 
-### Not Yet Studied (5/14 topics)
+### ✅ 已掌握主题 (10/10) - 领域完成 ✅
 
-- [ ] **G.56** Estate documents ⭐
-  - **In slides**: Wills, POAs, Advance directives
+- [x] **F.46 老年护理和特殊需求规划** (2025-10-23) - **中等-高信心**
+  - **Medicaid豁免计划** (2025-10-23) - 已掌握:
+    - HCBS（家庭和社区服务）
+    - 当LTC保险太晚时（诊断后如痴呆）
+    - 允许在家护理而不是机构护理
+    - 低/无成本，Medicaid资助
+    - **CFP角色**: 识别为选项，转介给老年法律师
+  - **在幻灯片中**: 退休部分简要提及
+  - **注意**: 通过实际问题学习（Judy的父亲有痴呆）
 
-- [ ] **G.61** Business transfers
-  - **In slides**: FLPs, Section 2032A
+- [x] **F.49 非合格计划规则** (2025-10-23, 2025-10-31) - **中等-高信心** ⭐ (部分)
+  - **传统IRA可扣除性逐步取消** (2025-10-23) - 已掌握:
+    - **三种不同的逐步取消范围**（关键记忆）:
+      - **活跃参与者 - 单身/HOH**: $77K - $87K（2024）
+      - **活跃参与者 - 联合申报**: $123K - $143K（2024）
+      - **非活跃参与者（配偶活跃） - 联合申报**: $230K - $240K（2024）← 高得多！
+    - **补缴供款**: 仅50岁以上（额外$1,000 = 总计$8,000）
+    - **关键模式**: 非活跃参与者配偶获得更高的逐步取消范围
+    - 在练习题上完美（Sarah $225K MAGI，全额$7K扣除）✓
+  - **拉比信托 vs 世俗信托** (2025-10-31) - 已掌握:
+    - **拉比信托**:
+      - 雇主的债权人可以触及资金（对员工有风险）
+      - 雇主不能收回资金（不可撤销）
+      - 税收递延直到分配
+      - 弹性不可撤销: 在触发事件时变得不可撤销（例如，管理层接管）
+    - **世俗信托**:
+      - 雇主的债权人不能触及资金（受保护）
+      - 立即对员工征税（无税收递延）
+      - 权衡: 保护 vs 税收时机
+    - **记忆辅助**: "拉比 = 风险"（债权人可以触及），"3 C's"（Creditors yes, Company no, Change triggers）
+  - **在幻灯片中**: 第105-140页（IRAs、Roth、SEP、SIMPLE、NQDCs、股票期权）
+  - **仍需覆盖**: Roth IRA逐步取消、排序规则、SEP、SIMPLE、ISOs vs NQSOs
+  - **优先级**: 继续第3-4天学习 - IRA可扣除性和拉比信托已覆盖
 
-- [ ] **G.62** Postmortem planning
-  - **In slides**: QTIP election, Disclaimers
-
-- [ ] **G.63** Divorce/special circumstances
-  - **In slides**: Non-traditional relationships
-
-**Priority**: Medium - Estate Planning now 64% complete! Focus on G.56 (documents), G.61 (business transfers), reinforce G.59 trust acronyms
+**优先级**: **退休领域100%完成！** ✅（考试18% - 最高权重领域已掌握！）
 
 ---
 
-## H. Psychology of Financial Planning (7%)
+## G. 遗产规划 (10%)
 
-**Slides**: Minimal coverage (Investment slides pages 180-185)
+**幻灯片**: 遗产（200页全面）
 
-### ✅ Mastered Topics (2/6)
+### ✅ 已掌握主题 (9/14)
 
-- [x] **H.66 Behavioral finance** (2025-10-20) - **High confidence**
-  - **Herd Mentality**: Following crowd even when you disagree
-    - Most significant behavioral bias (34% of investment decisions)
-    - Example: Client disagrees with forum consensus but goes along anyway ✓
-  - **Four Major Biases Comparison** - "FFFF" mnemonic:
-    - **F**ollow (Herd) - copy others despite disagreement
-    - **F**irst (Anchoring) - stuck on initial information
-    - **F**ind (Confirmation) - seek supporting evidence for own beliefs
-    - **F**resh (Recency) - focus on latest info, assume trends continue
-  - **Critical distinction**: Herd = follow OTHERS, Confirmation = follow OWN beliefs
-  - **In slides**: Brief mention, pages 180-185
+- [x] **G.54 财产所有权** (2025-10-11, 2025-10-19, 2025-11-02) - **高信心**
+  - 遗嘱认证 vs 非遗嘱认证资产
+  - JTWROS（避免遗嘱认证）
+  - 共同共有（通过遗嘱认证）
+  - 人寿保险受益人策略（给个人 vs 给遗产）
+  - **JTWROS vs 共同共有** (2025-11-02) - 已掌握:
+    - **JTWROS的#1规则**: 不能通过遗嘱传递（完全绕过遗嘱！）
+      - 通过**法律运作**传递（自动，遗嘱认证外）
+      - 当共同所有人死亡 → 份额消失，幸存者拥有100%
+      - 遗嘱不能覆盖这个（JTWROS胜过遗嘱）
+    - **为什么其他陈述是真实的**:
+      - 2+个所有人，可能/可能不相关 ✅（与TIC相同）
+      - **所有权必须相等** ✅（这对JTWROS是要求的！）
+      - 传递给幸存所有人 ✅（生存权的定义）
+    - **JTWROS vs TIC比较**:
+      - 所有权%: JTWROS = 必须相等 | TIC = 可以不相等（40/60、70/30）
+      - 通过遗嘱传递？: JTWROS = 否（绕过遗嘱！）| TIC = 是（遗嘱控制）
+      - 生存权？: JTWROS = 是（幸存者获得全部）| TIC = 否（继承人获得%）
+      - 遗嘱认证？: JTWROS = 否（遗嘱认证外）| TIC = 是（通过遗嘱认证）
+    - **JTWROS的4个统一性（TIPS）**:
+      - **T**ime: 所有所有人在同一时间获得所有权
+      - **I**nterest: 所有所有人有相同利益（相等% - 要求！）
+      - **P**ossession: 所有所有人有平等占有权
+      - **S**urvivorship: 生存权
+    - **记忆系统**:
+      - "JTWROS = 3个魔法词: 相等、自动、遗嘱证明"
+      - "你的遗嘱对JTWROS无能为力"
+      - "相等份额，幸存者关心，遗嘱无关"
+    - 学生认为"所有权必须相等"是错误答案 ✓
+    - 现在理解: JTWROS不能通过遗嘱传递（那是错误陈述）✓
+  - **辅助遗嘱认证** (2025-11-02) - 已掌握:
+    - **问题**: 州外房地产创造**两个遗嘱认证程序**
+      - **主要遗嘱认证**: 死者居住的州（住所）
+      - **辅助遗嘱认证**: 房地产所在的州
+      - **结果**: 双重成本，双重时间（2-3年 vs 1年），双重复杂性
+    - **为什么是噩梦**:
+      - 在两个州支付遗嘱认证（2×律师费、法庭费）
+      - 不同州法律、不同法庭、需要协调
+      - 显著延迟转让（违背"加快转让"目标）
+    - **解决方案 - 生前转让**:
+      - 在死亡前转让财产以避免辅助遗嘱认证
+      - 选项: 赠与给受益人、可撤销生前信托、JTWROS、LLC
+      - **结果**: 无辅助遗嘱认证，更快转让，更低成本
+    - **Dave & Jessica示例** (2025-11-02):
+      - 海滩小屋**在另一个州**（红旗！）
+      - 目标: "加快遗产资产转让"
+      - **建议**: 小屋的生前转让
+      - 为什么: 完全避免辅助遗嘱认证，实现加快目标
+    - **记忆系统**:
+      - "州外 = 不走运（无规划）"
+      - "辅助 = 另一个州 = 另一个遗嘱认证"
+      - "三个A": 辅助遗嘱认证 → 生前转让
+    - 学生最初没有选择生前转让建议 ✓
+    - 现在理解: 州外财产 = 辅助遗嘱认证问题 ✓
+  - **JTWROS遗产税处理** (2025-10-19) - 已掌握:
+    - 包括在遗产总额中用于遗产税（IRC § 2040）✓
+    - 配偶50%包括，非配偶100%（除非证明贡献）
+    - 避免遗嘱认证但不避免遗产税 ✓
+    - 常见陷阱: "避免遗嘱认证" ≠ "避免遗产税"
+  - **逐步基础规则**:
+    - JTWROS: 50%逐步（普通法州配偶）
+    - 共同财产: 100%逐步（两半）
+    - TIC: 仅死者%获得逐步
+  - **创建的记忆系统**: "3 P's测试"（遗嘱认证、传递、百分比）
+  - **在幻灯片中**: 第20-40页
 
-- [x] **H.67 Sources of money conflict** (2025-10-20) - **High confidence**
-  - **Framework**: Source vs Symptom
-    - SOURCE = Underlying WHY conflicts happen (root cause)
-    - SYMPTOM = Surface topics they argue about
-  - **Power Imbalance from Income Disparity**:
-    - One partner earns significantly more → creates control dynamics
-    - "I make money, I decide" leads to resentment
-    - Affects ALL financial decisions (not just one topic)
-    - PRIMARY source identified by CFP Board (56% men, 59% women report conflicts)
-  - **Other Sources**: Different values, financial secrecy, money scripts from childhood
-  - **Topics (not sources)**: Education spending, risk tolerance, generational differences
-  - **CFP Application**: Address root causes, ensure equal voice in meetings
-  - **Not in slides** - researched online
+- [x] **G.55 转让财产的策略** (2025-10-21, 2025-10-31) - **高信心**
+  - **自取消分期付款票据（SCIN）** - 已掌握:
+    - 卖方将财产出售给买方以换取分期付款票据
+    - 如果卖方在票据付清前死亡，剩余付款取消
+    - **完美用于缩短预期寿命**: 在期限内死亡的高概率
+    - 在生命期间提供现金流 + 遗产税节省
+    - SCIN溢价（略高价格）补偿取消风险
+    - **教科书用例**: 有健康问题/缩短预期寿命的人
+  - **SCIN vs 其他赠与税避免方法** (2025-10-31) - 已掌握:
+    - **带FMV溢价的SCIN** = 视为**销售**（不是赠与）
+      - 买方支付FMV + 溢价
+      - 溢价补偿取消风险
+      - IRS视为合法商业交易
+      - **结果**: 无赠与税（即使适用信用已用尽）
+    - **所有其他常见方法创造赠与**:
+      - **QPRT**: 转让给信托 = 剩余利益的应税赠与
+      - **带赠与的FLP**: 仅$18K年度排除适用，超额是应税赠与
+        - 示例: $50K赠与 - $18K排除 = $32K应税赠与
+        - 用尽信用 → 立即赠与税责任
+      - **JTWROS**: 添加共同所有人 = 50%所有权的赠与
+    - **关键区别**: SCIN是唯一是销售而不是赠与的方法
+    - **记忆辅助**: "SCIN = 销售" vs "其他一切 = 赠与"，"SCIN保持清洁"
+  - **私人年金合同**:
+    - 为终身付款转让财产
+    - 无担保义务
+    - 缩短预期寿命: 精算价值更高（对买方不利）
+  - **何时使用SCIN vs 私人年金**:
+    - SCIN: 缩短预期寿命（卖方可能在期限内死亡）
+    - 私人年金: 正常预期寿命，需要终身收入
+  - **GRIT限制**: 对家庭成员不起作用（IRC §2702）
+  - **在幻灯片中**: 第70-85页
+  - **注意**: 与FLP（长期时间范围）和GRIT（仅非家庭）比较
 
-### Not Yet Studied (4/6 topics)
+- [x] **G.57 赠与、遗产和GST税收合规和计算** (2025-10-21, 2025-11-01, 2025-11-02) - **高信心**
+  - **过度合格和可携带性** (2025-11-02) - 已掌握:
+    - **学生的优秀问题**: "但有信用可携带性，对吧？"
+    - **答案**: 是的，可携带性存在但有重大限制！
+    - **可携带性（DSUE - 已故配偶未使用排除）**:
+      - 幸存配偶可以"继承"已故配偶的未使用豁免
+      - 必须在9个月内提交Form 706（即使无税！）
+      - 示例: 丈夫死亡，$5M未使用 → 妻子获得$5M DSUE
+    - **但可携带性有3个重大限制**:
+      1. **无增长保护**（最大问题！）:
+         - 信用庇护信托: 增长受保护（永远免税）
+         - 可携带性: 增长不受保护（在幸存配偶遗产中应税）
+         - 示例: $13.61M增长到$30M
+           - 可携带性: 妻子遗产中$30M，超过$27.22M的部分按40%征税
+           - 信用庇护信托: 妻子遗产中$30M不包括，免税传给子女
+           - **税收节省**: 信用庇护信托节省超过$1M！
+      2. **再婚问题**: 只能使用最后已故配偶的DSUE（失去第一个配偶的！）
+      3. **必须提交Form 706**: 不是自动的，错过截止日期 = 永远失去可携带性
+    - **过度合格的现代定义**:
+      - **可携带性前**: 浪费豁免金额本身
+      - **可携带性后**: 浪费**增长保护**利益
+      - 无论哪种方式 = **信用价值的利用不足**
+    - **陈述I真实**: 过度合格 = 适用信用的利用不足
+      - 即使有可携带性，增长保护利用不足
+      - 不是所有遗产都提交Form 706（失去可携带性）
+      - 再婚可以消除DSUE
+    - **陈述II错误**: 描述不足合格（反向！）
+      - 过度合格 = 给配偶太多（过度使用婚姻扣除）
+      - 不足合格 = 给配偶太少（利用不足婚姻扣除）
+    - **记忆系统**:
+      - "过度给配偶 = 利用不足豁免"
+      - "可携带性转移美元，信托保护增长"
+      - "可携带性 = 可携带豁免，不是可携带增长保护"
+    - 学生用可携带性问题挑战过度合格概念 ✓
+    - 现在理解: 可携带性不保护增长，过度合格仍然浪费利益 ✓
+  - **年度排除赠与** - 已掌握:
+    - 每个捐赠者，每个受赠人，每年
+    - 2023: $17,000，2024: $18,000，2025: $19,000（预计）
+    - 已婚夫妇: 每个配偶可以单独给予
+    - 可以给子女和他们的配偶（独立受赠人）
+    - 示例: 2个父母 × 4个接收者 × $17K = $136K年度赠与
+    - "不使用适用排除" = 保持在年度限制内
+  - **赠与估值和税收计算** (2025-11-01) - 已掌握:
+    - **赠与总是按FMV估值**（不是捐赠者的基础！）
+    - 应税赠与 = FMV - 年度排除（$18K）
+    - 2024年终身排除: $13,610,000
+    - 适用信用抵消低于终身排除的赠与税收
+    - 示例: $5,130,000赠与 - $18K = $5,112,000应税 → 无税（信用覆盖）
+  - **损失财产赠与和双重基础规则** (2025-11-01) - 已掌握:
+    - **损失财产**: FMV < 捐赠者基础（财产价值下降）
+    - **赠与税只能添加到基础用于增值财产**
+      - 增值（FMV > 基础）: 赠与税可以分配以增加基础 ✓
+      - 损失财产（FMV < 基础）: 赠与税不能分配 ❌
+    - **损失财产的双重基础规则**:
+      - 受赠人收到两个不同的基础:
+        - **收益基础**: 捐赠者的原始基础（用于计算收益）
+        - **损失基础**: 赠与时的FMV（用于计算损失）
+      - **销售场景**:
+        - 高于捐赠者基础出售 → 使用收益基础（捐赠者的原始基础）
+        - 低于赠与时FMV出售 → 使用损失基础（赠与时的FMV）
+        - **在两个基础之间出售 → 无收益或损失**（"死区"）
+    - **示例**: 基础$6.8M，赠与时FMV $5.13M
+      - 以$7M出售 → 收益 = $200K（使用$6.8M基础）
+      - 以$6.5M出售 → 无收益或损失（在死区）
+      - 以$5M出售 → 损失 = $130K（使用$5.13M基础）
+    - **记忆辅助**: "FAB-L"（FMV用于赠与税，仅增值用于基础添加，基础是双重，损失财产有死区）
+  - **遗产总额计算** - 已掌握:
+    - **3年回溯规则（IRC §2035）**:
+      - 死亡前3年内转让的人寿保险 → 包括在遗产中
+      - 防止临终转让以避免遗产税
+      - 必须死亡前>3年转让ILIT才能工作
+      - 如果转让<3年: 死亡福利包括在遗产总额中
+    - **JTWROS遗产税处理（IRC §2040）**:
+      - 配偶: 50%包括在死者遗产总额中
+      - 非配偶: 100%除非证明贡献
+      - 避免遗嘱认证但不避免遗产税
+    - **公式**: 加总所有可包括资产
+  - **终身排除**: $13.61M（2024），随通胀调整
+  - **在幻灯片中**: 第50-120页（最全面的遗产部分）
+  - **关键区别**: 年度排除 vs 终身豁免
 
-- [ ] **H.65** Attitudes, values, biases
-  - **In slides**: Brief mention only
+- [x] **G.58 遗产流动性来源** (2025-10-21) - **高信心**
+  - **IRC Section 6166 - 遗产税分期付款** - 已掌握:
+    - 为家族企业主在14年内支付遗产税
+    - 前4-5年仅利息，然后本金 + 利息
+    - 特殊低利率（前$1.7M为2%）
+    - 要求: 紧密持有业务 > 调整后遗产总额的35%
+    - **完美用于**: 有非流动性遗产的家族企业主
+    - 防止被迫出售业务以支付遗产税
+  - **即时流动性来源**:
+    - 人寿保险死亡福利（如果遗产是受益人）
+    - 现金和支票账户
+    - 股票和债券（几天/周内出售）
+    - 货币市场账户
+  - **不是即时流动性**:
+    - 借款（复杂、慢、创造新债务）
+    - 租金收入（持续的，不是一次性）
+  - **不是遗产流动性**:
+    - 有受益人的退休账户（绕过遗产）
+    - 有受益人的寿险（绕过遗产）
+  - **关键区别**: 遗产资产 vs 非遗嘱认证/受益人资产
+  - **其他流动性工具**:
+    - Section 303股票赎回（资本收益待遇）
+    - Section 2032A特殊用途估值（农场/业务房地产）
+  - **关键概念**: 即时 vs 中期 vs 持续流动性来源
+  - **在幻灯片中**: 第150-165页
 
-- [ ] **H.68** Principles of counseling
-  - **Not in slides** - need other materials
+- [x] **G.59 信托的类型、特征和税收** (2025-10-20语音, 2025-10-21, 2025-11-01) - **高信心**
+  - **慈善剩余信托（CRT）**:
+    - CRAT（年金）: 每年固定美元金额，剩余给慈善
+    - CRUT（单位信托）: 价值的百分比（变化），剩余给慈善
+    - 捐赠者/受益人在生命期间获得收入，剩余给慈善
+  - **授予人保留信托（GRT）**:
+    - GRAT（年金）: 给授予人固定付款，剩余给家庭
+    - GRUT（单位信托）: 给授予人百分比付款，剩余给家庭
+    - 与CRT的关键区别: 剩余给受益人，不是慈善
+  - **QPRT（合格个人住宅信托）** (2025-10-21) - 已掌握:
+    - 将住宅转让给信托，保留居住X年的权利
+    - 期限后，住宅传给受益人
+    - 赠与 = 房屋FMV - 保留利益的PV
+    - **最多两个QPRT**（主要住所 + 一个其他）
+    - **AFR效应**: 更高AFR → 更低保留利益PV
+    - **期限长度效应**: 更短期限 → 更高赠与（更少保留利益）
+    - **规划权衡**: 更短期限（更安全，更高赠与）vs 更长期限（更风险，更低赠与）
+    - 必须存活期限否则财产回到遗产
+    - 赠与发生在创建时，不是终止时
+  - **慈善领先信托（CLT）**:
+    - 与CRT相反: 收入先给慈善，剩余后给家庭
+  - **集合收入基金**:
+    - 更简单的慈善赠与工具，由慈善管理
+    - 收入给捐赠者，剩余给慈善
+  - **QTIP（合格可终止利益财产信托）**:
+    - 幸存配偶的婚姻扣除信托
+    - 配偶终身获得收入，授予人控制剩余（通常第一次婚姻的子女）
+    - 遗产税递延直到第二个配偶死亡
+  - **QDOT（合格国内信托）**:
+    - 为非公民配偶保留婚姻扣除
+    - 美国受托人要求
+    - 遗产税递延直到分配或死亡
+  - **ABC信托结构**:
+    - A信托（绕过/适用排除）: 使用死者的遗产税豁免
+    - C信托（婚姻/QTIP）: 幸存配偶的资产，获得婚姻扣除
+    - 由于遗产税豁免的可携带性现在较少见
+  - **ILIT（不可撤销人寿保险信托）**:
+    - 转让人寿保险以从遗产中移除
+    - **适用3年规则**: 必须死亡前>3年转让
+    - 如果<3年: 死亡福利无论如何包括在遗产总额中
+  - **关键框架**: "谁得到什么" - 收入接收者 vs 剩余接收者
+  - **创建的记忆辅助**: CRAT/CRUT → 慈善剩余，GRAT/GRUT → 授予人保留
+  - **CRT 4层税收** (2025-10-21) - 已掌握:
+    - **不是**像年金那样的基础计算！
+    - **第1层: 普通收入**（最差优先） - 利息、非合格股息、租金、业务收入
+    - **第2层: 资本收益** - STCG然后LTCG
+    - **第3层: 免税收入** - 市政债券利息
+    - **第4层: 本金返还** - 仅在所有收入分配后
+    - 每次付款使用FIFO排序（在移动到下一层前耗尽每层）
+    - 保留收入特征（防止普通→资本转换）
+  - **不可撤销信托遗产税和所得税** (2025-10-21) - 已掌握:
+    - 创建不可撤销信托从授予人遗产中移除资产（遗产税节省）
+    - **DNI（可分配净收入）规则**:
+      - 收入分配 → 受益人支付所得税
+      - 收入保留 → 信托支付所得税（按更高税率）
+    - 权衡: 遗产税节省 vs 逐步基础的损失
+    - 不可撤销信托中的财产获得结转基础，不是死亡时的逐步
+  - **IRC §678 - 受益人为税收目的的拥有者** (2025-11-01) - 已掌握:
+    - **"权力 = 所有权"规则**: 如果受益人有提取信托资产的权力但选择不提取 → 视为所得税的拥有者
+    - **谁支付信托收入税**:
+      - **受益人支付**: 当受益人有提取权力（无论是否行使）
+      - **信托支付**: 当受益人无提取权力（仅受托人自由裁量）
+      - **权力是关键**，不是他们是否实际提取分配
+    - **推定所有权**: 你控制的能力 = 你的税收责任
+  - **§2503(c)信托 - 未成年人信托** (2025-11-01) - 已掌握:
+    - 符合年度排除赠与的未成年人信托
+    - 必须在21岁（或之后不久）给受益人访问/提取权
+    - **受益人不撤销时的税收后果**:
+      - 受益人在21-23岁有撤销权但选择让信托继续
+      - 受益人支付所有未来信托收入税（即使不提取分配）
+      - 为什么？有提取权力 → IRC §678适用 → 视为拥有者
+    - **示例**: Julie在23岁获得撤销权，不撤销，让信托继续到30岁
+      - Julie支付23-30岁信托收入税
+      - 即使钱留在信托中，Julie不接收分配
+  - **Crummey权力 - 赠与税 vs 所得税目的** (2025-11-01) - 已掌握:
+    - **学生的优秀洞察**: "为什么ILIT Crummey权力不创造所得税问题？"
+    - **答案**: 人寿保险现金价值增长 = 税收递延（IRC §7702）
+    - **关键区别**:
+      - **§2503(c)信托与股票/债券**: 产生股息、利息、资本收益 = 大量应税收入
+        - 有提取权力的受益人 → 支付所有这些收入税
+      - **ILIT与人寿保险**: 现金价值增长税收递延 → 最小/零应税收入
+        - 仅应税收入 = 信托账户中现金的微小利息（$50-$500/年）
+        - 信托支付小额税；受益人不受影响
+    - **为什么在ILIT中使用Crummey权力**:
+      - 目的: 赠与税（符合年度排除）
+      - 不是所得税问题（无收入可担心！）
+      - 无Crummey: 未来利益赠与，无年度排除
+      - 有Crummey: 现在利益赠与，符合$18K排除
+    - **Crummey信件**: 通知受益人30-60天提取窗口
+      - 受益人不提取 → 保费支付
+      - 赠与符合年度排除（现在利益）
+    - **人寿保险税收利益**:
+      - 现金价值增长 = 税收递延（IRC §7702）
+      - 直到保单退保才征税
+      - ILIT持有到死亡 → 永不退保 → 永不所得税
+      - 死亡福利 = 所得税免税（IRC §101(a)）
+    - **学生表现出卓越的跨领域思维** ✓
+  - **IRC §677(b) - 支持义务规则** (2025-11-02) - 已掌握:
+    - **规则**: 当信托收入用于解除授予人的法律支持义务时 → 授予人按该部分征税
+    - **"解除你的法律义务 = 你的收入"**（IRS逻辑）:
+      - 授予人有法律义务支持未成年子女
+      - 信托收入支付子女的支持
+      - 这解除授予人的法律义务
+      - 授予人受益（不必从自己口袋支付）
+      - 结果: 授予人按用于支持的金额征税
+    - **Maxwell的示例** (2025-11-02):
+      - Maxwell（授予人）为儿子Jeff（未成年）建立不可撤销信托
+      - 信托收入$100,000/年
+      - 25%用于Jeff的支持（食物、住房、学校、医疗）
+      - 75%累积/保留在信托中
+      - **税收结果**: Maxwell按25%征税（$25,000），信托按75%征税（$75,000）
+    - **谁有法律支持义务？**:
+      - ✅ 未成年子女（18岁以下）
+      - ✅ 配偶（婚姻期间）
+      - ❌ 成年子女（18岁后通常无义务）
+      - ❌ 孙子女（无法律义务）
+      - ❌ 侄子/侄女（无法律义务）
+    - **为什么存在这个规则**（防止避税）:
+      - 无规则: 富父母创建信托，用收入支付支持成本，避免所有税收
+      - IRS说: "如果你有法律义务，信托支付它，你受益，你纳税"
+    - **税收分配**:
+      - 用于支持的部分 → 授予人征税（解除义务 = 授予人利益）
+      - 不用于支持的部分 → 信托征税（无授予人利益）
+      - 总计: 100%收入征税（有人支付所有）
+    - **如果事实改变**:
+      - 如果子女是成年人（25岁）: 无法律义务 → Maxwell支付$0，信托或受益人支付100%
+      - 如果信托为孙子女: 无法律义务 → Maxwell支付$0
+      - 如果信托为前配偶（赡养费）: 解除赡养费义务 → Maxwell征税
+    - **不同于IRC §678**（昨天的Julie案例）:
+      - §678: 受益人有提取权力 → 受益人征税（"权力 = 所有权"）
+      - §677(b): 信托收入解除授予人义务 → 授予人征税（"利益 = 收入"）
+      - 两者关于谁受益，不同机制
+    - **记忆系统**: "支持 = 授予人税"
+      - **S**upport义务的授予人
+      - **U**sed信托收入支付它
+      - **P**ortion used = 授予人征税
+      - **P**arent受益（不必支付）
+      - **O**bligation解除
+      - **R**emaining收入信托征税
+      - **T**ax跟随利益
+    - 学生最初认为不可撤销信托 = 信托支付所有税（逻辑但错误）✓
+    - 现在理解: 对授予人的间接利益创造税收责任 ✓
+  - **记忆系统**:
+    - "权力支付" - 提取/撤销权力，税收所有权，等待无关，即使无分配，责任 = 你的
+    - "ILIT = 保险 = 无所得税问题"
+    - "支持 = 授予人税" - 解除法律义务的信托收入 = 授予人征税
+  - **在幻灯片中**: 第130-170页
+  - **注意**: 学生最初表达记住首字母缩略词的困难，但现在在信托概念之间做出卓越连接！
 
-- [ ] **H.69** Communication
-  - **In slides**: Fundamentals pages 30-35 (Communication techniques, Motivational interviewing)
+- [x] **G.60 婚姻扣除** (2025-10-21) - **高信心**
+  - **QDOT（合格国内信托）** - 已掌握:
+    - 为非公民配偶获得婚姻扣除
+    - **无QDOT的问题**: 婚姻扣除仅适用于美国公民配偶
+    - **解决方案**: QDOT使非公民配偶能够获得无限婚姻扣除
+    - **遗产税递延，不消除**:
+      - 第一个配偶死亡时无遗产税（适用婚姻扣除）
+      - 向幸存配偶的本金分配时遗产税到期
+      - 幸存配偶死亡时遗产税到期（剩余资产）
+    - **收入分配**: 无遗产税（仅所得税）
+    - **要求**:
+      - 美国受托人（公民或国内公司）
+      - 美国受托人可以在分配时预扣遗产税
+      - 在遗产税申报表上不可撤销选择
+    - **关键区别**: 非公民配偶不成为"国内"
+      - 仍然是非公民，仍然获得与美国公民配偶不同的待遇
+      - QDOT是变通方法，不是等价
+  - **QTIP（合格可终止利益财产）**:
+    - 幸存配偶的婚姻扣除信托
+    - 配偶终身获得收入
+    - 授予人控制剩余（通常第一次婚姻的子女）
+    - 遗产税递延直到第二个配偶死亡
+  - **无限婚姻扣除**: 对美国公民配偶的赠与/遗赠无限制
+  - **可终止利益规则**: 终止的财产不符合条件（除非QTIP）
+  - **在幻灯片中**: 第50-70页
 
-- [ ] **H.70** Crisis events
-  - **In slides**: Fundamentals pages 55-60 (Planning for crisis events)
+- [x] **G.64 特殊需求规划** (2025-10-21) - **高信心**
+  - **特殊需求信托（SNT）** - 已掌握:
+    - 保留政府福利（SSI、Medicaid）
+    - 提供补充护理而不取消福利资格
+    - 对接收继承的残疾受益人至关重要
+    - 第一方 vs 第三方SNT
+  - **实际应用**: 有丧失能力子女的企业继承
+  - 529A ABLE账户（最高$18K/年）
+  - 危机规划考虑
+  - **在幻灯片中**: 整个遗产幻灯片中简要提及
+  - **注意**: 通过综合规划问题学习（企业继承 + 特殊需求）
 
-**Priority**: Low (7% of exam) - Brief review final week, supplement with other materials
+### 尚未学习 (5/14 主题)
+
+- [ ] **G.56** 遗产文件 ⭐
+  - **在幻灯片中**: 遗嘱、POAs、预先指示
+
+- [ ] **G.61** 企业转让
+  - **在幻灯片中**: FLPs、Section 2032A
+
+- [ ] **G.62** 死后规划
+  - **在幻灯片中**: QTIP选择、放弃
+
+- [ ] **G.63** 离婚/特殊情况
+  - **在幻灯片中**: 非传统关系
+
+**优先级**: 中等 - 遗产规划现在64%完成！专注于G.56（文件）、G.61（企业转让），强化G.59信托首字母缩略词
 
 ---
 
-## Current Knowledge Gaps (Action Required)
+## H. 财务规划心理学 (7%)
 
-### 🔴 HIGH SEVERITY
+**幻灯片**: 最少覆盖（投资幻灯片第180-185页）
 
-**1. E.38 Business Taxation** - Section 179, MACRS Depreciation
-- **Status**: PARTIALLY RESOLVED (2025-10-28, 2025-11-01)
-  - ✅ C Corporation distributions - MASTERED (2025-10-28)
-  - ✅ Section 1221 vs 1231 property - MASTERED (2025-11-01)
-  - ❌ Section 179 expensing - Still needs work
-  - ❌ MACRS depreciation - Still needs work
-  - ❌ Mid-quarter convention - Still needs work
-- **Impact**: Critical for Tax Planning (14% of exam)
-- **In slides**: Tax slides pages 135-145
-- **Action**: Dedicate fresh session to Section 179/MACRS IMMEDIATELY
-- **Date identified**: 2025-10-11
-- **Partial resolutions**:
-  - 2025-10-28: C corp distributions mastered
-  - 2025-11-01: Section 1221 vs 1231 mastered (capital asset definition and §1231 special treatment)
+### ✅ 已掌握主题 (2/6)
 
-### 🟡 MEDIUM SEVERITY
+- [x] **H.66 行为金融** (2025-10-20) - **高信心**
+  - **从众心理**: 即使你不同意也跟随人群
+    - 最重要的行为偏差（34%的投资决策）
+    - 示例: 客户不同意论坛共识但仍然跟随 ✓
+  - **四大偏差比较** - "FFFF"助记符:
+    - **F**ollow（从众） - 尽管不同意也复制他人
+    - **F**irst（锚定） - 卡在初始信息
+    - **F**ind（确认） - 寻求支持自己信念的证据
+    - **F**resh（近因） - 关注最新信息，假设趋势继续
+  - **关键区别**: 从众 = 跟随他人，确认 = 跟随自己的信念
+  - **在幻灯片中**: 简要提及，第180-185页
 
-**2. F.51 Early Withdrawal Exceptions & 72(t)**
-- **Status**: SUBSTANTIALLY RESOLVED (2025-11-01)
-  - ✅ Rule of 55 - MASTERED (2025-10-23)
-  - ✅ QDRO exceptions - MASTERED (2025-10-23)
-  - ✅ IRA vs 401(k) exception differences - MASTERED (2025-10-23)
-  - ✅ "HIDES" mnemonic - MASTERED (2025-10-23)
-  - ✅ Hardship withdrawals & in-service rollover restrictions - MASTERED (2025-11-01)
-  - ❌ 72(t) SEPP calculations - Still needs work
-- **In slides**: Retirement slides pages 85-95
-- **Action**: Only 72(t) SEPP calculations remaining (low exam priority)
+- [x] **H.67 金钱冲突来源** (2025-10-20) - **高信心**
+  - **框架**: 来源 vs 症状
+    - 来源 = 冲突发生的根本原因（根本原因）
+    - 症状 = 他们争论的表面话题
+  - **收入差异导致的权力不平衡**:
+    - 一个伴侣赚得明显更多 → 创造控制动态
+    - "我赚钱，我决定"导致怨恨
+    - 影响所有财务决策（不只是一个话题）
+    - CFP委员会确定的主要来源（56%男性，59%女性报告冲突）
+  - **其他来源**: 不同价值观、财务保密、来自童年的金钱脚本
+  - **话题（不是来源）**: 教育支出、风险承受能力、代际差异
+  - **CFP应用**: 解决根本原因，确保会议中平等声音
+  - **不在幻灯片中** - 在线研究
 
-**3. C.23 Life Insurance Types**
-- **Status**: Know beneficiary strategies, not types/features
-- **In slides**: Insurance slides pages 45-80
-- **Action**: Study term/whole/universal/variable details
+### 尚未学习 (4/6 主题)
 
-### 🟢 LOW SEVERITY (Quick fixes)
+- [ ] **H.65** 态度、价值观、偏差
+  - **在幻灯片中**: 仅简要提及
 
-**4. F.45 Social Security Early Filing Reduction %**
-- **Issue**: Thinks ~5%, actually 5/9 for first 3 years, 5/12 beyond
-- **Action**: Memorize formula (5 minutes)
+- [ ] **H.68** 咨询原则
+  - **不在幻灯片中** - 需要其他材料
 
-### ✅ RECENTLY RESOLVED
+- [ ] **H.69** 沟通
+  - **在幻灯片中**: 基础知识第30-35页（沟通技巧、动机性访谈）
 
-**5. F.45 Medicare Cost Calculations** (Resolved 2025-10-18)
-- **Previous status**: Medium severity - day ranges and cost-sharing confusion
-- **Resolution**: Comprehensive deep dive with online research
-- **Now**: HIGH confidence - all details mastered
+- [ ] **H.70** 危机事件
+  - **在幻灯片中**: 基础知识第55-60页（危机事件规划）
 
-**6. E.41 Section 1245 vs 1250 Confusion** (Resolved 2025-10-28)
-- **Previous status**: Student confused about when depreciation = ordinary income vs capital gain
-- **Resolution**: Clear distinction taught, student correctly identified tax code complexity
-- **Now**: HIGH confidence - knows 1245 = ordinary income (equipment), 1250 = 25% capital gain (buildings)
-
-**7. D.31 Capital Market Line Basics** (Resolved 2025-10-28)
-- **Previous status**: Zero knowledge, only knew "there's a line"
-- **Resolution**: Complete conceptual teaching with formula, visual, and example
-- **Now**: MEDIUM confidence - formula memorized, needs practice problems
-
-**8. E.38 C Corporation Distribution Mechanics** (Resolved 2025-10-28)
-- **Previous status**: Didn't understand E&P vs cash distinction or distribution ordering
-- **Resolution**: Waterfall rule mastered, excellent critical question asked by student
-- **Now**: HIGH confidence - perfect understanding of dividend → basis → capital gain ordering
-
-**9. F.48 Nondiscrimination Coverage Testing Direction** (Resolved 2025-10-29)
-- **Previous status**: Confused about who must be 70% of whom
-- **Resolution**: Clear explanation of NHCEs (protected) must be 70% of HCEs (advantaged)
-- **Now**: HIGH confidence - understands formula direction and fairness logic
-
-**10. F.45 Social Security Fully vs Currently Insured** (Resolved 2025-10-29)
-- **Previous status**: Didn't know these were two different statuses
-- **Resolution**: Fully (lifetime credits, Age-22) vs Currently (6 of 13 quarters, recent work)
-- **Now**: MEDIUM-HIGH confidence - understands difference, student noted "tricky" (accurate!)
+**优先级**: 低（考试7%） - 最后一周简要复习，补充其他材料
 
 ---
 
-## 18-Day Study Plan (October 19 - November 5)
+## 当前知识缺口（需要行动）
 
-### 🔴 URGENT - Days 1-6 (Oct 19-24)
+### 🔴 高严重性
 
-**Day 1-2**: E.38 Business Taxation (HIGHEST PRIORITY GAP)
-- Section 179 expensing ($1,220K for 2024, phase-out $3,050K)
-- MACRS depreciation
-- Study with FRESH mind, not when tired
+**1. E.38 企业税收** - Section 179、MACRS折旧
+- **状态**: 部分解决（2025-10-28, 2025-11-01）
+  - ✅ C公司分配 - 已掌握（2025-10-28）
+  - ✅ Section 1221 vs 1231财产 - 已掌握（2025-11-01）
+  - ❌ Section 179费用化 - 仍需要工作
+  - ❌ MACRS折旧 - 仍需要工作
+  - ❌ 季度中约定 - 仍需要工作
+- **影响**: 对税务规划至关重要（考试14%）
+- **在幻灯片中**: 税务幻灯片第135-145页
+- **行动**: 立即用新鲜头脑专门学习Section 179/MACRS
+- **识别日期**: 2025-10-11
+- **部分解决**:
+  - 2025-10-28: C公司分配已掌握
+  - 2025-11-01: Section 1221 vs 1231已掌握（资本资产定义和§1231特殊待遇）
 
-**Day 3-4**: F.49 Non-Qualified Plans (HIGHEST WEIGHTED DOMAIN)
-- Traditional IRA deductibility rules
-- Roth IRA phaseouts and ordering rules
-- SEP and SIMPLE plans
-- Stock options (ISOs vs NQSOs)
+### 🟡 中等严重性
 
-**Day 5-6**: G.57 Gift/Estate/GST Tax (FOUNDATION FOR ESTATE)
-- Annual exclusion $18K, lifetime $13.61M
-- Tax calculation: $1M = $345,800 + 40% over
-- Form 709, Form 706
-- GSTT basics
+**2. F.51 提前提取例外和72(t)**
+- **状态**: 基本解决（2025-11-01）
+  - ✅ 55规则 - 已掌握（2025-10-23）
+  - ✅ QDRO例外 - 已掌握（2025-10-23）
+  - ✅ IRA vs 401(k)例外差异 - 已掌握（2025-10-23）
+  - ✅ "HIDES"助记符 - 已掌握（2025-10-23）
+  - ✅ 困难提取和在职转入限制 - 已掌握（2025-11-01）
+  - ❌ 72(t) SEPP计算 - 仍需要工作
+- **在幻灯片中**: 退休幻灯片第85-95页
+- **行动**: 仅72(t) SEPP计算剩余（低考试优先级）
 
-### 🟡 HIGH PRIORITY - Days 7-12 (Oct 25-30)
+**3. C.23 人寿保险类型**
+- **状态**: 知道受益人策略，不知道类型/特征
+- **在幻灯片中**: 保险幻灯片第45-80页
+- **行动**: 学习定期/终身/万能/变额细节
 
-**Day 7-8**: B.7-B.11 General Principles (15% OF EXAM - WEAK AREA)
-- 7-step financial planning process
-- Financial statements
-- Ratios (Current, Emergency, Housing 28%, Debt 36%)
-- Business cycle (4 phases)
-- Monetary/Fiscal policy
+### 🟢 低严重性（快速修复）
 
-**Day 9-10**: D.30-D.32 Investment Quantitative & Valuation
-- Standard deviation, Beta, Sharpe/Treynor/Jensen
-- Duration and bond immunization
-- Dividend discount model
-- Asset allocation and CAPM
+**4. F.45 社会保障提前申请减少%**
+- **问题**: 认为~5%，实际前3年5/9，之后5/12
+- **行动**: 记忆公式（5分钟）
 
-**Day 11-12**: G.59-G.60 Trusts and Marital Deduction
-- GRAT, GRUT, QPRT, ILIT
-- Crummey provisions
-- QTIP trust requirements
-- Terminable interest rule
+### ✅ 最近解决
 
-### 🟢 MEDIUM PRIORITY - Days 13-15 (Oct 31 - Nov 2)
+**5. F.45 Medicare成本计算**（2025-10-18解决）
+- **先前状态**: 中等严重性 - 天数范围和成本分担混淆
+- **解决**: 在线研究的全面深入
+- **现在**: 高信心 - 所有细节已掌握
 
-**Day 13**: C.17, C.21, C.22 - Insurance Fundamentals
-- Risk management matrix
-- Long-term care (ADLs, tax deductions)
-- Annuities (types, taxation)
+**6. E.41 Section 1245 vs 1250混淆**（2025-10-28解决）
+- **先前状态**: 学生混淆何时折旧 = 普通收入 vs 资本收益
+- **解决**: 明确区别教学，学生正确识别税收代码复杂性
+- **现在**: 高信心 - 知道1245 = 普通收入（设备），1250 = 25%资本收益（建筑）
 
-**Day 14**: F.44, F.52 - Retirement Income Planning
-- Sustainable withdrawal rates (3-4%)
-- Withdrawal strategies
-- Capital preservation
+**7. D.31 资本市场线基础**（2025-10-28解决）
+- **先前状态**: 零知识，只知道"有一条线"
+- **解决**: 带公式、视觉和示例的完整概念教学
+- **现在**: 中等信心 - 公式已记忆，需要练习题
 
-**Day 15**: Complete remaining D topics
-- D.27 Investment vehicles
-- D.29 Market cycles (EMH)
-- D.33 IPS (RR TTLLU)
+**8. E.38 C公司分配机制**（2025-10-28解决）
+- **先前状态**: 不理解E&P vs 现金区别或分配排序
+- **解决**: 瀑布规则已掌握，学生问了优秀的关键问题
+- **现在**: 高信心 - 完美理解股息 → 基础 → 资本收益排序
 
-### ⚪ FINAL REVIEW - Days 16-18 (Nov 3-5)
+**9. F.48 非歧视覆盖测试方向**（2025-10-29解决）
+- **先前状态**: 混淆谁必须是谁的70%
+- **解决**: 明确解释NHCEs（受保护）必须是HCEs（优势）的70%
+- **现在**: 高信心 - 理解公式方向和公平逻辑
 
-**Day 16**: A.1-A.6 Professional Conduct (quick review)
-- 6 Principles of Code of Ethics
-- Fiduciary duties
+**10. F.45 社会保障完全 vs 当前保险**（2025-10-29解决）
+- **先前状态**: 不知道这是两种不同状态
+- **解决**: 完全（终身积分，年龄-22）vs 当前（13个季度中的6个，最近工作）
+- **现在**: 中等-高信心 - 理解区别，学生注意到"棘手"（准确！）
+
+---
+
+## 18天学习计划（10月19日 - 11月5日）
+
+### 🔴 紧急 - 第1-6天（10月19-24日）
+
+**第1-2天**: E.38 企业税收（最高优先级缺口）
+- Section 179费用化（2024年$1,220K，逐步取消$3,050K）
+- MACRS折旧
+- 用新鲜头脑学习，不要累的时候
+
+**第3-4天**: F.49 非合格计划（最高权重领域）
+- 传统IRA可扣除性规则
+- Roth IRA逐步取消和排序规则
+- SEP和SIMPLE计划
+- 股票期权（ISOs vs NQSOs）
+
+**第5-6天**: G.57 赠与/遗产/GST税收（遗产基础）
+- 年度排除$18K，终身$13.61M
+- 税收计算: $1M = $345,800 + 超过40%
+- Form 709、Form 706
+- GSTT基础
+
+### 🟡 高优先级 - 第7-12天（10月25-30日）
+
+**第7-8天**: B.7-B.11 一般原则（考试15% - 薄弱领域）
+- 7步财务规划流程
+- 财务报表
+- 比率（流动、应急、住房28%、债务36%）
+- 商业周期（4个阶段）
+- 货币/财政政策
+
+**第9-10天**: D.30-D.32 投资量化和估值
+- 标准差、Beta、Sharpe/Treynor/Jensen
+- 久期和债券免疫
+- 股息贴现模型
+- 资产配置和CAPM
+
+**第11-12天**: G.59-G.60 信托和婚姻扣除
+- GRAT、GRUT、QPRT、ILIT
+- Crummey条款
+- QTIP信托要求
+- 可终止利益规则
+
+### 🟢 中等优先级 - 第13-15天（10月31日 - 11月2日）
+
+**第13天**: C.17、C.21、C.22 - 保险基础
+- 风险管理矩阵
+- 长期护理（ADLs、税收扣除）
+- 年金（类型、税收）
+
+**第14天**: F.44、F.52 - 退休收入规划
+- 可持续提取率（3-4%）
+- 提取策略
+- 资本保全
+
+**第15天**: 完成剩余D主题
+- D.27 投资工具
+- D.29 市场周期（EMH）
+- D.33 IPS（RR TTLLU）
+
+### ⚪ 最终复习 - 第16-18天（11月3-5日）
+
+**第16天**: A.1-A.6 职业操守（快速复习）
+- 道德准则6项原则
+- 受托人责任
 - Form ADV
 
-**Day 17**: H.65-H.70 Psychology (brief review)
-- Behavioral finance
-- Communication techniques
-- Crisis planning
+**第17天**: H.65-H.70 心理学（简要复习）
+- 行为金融
+- 沟通技巧
+- 危机规划
 
-**Day 18**: FINAL REVIEW
-- Review all knowledge gaps
-- Practice problems from highest-weighted domains
-- Formulas to memorize:
-  - First $1M estate tax = $345,800
-  - Social Security reduction: 5/9 then 5/12
-  - RMD: Balance / Life expectancy factor
-  - All 2024 limits ($18K, $23K, $69K, $13.61M, etc.)
-
----
-
-## Study Materials Available
-
-### 2024 Dalton Review Slides (1,088 pages total)
-
-1. **Fundamentals** (90 pages)
-   - Professional Conduct A.1-A.6 ✓
-   - General Principles B.7-B.16 ✓
-
-2. **Retirement** (182 pages - MOST COMPREHENSIVE)
-   - Retirement Planning F.44-F.53 ✓
-   - All plan types, rules, distributions ✓
-
-3. **Tax** (150 pages)
-   - Tax Planning E.36-E.43 ✓
-   - Comprehensive coverage ✓
-
-4. **Investments** (188 pages)
-   - Investment Planning D.27-D.35 ✓
-   - Complete with formulas ✓
-
-5. **Insurance** (188 pages)
-   - Risk Management C.17-C.26 ✓
-   - All insurance types ✓
-
-6. **Estate** (200 pages)
-   - Estate Planning G.54-G.64 ✓
-   - Gift/estate/GST tax comprehensive ✓
-
-### Materials Needed
-
-⚠️ **Psychology of Financial Planning** (H.65-H.70)
-- Only minimal coverage in slides
-- Need to supplement for final week
+**第18天**: 最终复习
+- 复习所有知识缺口
+- 来自最高权重领域的练习题
+- 要记忆的公式:
+  - 前$1M遗产税 = $345,800
+  - 社会保障减少: 5/9然后5/12
+  - RMD: 余额 / 预期寿命因子
+  - 所有2024年限制（$18K、$23K、$69K、$13.61M等）
 
 ---
 
-## Key Formulas to Memorize
+## 可用学习材料
 
-### Investment Planning (D.31)
-- **Capital Market Line (CML)**: **E(Rp) = Rf + [(E(RM) - Rf) / σM] × σp**
-  - E(Rp) = Expected portfolio return
-  - Rf = Risk-free rate
-  - E(RM) = Expected market return
-  - σM = Market standard deviation
-  - σp = Portfolio standard deviation
-- **CML Slope** (Market price of risk): **(E(RM) - Rf) / σM**
+### 2024年 Dalton 复习幻灯片（总计1,088页）
 
-### Tax Planning (E.38, E.41)
+1. **基础知识**（90页）
+   - 职业操守 A.1-A.6 ✓
+   - 一般原则 B.7-B.16 ✓
 
-**C Corporation Distribution Waterfall:**
-1. Dividend income (up to E&P)
-2. Return of basis (tax-free)
-3. Capital gain (after basis exhausted)
+2. **退休**（182页 - 最全面）
+   - 退休规划 F.44-F.53 ✓
+   - 所有计划类型、规则、分配 ✓
 
-**Depreciation Recapture:**
-- **Section 1245** (Equipment): Ordinary income, all in Year 1
-- **Section 1250** (Buildings, straight-line): Capital gain at 25%, can defer with installment
+3. **税务**（150页）
+   - 税务规划 E.36-E.43 ✓
+   - 全面覆盖 ✓
 
-**Installment Sale:**
-- **Gross Profit %** = **(Sale Price - Adjusted Basis) ÷ Contract Price**
-- **Gain per payment** = Payment × Gross Profit %
+4. **投资**（188页）
+   - 投资规划 D.27-D.35 ✓
+   - 带公式完整 ✓
 
-### Estate & Gift Tax (NOT on formula sheet)
-- First $1 million tax = **$345,800**
-- Over $1 million = **40%**
-- 2024 Annual exclusion = **$18,000** ($36,000 split)
-- 2024 Lifetime exclusion = **$13,610,000**
-- 2024 Applicable credit = **$5,389,800**
+5. **保险**（188页）
+   - 风险管理 C.17-C.26 ✓
+   - 所有保险类型 ✓
 
-### Social Security
-- Early filing reduction: **5/9** for first 36 months, **5/12** beyond
-- Delayed credit: **8%/year** (born 1943+)
-- Earnings test 2024: **$22,320** ($1 for $2), **$59,520** FRA year ($1 for $3)
+6. **遗产**（200页）
+   - 遗产规划 G.54-G.64 ✓
+   - 赠与/遗产/GST税收全面 ✓
+
+### 需要的材料
+
+⚠️ **财务规划心理学**（H.65-H.70）
+- 幻灯片中仅最少覆盖
+- 需要补充最后一周
+
+---
+
+## 要记忆的关键公式
+
+### 投资规划 (D.31)
+- **资本市场线（CML）**: **E(Rp) = Rf + [(E(RM) - Rf) / σM] × σp**
+  - E(Rp) = 投资组合预期回报
+  - Rf = 无风险利率
+  - E(RM) = 预期市场回报
+  - σM = 市场标准差
+  - σp = 投资组合标准差
+- **CML斜率**（风险的市场价格）: **(E(RM) - Rf) / σM**
+
+### 税务规划 (E.38, E.41)
+
+**C公司分配瀑布:**
+1. 股息收入（最高到E&P）
+2. 基础返还（免税）
+3. 资本收益（基础耗尽后）
+
+**折旧收回:**
+- **Section 1245**（设备）: 普通收入，全部在第1年
+- **Section 1250**（建筑，直线法）: 25%资本收益，可以用分期付款递延
+
+**分期付款销售:**
+- **毛利率%** = **(销售价格 - 调整基础) ÷ 合同价格**
+- **每次付款收益** = 付款 × 毛利率%
+
+### 遗产和赠与税（不在公式表上）
+- 前$100万税收 = **$345,800**
+- 超过$100万 = **40%**
+- 2024年年度排除 = **$18,000**（分割$36,000）
+- 2024年终身排除 = **$13,610,000**
+- 2024年适用信用 = **$5,389,800**
+
+### 社会保障
+- 提前申请减少: 前36个月**5/9**，之后**5/12**
+- 延迟信用: **8%/年**（1943年后出生）
+- 2024年收入测试: **$22,320**（$1对$2），**$59,520** FRA年（$1对$3）
 
 ### Medicare 2024
-- Part A deductible: **$1,632** per benefit period
-- Days 61-90: **$408/day**
-- Days 91-150: **$816/day** (lifetime reserve)
-- SNF days 21-100: **$204/day**
-- Part B premium: **$174.70/month**
-- Part B deductible: **$240/year**
+- Part A免赔额: **$1,632**每个福利期
+- 第61-90天: **$408/天**
+- 第91-150天: **$816/天**（终身储备）
+- SNF第21-100天: **$204/天**
+- Part B保费: **$174.70/月**
+- Part B免赔额: **$240/年**
 
-### Retirement 2024
-- 401(k) deferral: **$23,000** (+$7,500 catch-up)
-- IRA contribution: **$7,000** (+$1,000 catch-up)
-- DC max: **$69,000** ($76,500 with catch-up)
-- DB max benefit: **$275,000**
-- Covered compensation: **$345,000**
-- SIMPLE: **$16,000** (+$3,500 catch-up)
+### 退休 2024
+- 401(k)递延: **$23,000**（+$7,500补缴）
+- IRA供款: **$7,000**（+$1,000补缴）
+- DC最高: **$69,000**（补缴$76,500）
+- DB最高福利: **$275,000**
+- 覆盖补偿: **$345,000**
+- SIMPLE: **$16,000**（+$3,500补缴）
 
-### Education 2024
-- 529A ABLE: **$18,000/year**
-- Coverdell: **$2,000/year**
-- AOTC: **$2,500/student** (100% of $2K + 25% of $2K)
-- LLC: **$2,000/family** (20% of $10K)
-- Student loan interest: **$2,500/year** deduction
-
----
-
-## Strengths to Leverage
-
-✅ **Retirement Planning** - 100% covered, highest-weighted domain (18%) - COMPLETE!
-✅ **Investment Planning** - 100% covered, second-highest domain (17%) - COMPLETE!
-✅ **Tax Planning** - 100% covered, strong calculation skills (14%) - COMPLETE!
-✅ **Insurance** - 100% covered (11%) - COMPLETE!
-✅ **1031 Exchanges** - Perfect understanding, can teach others
-✅ **Medicare** - Comprehensive knowledge after deep dive
-✅ **Quick learner** - Masters calculations once formula understood
-✅ **Strong retention** - Demonstrates across multiple sessions
-✅ **Self-awareness** - Knows when tired, asks for breaks
-✅ **EXCEPTIONAL critical thinking** - Identifies question flaws and imprecise terminology (Oct 29)
-✅ **Professional judgment** - Recognizes CFP should test real-world communication (Oct 29)
-✅ **Excellent analogies** - Creates powerful examples to illustrate points (Oct 29)
+### 教育 2024
+- 529A ABLE: **$18,000/年**
+- Coverdell: **$2,000/年**
+- AOTC: **$2,500/学生**（前$2K的100% + 后$2K的25%）
+- LLC: **$2,000/家庭**（前$10K的20%）
+- 学生贷款利息: **$2,500/年**扣除
 
 ---
 
-## Daily Study Approach
+## 要利用的优势
 
-1. **Morning (Fresh Mind)**: Hardest topics (Business tax, quantitative concepts)
-2. **Afternoon**: Medium difficulty (Memorization, formulas)
-3. **Evening**: Review and practice problems
-4. **Before Bed**: Quick review of day's formulas
-
-**Key Rules**:
-- ⚠️ Don't study business taxation when tired!
-- ✓ Take breaks every 90 minutes
-- ✓ Practice problems after learning each concept
-- ✓ Review previous day's material each morning
-- ✓ Use slides' exam tips and practice questions
+✅ **退休规划** - 100%覆盖，最高权重领域（18%） - 完成！
+✅ **投资规划** - 100%覆盖，第二高领域（17%） - 完成！
+✅ **税务规划** - 100%覆盖，强计算技能（14%） - 完成！
+✅ **保险** - 100%覆盖（11%） - 完成！
+✅ **1031交换** - 完美理解，可以教别人
+✅ **Medicare** - 深入后的全面知识
+✅ **快速学习者** - 一旦理解公式就掌握计算
+✅ **强保留** - 在多个会话中展示
+✅ **自我意识** - 知道何时累，要求休息
+✅ **卓越的批判性思维** - 识别问题缺陷和不精确术语（10月29日）
+✅ **专业判断** - 认识到CFP应该测试现实世界沟通（10月29日）
+✅ **优秀类比** - 创建强大示例来说明观点（10月29日）
 
 ---
 
-**Next Update**: After each study session, update mastered topics and adjust plan
+## 每日学习方法
+
+1. **早晨（新鲜头脑）**: 最困难主题（企业税收、量化概念）
+2. **下午**: 中等难度（记忆、公式）
+3. **晚上**: 复习和练习题
+4. **睡前**: 快速复习当天的公式
+
+**关键规则**:
+- ⚠️ 累的时候不要学习企业税收！
+- ✓ 每90分钟休息一次
+- ✓ 学习每个概念后做练习题
+- ✓ 每天早上复习前一天的材料
+- ✓ 使用幻灯片的考试提示和练习题
+
+---
+
+**下次更新**: 每次学习会话后，更新已掌握主题并调整计划
