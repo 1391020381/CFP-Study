@@ -1,65 +1,65 @@
-# Session Notes - [DATE]
+# 学习会话笔记 - [日期]
 
-## Session Overview
-- **Date**: [YYYY-MM-DD]
-- **Duration**: [Approximate time spent]
-- **Main Topics**: [Brief list]
-
----
-
-## Questions Asked
-
-### Question 1: [Topic]
-**Student's Question**: [Exact question or topic requested]
-
-**Initial Understanding**: [What student knew before explanation]
-
-**Explanation Given**: [Summary of concept explained]
-
-**Comprehension Check**:
-- Question asked: [Verification question posed]
-- Student's response: [How they answered]
-- Understanding level: [Strong/Partial/Needs more work]
-
-**Follow-up**: [Additional clarifications or next steps]
+## 会话概览
+- **日期**: [YYYY-MM-DD]
+- **时长**: [大约花费的时间]
+- **主要主题**: [简要列表]
 
 ---
 
-### Question 2: [Topic]
-[Same structure as above]
+## 提出的问题
+
+### 问题 1: [主题]
+**学生的问题**: [确切的问题或请求的主题]
+
+**初始理解**: [解释前学生知道的内容]
+
+**给出的解释**: [解释的概念摘要]
+
+**理解检查**:
+- 提出的问题: [验证问题]
+- 学生的回答: [他们如何回答]
+- 理解水平: [强/部分/需要更多工作]
+
+**后续**: [额外的澄清或下一步]
 
 ---
 
-## Knowledge Gaps Identified
+### 问题 2: [主题]
+[与上面相同的结构]
 
-| Topic | Severity | Notes |
+---
+
+## 识别的知识缺口
+
+| 主题 | 严重性 | 备注 |
 |-------|----------|-------|
-| [Topic name] | High/Med/Low | [What was challenging] |
+| [主题名称] | 高/中/低 | [具有挑战性的内容] |
 
 ---
 
-## Topics Mastered Today
+## 今天掌握的主题
 
-| Topic | Confidence | Notes |
+| 主题 | 信心 | 备注 |
 |-------|------------|-------|
-| [Topic name] | High/Med | [What they understood well] |
+| [主题名称] | 高/中 | [他们理解良好的内容] |
 
 ---
 
-## Key Concepts Covered
+## 涵盖的关键概念
 
-- **[Concept 1]**: [Brief note]
-- **[Concept 2]**: [Brief note]
-
----
-
-## Action Items for Next Session
-
-- [ ] Review: [Topics that need follow-up]
-- [ ] Practice: [Areas needing more examples]
-- [ ] Explore: [New related topics to cover]
+- **[概念 1]**: [简要说明]
+- **[概念 2]**: [简要说明]
 
 ---
 
-## Notes
-[Any additional observations about learning style, common mistakes, areas of strength, etc.]
+## 下次会话的行动项目
+
+- [ ] 复习: [需要跟进的主题]
+- [ ] 练习: [需要更多示例的领域]
+- [ ] 探索: [要涵盖的新相关主题]
+
+---
+
+## 备注
+[关于学习风格、常见错误、优势领域等的任何额外观察]
