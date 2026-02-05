@@ -197,4 +197,3 @@ CFA 考试是一项具有挑战性的专业认证。使用 Claude Code 作为我
 
 如果你正在准备 CFA 考试或任何专业认证，我希望这个仓库能够激励你在学习旅程中利用 AI 工具。
 
-**与我联系**: [linkedin.com/in/chenran818](https://linkedin.com/in/chenran818)
